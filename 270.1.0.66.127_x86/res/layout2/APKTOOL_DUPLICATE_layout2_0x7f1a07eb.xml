@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600a3"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.60x android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1405" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="12.0dip" android:scaleType="centerCrop" android:layout_marginStart="12.0dip" app:roundedCornerRadius="18.0dip" app:roundingBorderWidth="0.0dip" xmlns:app="http://schemas.android.com/apk/res-auto" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1403" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip">
+        <X.1N1 android:textSize="16.0sp" android:textStyle="bold" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403dd" android:ellipsize="end" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1404" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+        <X.1N1 android:textSize="14.0sp" android:textStyle="normal" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403c9" android:ellipsize="end" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1402" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:maxLines="1" />
+    </LinearLayout>
+</LinearLayout>

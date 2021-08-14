@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07ad" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.4EZ android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07aa" android:contentDescription="@null" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0135" />
+    <X.4EZ android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07ab" android:contentDescription="@null" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0135" />
+    <X.4EZ android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07a9" android:contentDescription="@null" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0135" />
+</LinearLayout>

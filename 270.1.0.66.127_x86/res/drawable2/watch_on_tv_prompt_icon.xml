@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060204" />
+            <size android:height="32.0dip" android:width="32.0dip" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/fb_ic_google_cast_filled_16" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+    </item>
+</layer-list>

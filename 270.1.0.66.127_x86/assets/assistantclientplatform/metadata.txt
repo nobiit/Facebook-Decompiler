@@ -1,0 +1,5 @@
+.id assistantclientplatform
+.requires dex
+.requires shared0
+.locator_id 3
+assistantclientplatform2.dex de3fa444e3a5072f3f1e04f7273302c26e1acfa3 store779c.dex01.Canary

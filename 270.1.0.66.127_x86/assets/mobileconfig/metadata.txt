@@ -1,0 +1,4 @@
+.id mobileconfig
+.requires dex
+.locator_id 25
+mobileconfig2.dex aca4e503d3bb5298fe96b485a69f1a0059c29f8f store9264.dex01.Canary

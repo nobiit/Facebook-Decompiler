@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="(name removed)">24.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070001">80.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070002">64.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070003">8.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070005">580.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070030">0.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070031">2.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070032">24.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070033">576.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070034">320.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUPLICATE_dimen_0x7f070035">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160028</item>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070036">160.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUPLICATE_dimen_0x7f07005e">60.000004%</item>
+    <item type="dimen" name="APKTOOL_DUPLICATE_dimen_0x7f07005f">90.0%</item>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f070065">520.0dip</dimen>
+    <dimen name="APKTOOL_DUPLICATE_dimen_0x7f07006f">150.0dip</dimen>
+</resources>

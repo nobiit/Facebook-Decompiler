@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:keyHeight="7.0000052%p" android:verticalGap="0.49999952%p"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row android:keyWidth="10.000002%p">
+        <Key android:keyEdgeFlags="left" android:keyLabel="೧" />
+        <Key android:keyLabel="೨" />
+        <Key android:keyLabel="೩" />
+        <Key android:keyLabel="೪" />
+        <Key android:keyLabel="೫" />
+        <Key android:keyLabel="೬" />
+        <Key android:keyLabel="೭" />
+        <Key android:keyLabel="೮" />
+        <Key android:keyLabel="೯" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="೦" />
+    </Row>
+    <Row android:keyWidth="10.000002%p">
+        <Key android:keyEdgeFlags="left" android:keyLabel="ಠ" />
+        <Key android:keyLabel="ಢ" />
+        <Key android:keyLabel="ೇ" />
+        <Key android:keyLabel="ೃ" />
+        <Key android:keyLabel="ಥ" />
+        <Key android:keyLabel="ೈ" />
+        <Key android:keyLabel="ೂ" />
+        <Key android:keyLabel="ೀ" />
+        <Key android:keyLabel="ೋ" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="ಫ" />
+    </Row>
+    <Row android:keyWidth="10.000002%p">
+        <Key android:horizontalGap="4.999995%p" android:keyEdgeFlags="left" android:keyLabel="ಆ" />
+        <Key android:keyLabel="ಶ" />
+        <Key android:keyLabel="ಧ" />
+        <Key android:keyLabel="ೄ" />
+        <Key android:keyLabel="ಘ" />
+        <Key android:keyLabel="ಃ" />
+        <Key android:keyLabel="ಝ" />
+        <Key android:keyLabel="ಖ" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="ಳ" />
+    </Row>
+    <Row android:keyWidth="10.000002%p">
+        <Key android:keyWidth="14.999998%p" android:codes="-1" android:keyEdgeFlags="left" android:keyIcon="@drawable4/ic_keyboard_shift" />
+        <Key android:keyLabel="ಙ" />
+        <Key android:keyLabel="಼" />
+        <Key android:keyLabel="ಛ" />
+        <Key android:keyLabel="ೌ" />
+        <Key android:keyLabel="ಭ" />
+        <Key android:keyLabel="ಣ" />
+        <Key android:keyLabel="ಂ" />
+        <Key android:keyWidth="14.999998%p" android:codes="-2" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable4/ic_keyboard_backspace" />
+    </Row>
+    <Row>
+        <Key android:keyWidth="12.5%p" android:keyEdgeFlags="left" android:keyLabel="," />
+        <Key android:keyWidth="12.5%p" android:keyLabel="." />
+        <Key android:keyWidth="50.0%p" android:codes="32" android:isRepeatable="true" />
+        <Key android:keyWidth="12.5%p" android:keyLabel="|" />
+        <Key android:keyWidth="12.5%p" android:codes="-3" android:keyEdgeFlags="right" android:keyIcon="@drawable4/ic_keyboard_return" />
+    </Row>
+</Keyboard>

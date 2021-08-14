@@ -1,0 +1,191 @@
+.class public final LX/Avu;
+.super LX/0lp;
+.source ""
+
+
+# annotations
+.annotation runtime Lcom/facebook/inject/InjectorModule;
+.end annotation
+
+
+# static fields
+.field public static A00:LX/10H;
+
+.field public static final A01:Ljava/lang/Object;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    new-instance v0, Ljava/lang/Object;
+
+    .line 1
+    .line 2
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    sput-object v0, LX/Avu;->A01:Ljava/lang/Object;
+
+    .line 6
+    .line 7
+    return-void
+.end method
+
+.method public static final A00(LX/0kw;)Ljava/lang/String;
+    .locals 3
+
+    .line 0
+    sget-object v2, LX/Avu;->A01:Ljava/lang/Object;
+
+    .line 1
+    .line 2
+    monitor-enter v2
+
+    .line 3
+    :try_start_0
+    sget-object v0, LX/Avu;->A00:LX/10H;
+
+    .line 4
+    .line 5
+    invoke-static {v0}, LX/10H;->A00(LX/10H;)LX/10H;
+
+    .line 6
+    .line 7
+    .line 8
+    move-result-object v0
+
+    .line 9
+    sput-object v0, LX/Avu;->A00:LX/10H;
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_1
+
+    .line 10
+    .line 11
+    :try_start_1
+    invoke-virtual {v0, p0}, LX/10H;->A03(LX/0kw;)Z
+
+    .line 12
+    .line 13
+    .line 14
+    move-result v0
+
+    .line 15
+    if-eqz v0, :cond_0
+
+    .line 16
+    .line 17
+    sget-object v0, LX/Avu;->A00:LX/10H;
+
+    .line 18
+    .line 19
+    invoke-virtual {v0}, LX/10H;->A01()LX/0l2;
+
+    .line 20
+    .line 21
+    .line 22
+    move-result-object v0
+
+    .line 23
+    check-cast v0, LX/0kw;
+
+    .line 24
+    .line 25
+    sget-object v1, LX/Avu;->A00:LX/10H;
+
+    .line 26
+    .line 27
+    invoke-static {v0}, LX/0qe;->A01(LX/0kw;)Ljava/lang/String;
+
+    .line 28
+    .line 29
+    .line 30
+    move-result-object v0
+
+    .line 31
+    if-eqz v0, :cond_1
+
+    .line 32
+    .line 33
+    invoke-static {v0}, LX/0DK;->A01(Ljava/lang/String;)Ljava/lang/String;
+
+    .line 34
+    .line 35
+    .line 36
+    move-result-object v0
+
+    .line 37
+    :goto_0
+    iput-object v0, v1, LX/10H;->A00:Ljava/lang/Object;
+
+    .line 38
+    .line 39
+    :cond_0
+    sget-object v1, LX/Avu;->A00:LX/10H;
+
+    .line 40
+    .line 41
+    iget-object v0, v1, LX/10H;->A00:Ljava/lang/Object;
+
+    .line 42
+    .line 43
+    check-cast v0, Ljava/lang/String;
+
+    .line 44
+    .line 45
+    goto :goto_1
+
+    .line 46
+    :cond_1
+    const/4 v0, 0x0
+
+    .line 47
+    goto :goto_0
+    :try_end_1
+    .catchall {:try_start_1 .. :try_end_1} :catchall_0
+
+    .line 48
+    :goto_1
+    :try_start_2
+    invoke-virtual {v1}, LX/10H;->A02()V
+
+    .line 49
+    .line 50
+    .line 51
+    monitor-exit v2
+
+    .line 52
+    return-object v0
+
+    .line 53
+    :catchall_0
+    move-exception v1
+
+    .line 54
+    sget-object v0, LX/Avu;->A00:LX/10H;
+
+    .line 55
+    .line 56
+    invoke-virtual {v0}, LX/10H;->A02()V
+
+    .line 57
+    .line 58
+    .line 59
+    throw v1
+
+    .line 60
+    :catchall_1
+    move-exception v0
+
+    .line 61
+    monitor-exit v2
+    :try_end_2
+    .catchall {:try_start_2 .. :try_end_2} :catchall_1
+
+    .line 62
+    throw v0
+    .line 63
+.end method

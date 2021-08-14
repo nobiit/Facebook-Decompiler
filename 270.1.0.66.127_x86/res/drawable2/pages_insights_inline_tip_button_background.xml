@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="@dimen2/(name removed)" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+            <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160023" android:color="@color/APKTOOL_DUPLICATE_color_0x7f0602a4" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape>
+            <corners android:radius="@dimen2/(name removed)" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+            <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160023" android:color="@color/APKTOOL_DUPLICATE_color_0x7f0602a9" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <corners android:radius="@dimen2/(name removed)" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+            <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160023" android:color="@color/APKTOOL_DUPLICATE_color_0x7f0602a4" />
+        </shape>
+    </item>
+</selector>

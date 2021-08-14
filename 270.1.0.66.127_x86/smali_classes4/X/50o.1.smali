@@ -1,0 +1,46 @@
+.class public final LX/50o;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/50p;
+
+
+# instance fields
+.field public final synthetic A00:LX/3gD;
+
+
+# direct methods
+.method public constructor <init>(LX/3gD;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/50o;->A00:LX/3gD;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final Cpn(Lcom/facebook/video/engine/api/VideoPlayerParams;)V
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/50o;->A00:LX/3gD;
+
+    .line 1
+    .line 2
+    invoke-interface {v0, p1}, LX/3gD;->DE5(Lcom/facebook/video/engine/api/VideoPlayerParams;)V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method

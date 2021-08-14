@@ -1,0 +1,39 @@
+.class public final LX/NGm;
+.super LX/5Ew;
+.source ""
+
+
+# instance fields
+.field public final A00:Lcom/facebook/media/model/features/MediaModelWithFeatures;
+
+
+# direct methods
+.method public constructor <init>(LX/5F0;Lcom/facebook/media/model/features/MediaModelWithFeatures;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, LX/5Ew;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {p1}, Lcom/google/common/base/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 4
+    .line 5
+    .line 6
+    invoke-static {p2}, Lcom/google/common/base/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 7
+    .line 8
+    .line 9
+    iput-object p2, p0, LX/NGm;->A00:Lcom/facebook/media/model/features/MediaModelWithFeatures;
+
+    .line 10
+    .line 11
+    return-void
+    .line 12
+    .line 13
+    .line 14
+    .line 15
+.end method

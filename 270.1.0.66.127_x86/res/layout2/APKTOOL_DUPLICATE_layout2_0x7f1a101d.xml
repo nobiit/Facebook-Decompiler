@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.1FY android:layout_gravity="bottom|center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2ae2" android:paddingLeft="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" android:paddingTop="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" android:paddingRight="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" android:paddingBottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <X.2R2 android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a297e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fb_ic_chevron_up_circle_filled_24" app:glyphColor="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1e7e" android:visibility="gone" android:layout_width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160049" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160049" android:max="100" android:progress="0" android:indeterminate="false" android:progressDrawable="@drawable2/progress_bar_circular" style="?android:progressBarStyleHorizontal" />
+</X.1FY>

@@ -1,0 +1,285 @@
+.class public final LX/Fp1;
+.super LX/1vr;
+.source ""
+
+# interfaces
+.implements Lcom/facebook/common/callercontext/CallerContextable;
+
+
+# annotations
+.annotation runtime Lcom/facebook/inject/ContextScoped;
+.end annotation
+
+
+# static fields
+.field public static A00:LX/0qo; = null
+
+.field public static final A01:Lcom/facebook/common/callercontext/CallerContext;
+
+.field public static final __redex_internal_original_name:Ljava/lang/String; = "com.facebook.reaction.feed.unitcomponents.subpart.ReactionUriIconPartDefinition"
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 2
+
+    .line 0
+    const-class v1, LX/Fp1;
+
+    .line 1
+    .line 2
+    const-string v0, "reaction_dialog"
+
+    .line 3
+    .line 4
+    invoke-static {v1, v0}, Lcom/facebook/common/callercontext/CallerContext;->A07(Ljava/lang/Class;Ljava/lang/String;)Lcom/facebook/common/callercontext/CallerContext;
+
+    .line 5
+    .line 6
+    .line 7
+    move-result-object v0
+
+    .line 8
+    sput-object v0, LX/Fp1;->A01:Lcom/facebook/common/callercontext/CallerContext;
+
+    .line 9
+    .line 10
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, LX/1vr;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+.method public static final A00(LX/0kw;)LX/Fp1;
+    .locals 3
+
+    .line 0
+    const-class v2, LX/Fp1;
+
+    .line 1
+    .line 2
+    monitor-enter v2
+
+    .line 3
+    :try_start_0
+    sget-object v0, LX/Fp1;->A00:LX/0qo;
+
+    .line 4
+    .line 5
+    invoke-static {v0}, LX/0qo;->A00(LX/0qo;)LX/0qo;
+
+    .line 6
+    .line 7
+    .line 8
+    move-result-object v0
+
+    .line 9
+    sput-object v0, LX/Fp1;->A00:LX/0qo;
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_1
+
+    .line 10
+    .line 11
+    :try_start_1
+    invoke-virtual {v0, p0}, LX/0qo;->A03(LX/0kw;)Z
+
+    .line 12
+    .line 13
+    .line 14
+    move-result v0
+
+    .line 15
+    if-eqz v0, :cond_0
+
+    .line 16
+    .line 17
+    sget-object v0, LX/Fp1;->A00:LX/0qo;
+
+    .line 18
+    .line 19
+    invoke-virtual {v0}, LX/0qo;->A01()LX/0l2;
+
+    .line 20
+    .line 21
+    .line 22
+    sget-object v1, LX/Fp1;->A00:LX/0qo;
+
+    .line 23
+    .line 24
+    new-instance v0, LX/Fp1;
+
+    .line 25
+    .line 26
+    invoke-direct {v0}, LX/Fp1;-><init>()V
+
+    .line 27
+    .line 28
+    .line 29
+    iput-object v0, v1, LX/0qo;->A00:Ljava/lang/Object;
+
+    .line 30
+    .line 31
+    :cond_0
+    sget-object v1, LX/Fp1;->A00:LX/0qo;
+
+    .line 32
+    .line 33
+    iget-object v0, v1, LX/0qo;->A00:Ljava/lang/Object;
+
+    .line 34
+    .line 35
+    check-cast v0, LX/Fp1;
+    :try_end_1
+    .catchall {:try_start_1 .. :try_end_1} :catchall_0
+
+    .line 36
+    .line 37
+    :try_start_2
+    invoke-virtual {v1}, LX/0qo;->A02()V
+
+    .line 38
+    .line 39
+    .line 40
+    monitor-exit v2
+
+    .line 41
+    return-object v0
+
+    .line 42
+    :catchall_0
+    move-exception v1
+
+    .line 43
+    sget-object v0, LX/Fp1;->A00:LX/0qo;
+
+    .line 44
+    .line 45
+    invoke-virtual {v0}, LX/0qo;->A02()V
+
+    .line 46
+    .line 47
+    .line 48
+    throw v1
+
+    .line 49
+    :catchall_1
+    move-exception v0
+
+    .line 50
+    monitor-exit v2
+    :try_end_2
+    .catchall {:try_start_2 .. :try_end_2} :catchall_1
+
+    .line 51
+    throw v0
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic AWm(Ljava/lang/Object;Ljava/lang/Object;LX/1lI;Landroid/view/View;)V
+    .locals 3
+
+    .line 0
+    const v0, -0x193df985
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A03(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v2
+
+    .line 7
+    check-cast p1, Ljava/lang/String;
+
+    .line 8
+    .line 9
+    check-cast p4, LX/1KX;
+
+    .line 10
+    .line 11
+    if-eqz p1, :cond_0
+
+    .line 12
+    .line 13
+    const/4 v0, 0x0
+
+    .line 14
+    invoke-virtual {p4, v0}, Landroid/view/View;->setVisibility(I)V
+
+    .line 15
+    .line 16
+    .line 17
+    invoke-static {p1}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
+
+    .line 18
+    .line 19
+    .line 20
+    move-result-object v1
+
+    .line 21
+    sget-object v0, LX/Fp1;->A01:Lcom/facebook/common/callercontext/CallerContext;
+
+    .line 22
+    .line 23
+    invoke-virtual {p4, v1, v0}, LX/1KX;->A0B(Landroid/net/Uri;Lcom/facebook/common/callercontext/CallerContext;)V
+
+    .line 24
+    .line 25
+    .line 26
+    :goto_0
+    const v0, 0x374894bc
+
+    .line 27
+    .line 28
+    .line 29
+    invoke-static {v0, v2}, LX/05B;->A09(II)V
+
+    .line 30
+    .line 31
+    .line 32
+    return-void
+
+    .line 33
+    :cond_0
+    const/16 v0, 0x8
+
+    .line 34
+    .line 35
+    invoke-virtual {p4, v0}, Landroid/view/View;->setVisibility(I)V
+
+    .line 36
+    .line 37
+    .line 38
+    goto :goto_0
+    .line 39
+    .line 40
+    .line 41
+    .line 42
+    .line 43
+    .line 44
+    .line 45
+    .line 46
+    .line 47
+    .line 48
+    .line 49
+    .line 50
+    .line 51
+    .line 52
+    .line 53
+    .line 54
+    .line 55
+    .line 56
+.end method

@@ -1,0 +1,4 @@
+.id eventsguestlist
+.requires dex
+.locator_id 10
+eventsguestlist2.dex dd08084ec176ab453bd8f4d18dc5defef4fb22be store7d7d.dex01.Canary

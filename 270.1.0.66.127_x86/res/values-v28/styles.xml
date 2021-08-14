@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="(name removed)" parent="@style/APKTOOL_DUPLICATE_style_0x7f130005" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000d">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160037</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f0600ad</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160035</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000e">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160057</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f0600ad</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600f5</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000f">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16002b</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f060220</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130010">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160037</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f060224</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130011">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160037</item>
+        <item name="android:textColor">?APKTOOL_DUPLICATE_attr_0x7f0403dd</item>
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:fontFamily">roboto-medium</item>
+        <item name="android:layout_marginStart">10.0dip</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130012">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16002b</item>
+        <item name="android:textColor">?APKTOOL_DUPLICATE_attr_0x7f0403fa</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+        <item name="android:layout_marginRight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+        <item name="android:layout_marginBottom">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+        <item name="android:fontFamily">Roboto-Regular</item>
+        <item name="android:layout_marginStart">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+        <item name="android:layout_marginEnd">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+        <item name="android:lineHeight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130013" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0478">
+        <item name="android:windowLayoutInDisplayCutoutMode">default</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130005" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0090">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040260">?android:dialogCornerRadius</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+.id assistant
+.requires dex
+.requires shared0
+.requires shared1
+.locator_id 2
+assistant2.dex 7a31c0340585444701d57268e1896856e88ab8bb store72de.dex01.Canary

@@ -1,0 +1,63 @@
+.class public final LX/F5O;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/2TW;
+
+
+# instance fields
+.field public final synthetic A00:Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;
+
+
+# direct methods
+.method public constructor <init>(Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/F5O;->A00:Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final C2e(Landroid/view/View;)V
+    .locals 2
+
+    .line 0
+    iget-object v1, p0, LX/F5O;->A00:Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;
+
+    .line 1
+    .line 2
+    iget-boolean v0, v1, Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;->A04:Z
+
+    .line 3
+    .line 4
+    if-eqz v0, :cond_0
+
+    .line 5
+    .line 6
+    invoke-static {v1}, Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;->A01(Lcom/facebook/facecast/livingroom/prepopulation/LivingRoomPrePopActivity;)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+
+    .line 10
+    :cond_0
+    invoke-virtual {v1}, Landroid/app/Activity;->onBackPressed()V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method

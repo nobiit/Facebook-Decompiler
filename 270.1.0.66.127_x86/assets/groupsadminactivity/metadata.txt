@@ -1,0 +1,4 @@
+.id groupsadminactivity
+.requires dex
+.locator_id 13
+groupsadminactivity2.dex 79b0d6d3d2dd5c5b9c80a56e38d65d7d33c37a19 storef60a.dex01.Canary

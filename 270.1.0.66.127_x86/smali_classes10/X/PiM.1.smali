@@ -1,0 +1,296 @@
+.class public final LX/PiM;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/5Mi;
+
+
+# instance fields
+.field public final synthetic A00:LX/1GX;
+
+.field public final synthetic A01:LX/5U2;
+
+.field public final synthetic A02:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>(LX/5U2;LX/1GX;Ljava/lang/String;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/PiM;->A01:LX/5U2;
+
+    .line 1
+    .line 2
+    iput-object p2, p0, LX/PiM;->A00:LX/1GX;
+
+    .line 3
+    .line 4
+    iput-object p3, p0, LX/PiM;->A02:Ljava/lang/String;
+
+    .line 5
+    .line 6
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onFailure(Ljava/lang/Exception;)V
+    .locals 7
+
+    .line 0
+    instance-of v0, p1, Lcom/facebook/tigon/TigonErrorException;
+
+    .line 1
+    .line 2
+    if-eqz v0, :cond_2
+
+    .line 3
+    .line 4
+    move-object v0, p1
+
+    .line 5
+    check-cast v0, Lcom/facebook/tigon/TigonErrorException;
+
+    .line 6
+    .line 7
+    iget-object v3, v0, Lcom/facebook/tigon/TigonErrorException;->tigonError:Lcom/facebook/tigon/TigonError;
+
+    .line 8
+    .line 9
+    iget v0, v3, Lcom/facebook/tigon/TigonError;->mCategory:I
+
+    .line 10
+    .line 11
+    if-eqz v0, :cond_0
+
+    .line 12
+    .line 13
+    iget-object v1, v3, Lcom/facebook/tigon/TigonError;->mErrorDomain:Ljava/lang/String;
+
+    .line 14
+    .line 15
+    const-string v0, "ConnectionStackPlugins"
+
+    .line 16
+    .line 17
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    .line 18
+    .line 19
+    .line 20
+    move-result v1
+
+    .line 21
+    const/4 v0, 0x1
+
+    .line 22
+    if-nez v1, :cond_1
+
+    .line 23
+    .line 24
+    :cond_0
+    const/4 v0, 0x0
+
+    .line 25
+    :cond_1
+    if-eqz v0, :cond_2
+
+    .line 26
+    .line 27
+    const/4 v2, 0x0
+
+    .line 28
+    const/16 v1, 0x2029
+
+    .line 29
+    .line 30
+    iget-object v0, p0, LX/PiM;->A01:LX/5U2;
+
+    .line 31
+    .line 32
+    iget-object v0, v0, LX/5U2;->A00:LX/0li;
+
+    .line 33
+    .line 34
+    invoke-static {v2, v1, v0}, LX/0kv;->A06(IILX/0li;)Ljava/lang/Object;
+
+    .line 35
+    .line 36
+    .line 37
+    move-result-object v2
+
+    .line 38
+    check-cast v2, LX/0AO;
+
+    .line 39
+    .line 40
+    const-string v1, "Transcient error from GraphQL service with code "
+
+    .line 41
+    .line 42
+    iget v0, v3, Lcom/facebook/tigon/TigonError;->mDomainErrorCode:I
+
+    .line 43
+    .line 44
+    invoke-static {v1, v0}, LX/00f;->A09(Ljava/lang/String;I)Ljava/lang/String;
+
+    .line 45
+    .line 46
+    .line 47
+    move-result-object v1
+
+    .line 48
+    const-string v0, "DualDirectionalPaginationController"
+
+    .line 49
+    .line 50
+    invoke-static {v0, v1}, LX/0AY;->A02(Ljava/lang/String;Ljava/lang/String;)LX/0Bm;
+
+    .line 51
+    .line 52
+    .line 53
+    move-result-object v0
+
+    .line 54
+    iput-object p1, v0, LX/0Bm;->A03:Ljava/lang/Throwable;
+
+    .line 55
+    .line 56
+    invoke-virtual {v0}, LX/0Bm;->A00()LX/0AY;
+
+    .line 57
+    .line 58
+    .line 59
+    move-result-object v0
+
+    .line 60
+    invoke-interface {v2, v0}, LX/0AO;->DOI(LX/0AY;)V
+
+    .line 61
+    .line 62
+    .line 63
+    :cond_2
+    iget-object v0, p0, LX/PiM;->A00:LX/1GX;
+
+    .line 64
+    .line 65
+    invoke-static {v0}, LX/4d4;->A0E(LX/1GX;)LX/1Hh;
+
+    .line 66
+    .line 67
+    .line 68
+    move-result-object v0
+
+    .line 69
+    iget-object v1, p0, LX/PiM;->A01:LX/5U2;
+
+    .line 70
+    .line 71
+    iget-object v2, p0, LX/PiM;->A00:LX/1GX;
+
+    .line 72
+    .line 73
+    const/4 v3, 0x0
+
+    .line 74
+    iget-object v4, p0, LX/PiM;->A02:Ljava/lang/String;
+
+    .line 75
+    .line 76
+    if-nez v0, :cond_3
+
+    .line 77
+    .line 78
+    sget-object v5, LX/5UA;->A02:LX/5UA;
+
+    .line 79
+    .line 80
+    :goto_0
+    new-instance v6, LX/5UQ;
+
+    .line 81
+    .line 82
+    invoke-direct {v6}, LX/5UQ;-><init>()V
+
+    .line 83
+    .line 84
+    .line 85
+    iput-object v4, v6, LX/5UQ;->A06:Ljava/lang/String;
+
+    .line 86
+    .line 87
+    invoke-virtual {p1}, Ljava/lang/Throwable;->getMessage()Ljava/lang/String;
+
+    .line 88
+    .line 89
+    .line 90
+    move-result-object v0
+
+    .line 91
+    iput-object v0, v6, LX/5UQ;->A05:Ljava/lang/String;
+
+    .line 92
+    .line 93
+    iput-object p1, v6, LX/5UQ;->A03:Ljava/lang/Exception;
+
+    .line 94
+    .line 95
+    invoke-static/range {v1 .. v6}, LX/5U2;->A01(LX/5U2;LX/1GX;Ljava/lang/String;Ljava/lang/String;LX/5UA;LX/5UQ;)V
+
+    .line 96
+    .line 97
+    .line 98
+    return-void
+
+    .line 99
+    :cond_3
+    sget-object v5, LX/5UA;->A08:LX/5UA;
+
+    .line 100
+    .line 101
+    goto :goto_0
+    .line 102
+    .line 103
+    .line 104
+    .line 105
+    .line 106
+    .line 107
+    .line 108
+    .line 109
+.end method
+
+.method public final onSuccess()V
+    .locals 4
+
+    .line 0
+    iget-object v3, p0, LX/PiM;->A01:LX/5U2;
+
+    .line 1
+    .line 2
+    iget-object v2, p0, LX/PiM;->A00:LX/1GX;
+
+    .line 3
+    .line 4
+    iget-object v1, p0, LX/PiM;->A02:Ljava/lang/String;
+
+    .line 5
+    .line 6
+    sget-object v0, LX/5UA;->A01:LX/5UA;
+
+    .line 7
+    .line 8
+    invoke-static {v3, v2, v1, v0}, LX/5U2;->A00(LX/5U2;LX/1GX;Ljava/lang/String;LX/5UA;)V
+
+    .line 9
+    .line 10
+    .line 11
+    return-void
+    .line 12
+.end method

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060224" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" />
+        </shape>
+    </item>
+    <item>
+        <selector>
+            <item android:state_pressed="true">
+                <shape android:shape="oval">
+                    <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0601dc" />
+                    <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" />
+                </shape>
+            </item>
+            <item android:drawable="@color/APKTOOL_DUPLICATE_color_0x7f0600e1" />
+        </selector>
+    </item>
+    <item android:left="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" android:top="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" android:right="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" android:bottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005">
+        <bitmap android:gravity="center" android:src="@drawable/fb_ic_nav_cross_outline_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060211" />
+        <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" />
+    </item>
+</layer-list>

@@ -1,0 +1,68 @@
+.class public final LX/9rF;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/3tM;
+
+
+# instance fields
+.field public final synthetic A00:LX/Cyp;
+
+.field public final synthetic A01:LX/4s9;
+
+
+# direct methods
+.method public constructor <init>(LX/Cyp;LX/4s9;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/9rF;->A00:LX/Cyp;
+
+    .line 1
+    .line 2
+    iput-object p2, p0, LX/9rF;->A01:LX/4s9;
+
+    .line 3
+    .line 4
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+.end method
+
+
+# virtual methods
+.method public final AeK(LX/1GX;LX/1Hh;)LX/1Hp;
+    .locals 3
+
+    .line 0
+    new-instance v2, LX/9rD;
+
+    .line 1
+    .line 2
+    iget-object v0, p1, LX/1GY;->A09:Landroid/content/Context;
+
+    .line 3
+    .line 4
+    invoke-direct {v2, v0}, LX/9rD;-><init>(Landroid/content/Context;)V
+
+    .line 5
+    .line 6
+    .line 7
+    iget-object v0, p0, LX/9rF;->A01:LX/4s9;
+
+    .line 8
+    .line 9
+    iput-object v0, v2, LX/9rD;->A01:LX/4s9;
+
+    .line 10
+    .line 11
+    iput-object p2, v2, LX/1Hp;->A01:LX/1Hh;
+
+    .line 12
+    .line 13
+    return-object v2
+.end method

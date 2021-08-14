@@ -1,0 +1,4 @@
+.id av1decoder
+.requires dex
+.locator_id 4
+av1decoder2.dex b5deca81099891af915ed49c2a9a46235bcb1828 store4a28.dex01.Canary

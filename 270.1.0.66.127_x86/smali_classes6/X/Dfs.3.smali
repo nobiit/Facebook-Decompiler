@@ -1,0 +1,78 @@
+.class public final LX/Dfs;
+.super LX/2Uk;
+.source ""
+
+# interfaces
+.implements LX/2Ul;
+
+
+# static fields
+.field public static final A00:I
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    const-string v0, "com.facebook.interstitial.manager.InterstitialControllerSocket"
+
+    .line 1
+    .line 2
+    invoke-static {v0}, LX/2Uo;->A00(Ljava/lang/String;)I
+
+    .line 3
+    .line 4
+    .line 5
+    move-result v0
+
+    .line 6
+    sput v0, LX/Dfs;->A00:I
+
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;)V
+    .locals 2
+
+    .line 0
+    const-string v1, "InterstitialControllerSocket"
+
+    .line 1
+    .line 2
+    sget v0, LX/Dfs;->A00:I
+
+    .line 3
+    .line 4
+    invoke-direct {p0, p1, v1, v0}, LX/2Uk;-><init>(Landroid/content/Context;Ljava/lang/String;I)V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+    .line 8
+.end method
+
+
+# virtual methods
+.method public final BMe()Ljava/lang/Iterable;
+    .locals 0
+
+    .line 0
+    invoke-virtual {p0}, LX/2Uk;->A03()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-object p0
+.end method
+
+.method public final BVD()Ljava/lang/String;
+    .locals 1
+
+    const-string v0, "InterstitialControllerSocket"
+
+    return-object v0
+.end method

@@ -1,0 +1,29 @@
+{
+  "$generated": "@generated SignedSource<<4338315801494b3525a06271e83b0bd6>>",
+  "ProfileGemstoneProfileContainerViewQuery": {
+    "id": "2720555644737072",
+    "variables": [
+      "fetchInterestSentByUser",
+      "nextProfileId",
+      "ProfileGemstoneProfile_ENABLE_FAVORITE_LIKE",
+      "ProfileGemstoneProfile_ENABLE_PROFILE_HSCROLL",
+      "ProfileGemstoneProfile_INSTAGRAM_PHOTO_PREVIEW_SIZE",
+      "ProfileGemstoneProfile_INTERESTED_PHOTO_HEIGHT",
+      "ProfileGemstoneProfile_INTERESTED_PHOTO_WIDTH",
+      "ProfileGemstoneProfile_LAZY_LOAD_INSTAGRAM",
+      "ProfileGemstoneProfile_PHOTO_HEIGHT",
+      "ProfileGemstoneProfile_PHOTO_WIDTH",
+      "ProfileGemstoneProfile_SHOW_HOBBIES",
+      "ProfilegemstoneProfile_SHOW_MUTUALITIES_BOTTOM_SHEET",
+      "ProfileGemstoneProfile_SHOW_MUTUALITIES",
+      "ProfileGemstoneProfile_SHOW_STORIES_BUCKET",
+      "profileId",
+      "shouldUseAnimatedProfile",
+      "shouldUsePreviewPayloadForHeader",
+      "shouldUsePreviewPayloadForOrderedContent",
+      "shouldUseURIPrefetchForHeader",
+      "shouldUseURIPrefetchForOrderedContent",
+      "showInterestedUsersOnDatingHome"
+    ]
+  }
+}

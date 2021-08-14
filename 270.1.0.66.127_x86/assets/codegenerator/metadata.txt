@@ -1,0 +1,5 @@
+.id codegenerator
+.requires dex
+.requires shared3
+.locator_id 8
+codegenerator2.dex 0748877315046b01f650d80d1f01c42cbf33eeac store4786.dex01.Canary

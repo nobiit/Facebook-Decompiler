@@ -1,0 +1,4 @@
+.id streamingsdk
+.requires dex
+.locator_id 33
+streamingsdk2.dex acd72a6280f04f6c8d73ee407c89263c55f2cd08 store3098.dex01.Canary

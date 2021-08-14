@@ -1,0 +1,4 @@
+.id heliumiab
+.requires dex
+.locator_id 20
+heliumiab2.dex 94fa206e19985e921fd144d1b9c80fcc60e671c3 store85b8.dex01.Canary

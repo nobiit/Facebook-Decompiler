@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/fb_ic_photo_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+        <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000a" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000a" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/fb_ic_photo_outline_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+        <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000a" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000a" />
+    </item>
+</selector>

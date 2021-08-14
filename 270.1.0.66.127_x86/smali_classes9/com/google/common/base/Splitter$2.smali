@@ -1,0 +1,46 @@
+.class public final Lcom/google/common/base/Splitter$2;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/google/common/base/Splitter$Strategy;
+
+
+# instance fields
+.field public final synthetic val$separator:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>(Ljava/lang/String;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, Lcom/google/common/base/Splitter$2;->val$separator:Ljava/lang/String;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic iterator(Lcom/google/common/base/Splitter;Ljava/lang/CharSequence;)Ljava/util/Iterator;
+    .locals 1
+
+    .line 0
+    new-instance v0, Lcom/google/common/base/Splitter$2$1;
+
+    .line 1
+    .line 2
+    invoke-direct {v0, p0, p1, p2}, Lcom/google/common/base/Splitter$2$1;-><init>(Lcom/google/common/base/Splitter$2;Lcom/google/common/base/Splitter;Ljava/lang/CharSequence;)V
+
+    .line 3
+    .line 4
+    .line 5
+    return-object v0
+.end method

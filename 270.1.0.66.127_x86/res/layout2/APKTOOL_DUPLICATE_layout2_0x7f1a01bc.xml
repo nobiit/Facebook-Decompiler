@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.8Wr android:layout_gravity="center_vertical" android:orientation="horizontal" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ed"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1009" android:src="@drawable/fb_ic_arrow_right_outline_24" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ec" />
+    <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04b1" android:src="@drawable/fb_ic_refresh_right_outline_24" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ec" />
+    <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04b4" android:src="@drawable/fb_ic_share_outline_24" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ec" />
+    <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04b2" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ec" />
+</X.8Wr>

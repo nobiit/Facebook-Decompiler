@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.OOo android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04a3" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <X.OOn android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04b6" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0496" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+            <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a049a" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0498" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1df8" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a22e0" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                </FrameLayout>
+                <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2b13" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a186e" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1716" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a28a6" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a06ad" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2b12" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                            <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04a5" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a04a4" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </FrameLayout>
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04ac" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a04ad" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04a9" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04a8" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1f17" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a1f14" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04a7" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04ab" android:layout="@layout2/APKTOOL_DUPLICATE_layout2_0x7f1a01b7" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a04aa" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1e83" android:layout="@layout2/APKTOOL_DUPLICATE_layout2_0x7f1a01bd" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a1e7e" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" />
+                </FrameLayout>
+                <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2a91" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a241d" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0aa1" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </X.OOn>
+    </X.OOo>
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ebe" android:background="@android:color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1408" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2422" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1927" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a081e" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1302" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a12fa" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <ViewStub android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a117f" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

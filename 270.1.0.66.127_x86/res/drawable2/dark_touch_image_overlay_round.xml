@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="false" android:exitFadeDuration="@integer/APKTOOL_DUPLICATE_integer_0x7f0b0009"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0602be" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600e1" />
+        </shape>
+    </item>
+</selector>

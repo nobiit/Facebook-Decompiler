@@ -1,0 +1,399 @@
+.class public final LX/9Na;
+.super LX/186;
+.source ""
+
+
+# static fields
+.field public static final __redex_internal_original_name:Ljava/lang/String; = "com.facebook.pages.common.getquote.questionnaire.GetQuoteCtaUpsellFragment"
+
+
+# instance fields
+.field public A00:I
+
+.field public A01:Lcom/facebook/pages/common/getquote/protocol/GetQuoteQuestionnaireUpsellContentModel;
+
+.field public A02:LX/9PM;
+
+.field public A03:LX/9PM;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, LX/186;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+
+# virtual methods
+.method public final A1Z()V
+    .locals 3
+
+    .line 0
+    const v0, -0x4e9256be
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A02(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v2
+
+    .line 7
+    invoke-super {p0}, Landroidx/fragment/app/Fragment;->A1Z()V
+
+    .line 8
+    .line 9
+    .line 10
+    const-class v0, LX/1p2;
+
+    .line 11
+    .line 12
+    invoke-virtual {p0, v0}, LX/186;->Cwk(Ljava/lang/Class;)Ljava/lang/Object;
+
+    .line 13
+    .line 14
+    .line 15
+    move-result-object v1
+
+    .line 16
+    check-cast v1, LX/1p2;
+
+    .line 17
+    .line 18
+    if-eqz v1, :cond_0
+
+    .line 19
+    .line 20
+    const v0, 0x7f121cf8
+
+    .line 21
+    .line 22
+    .line 23
+    invoke-interface {v1, v0}, LX/1p2;->DHn(I)V
+
+    .line 24
+    .line 25
+    .line 26
+    invoke-interface {v1}, LX/1p2;->DFv()V
+
+    .line 27
+    .line 28
+    .line 29
+    :cond_0
+    const v0, -0x39694ee0
+
+    .line 30
+    .line 31
+    .line 32
+    invoke-static {v0, v2}, LX/05B;->A08(II)V
+
+    .line 33
+    .line 34
+    .line 35
+    return-void
+.end method
+
+.method public final A1b(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+    .locals 7
+
+    .line 0
+    const v0, -0x7e43e388
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A02(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v4
+
+    .line 7
+    invoke-virtual {p0}, Landroidx/fragment/app/Fragment;->getContext()Landroid/content/Context;
+
+    .line 8
+    .line 9
+    .line 10
+    move-result-object v0
+
+    .line 11
+    if-nez v0, :cond_0
+
+    .line 12
+    .line 13
+    const/4 v1, 0x0
+
+    .line 14
+    const v0, -0x38c049e4
+
+    .line 15
+    .line 16
+    .line 17
+    invoke-static {v0, v4}, LX/05B;->A08(II)V
+
+    .line 18
+    .line 19
+    .line 20
+    return-object v1
+
+    .line 21
+    :cond_0
+    new-instance v5, LX/1GY;
+
+    .line 22
+    .line 23
+    invoke-direct {v5, v0}, LX/1GY;-><init>(Landroid/content/Context;)V
+
+    .line 24
+    .line 25
+    .line 26
+    new-instance v6, LX/9PG;
+
+    .line 27
+    .line 28
+    invoke-direct {v6}, LX/9PG;-><init>()V
+
+    .line 29
+    .line 30
+    .line 31
+    iget-object v1, v5, LX/1GY;->A04:LX/1I9;
+
+    .line 32
+    .line 33
+    if-eqz v1, :cond_1
+
+    .line 34
+    .line 35
+    iget-object v1, v1, LX/1I9;->A09:Ljava/lang/String;
+
+    .line 36
+    .line 37
+    iput-object v1, v6, LX/1I9;->A0A:Ljava/lang/String;
+
+    .line 38
+    .line 39
+    :cond_1
+    iget-object v0, v5, LX/1GY;->A09:Landroid/content/Context;
+
+    .line 40
+    .line 41
+    invoke-virtual {v6, v0}, LX/1I9;->A1M(Landroid/content/Context;)V
+
+    .line 42
+    .line 43
+    .line 44
+    iget-object v0, p0, LX/9Na;->A01:Lcom/facebook/pages/common/getquote/protocol/GetQuoteQuestionnaireUpsellContentModel;
+
+    .line 45
+    .line 46
+    iput-object v0, v6, LX/9PG;->A01:Lcom/facebook/pages/common/getquote/protocol/GetQuoteQuestionnaireUpsellContentModel;
+
+    .line 47
+    .line 48
+    const v0, 0x7f121cfc
+
+    .line 49
+    .line 50
+    .line 51
+    invoke-virtual {p0, v0}, Landroidx/fragment/app/Fragment;->A0x(I)Ljava/lang/String;
+
+    .line 52
+    .line 53
+    .line 54
+    move-result-object v0
+
+    .line 55
+    iput-object v0, v6, LX/9PG;->A04:Ljava/lang/String;
+
+    .line 56
+    .line 57
+    iget-object v0, p0, LX/9Na;->A02:LX/9PM;
+
+    .line 58
+    .line 59
+    iput-object v0, v6, LX/9PG;->A02:LX/9PM;
+
+    .line 60
+    .line 61
+    iget v3, p0, LX/9Na;->A00:I
+
+    .line 62
+    .line 63
+    const/4 v2, 0x3
+
+    .line 64
+    const/4 v0, 0x1
+
+    .line 65
+    if-ne v3, v2, :cond_2
+
+    .line 66
+    .line 67
+    const/4 v0, 0x3
+
+    .line 68
+    :cond_2
+    iput v0, v6, LX/9PG;->A00:I
+
+    .line 69
+    .line 70
+    if-ne v3, v2, :cond_3
+
+    .line 71
+    .line 72
+    const v0, 0x7f1222df
+
+    .line 73
+    .line 74
+    .line 75
+    invoke-virtual {p0, v0}, Landroidx/fragment/app/Fragment;->A0x(I)Ljava/lang/String;
+
+    .line 76
+    .line 77
+    .line 78
+    move-result-object v0
+
+    .line 79
+    iput-object v0, v6, LX/9PG;->A05:Ljava/lang/String;
+
+    .line 80
+    .line 81
+    iget-object v0, p0, LX/9Na;->A03:LX/9PM;
+
+    .line 82
+    .line 83
+    iput-object v0, v6, LX/9PG;->A03:LX/9PM;
+
+    .line 84
+    .line 85
+    :cond_3
+    invoke-static {v5, v6}, Lcom/facebook/litho/ComponentTree;->A03(LX/1GY;LX/1I9;)LX/1X2;
+
+    .line 86
+    .line 87
+    .line 88
+    move-result-object v1
+
+    .line 89
+    const/4 v0, 0x0
+
+    .line 90
+    iput-boolean v0, v1, LX/1X2;->A0F:Z
+
+    .line 91
+    .line 92
+    invoke-virtual {v1}, LX/1X2;->A00()Lcom/facebook/litho/ComponentTree;
+
+    .line 93
+    .line 94
+    .line 95
+    move-result-object v0
+
+    .line 96
+    new-instance v1, Lcom/facebook/litho/LithoView;
+
+    .line 97
+    .line 98
+    invoke-direct {v1, v5}, Lcom/facebook/litho/LithoView;-><init>(LX/1GY;)V
+
+    .line 99
+    .line 100
+    .line 101
+    invoke-virtual {v1, v0}, Lcom/facebook/litho/LithoView;->A0k(Lcom/facebook/litho/ComponentTree;)V
+
+    .line 102
+    .line 103
+    .line 104
+    const v0, -0x33f502c
+
+    .line 105
+    .line 106
+    .line 107
+    invoke-static {v0, v4}, LX/05B;->A08(II)V
+
+    .line 108
+    .line 109
+    .line 110
+    return-object v1
+    .line 111
+    .line 112
+    .line 113
+    .line 114
+    .line 115
+    .line 116
+    .line 117
+.end method
+
+.method public final A27(Landroid/os/Bundle;)V
+    .locals 3
+
+    .line 0
+    invoke-super {p0, p1}, LX/186;->A27(Landroid/os/Bundle;)V
+
+    .line 1
+    .line 2
+    .line 3
+    iget-object v2, p0, Landroidx/fragment/app/Fragment;->A0B:Landroid/os/Bundle;
+
+    .line 4
+    .line 5
+    if-nez v2, :cond_0
+
+    .line 6
+    .line 7
+    return-void
+
+    .line 8
+    :cond_0
+    const/4 v1, 0x1
+
+    .line 9
+    const-string v0, "arg_upsell_type"
+
+    .line 10
+    .line 11
+    invoke-virtual {v2, v0, v1}, Landroid/os/BaseBundle;->getInt(Ljava/lang/String;I)I
+
+    .line 12
+    .line 13
+    .line 14
+    move-result v0
+
+    .line 15
+    iput v0, p0, LX/9Na;->A00:I
+
+    .line 16
+    .line 17
+    const-string v0, "arg_admin_upsell_content_model"
+
+    .line 18
+    .line 19
+    invoke-virtual {v2, v0}, Landroid/os/BaseBundle;->get(Ljava/lang/String;)Ljava/lang/Object;
+
+    .line 20
+    .line 21
+    .line 22
+    move-result-object v0
+
+    .line 23
+    check-cast v0, Lcom/facebook/pages/common/getquote/protocol/GetQuoteQuestionnaireUpsellContentModel;
+
+    .line 24
+    .line 25
+    iput-object v0, p0, LX/9Na;->A01:Lcom/facebook/pages/common/getquote/protocol/GetQuoteQuestionnaireUpsellContentModel;
+
+    .line 26
+    .line 27
+    return-void
+.end method

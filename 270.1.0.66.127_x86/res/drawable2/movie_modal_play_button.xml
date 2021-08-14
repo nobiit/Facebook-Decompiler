@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0601fc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" />
+            <stroke android:width="2.0dip" android:color="@color/APKTOOL_DUPLICATE_color_0x7f060282" />
+        </shape>
+    </item>
+    <item>
+        <selector>
+            <item android:state_pressed="true">
+                <shape android:shape="oval">
+                    <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600ad" />
+                    <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000c" />
+                    <stroke android:width="2.0dip" android:color="@color/APKTOOL_DUPLICATE_color_0x7f060281" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+    <item android:left="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000d" android:top="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000d" android:right="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000d" android:bottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000d">
+        <bitmap android:gravity="center" android:src="@drawable/fb_ic_play_filled_16" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+        <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" />
+    </item>
+</layer-list>

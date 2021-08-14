@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130006">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600f0</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f0600c1</item>
+    </style>
+</resources>

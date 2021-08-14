@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="6.0dip" android:bottom="6.0dip">
+        <shape android:shape="rectangle">
+            <corners android:radius="5.0dip" />
+            <size android:height="4.0dip" android:width="22.0dip" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f06021d" />
+        </shape>
+    </item>
+</layer-list>

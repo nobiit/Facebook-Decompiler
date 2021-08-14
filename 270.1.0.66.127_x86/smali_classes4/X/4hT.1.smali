@@ -1,0 +1,135 @@
+.class public final LX/4hT;
+.super Landroid/os/Handler;
+.source ""
+
+
+# instance fields
+.field public final A00:LX/4Ag;
+
+.field public final A01:Ljava/lang/ref/WeakReference;
+
+
+# direct methods
+.method public constructor <init>(LX/4hO;LX/4Ag;)V
+    .locals 1
+
+    .line 0
+    invoke-static {}, Landroid/os/Looper;->getMainLooper()Landroid/os/Looper;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v0
+
+    .line 4
+    invoke-direct {p0, v0}, Landroid/os/Handler;-><init>(Landroid/os/Looper;)V
+
+    .line 5
+    .line 6
+    .line 7
+    new-instance v0, Ljava/lang/ref/WeakReference;
+
+    .line 8
+    .line 9
+    invoke-direct {v0, p1}, Ljava/lang/ref/WeakReference;-><init>(Ljava/lang/Object;)V
+
+    .line 10
+    .line 11
+    .line 12
+    iput-object v0, p0, LX/4hT;->A01:Ljava/lang/ref/WeakReference;
+
+    .line 13
+    .line 14
+    iput-object p2, p0, LX/4hT;->A00:LX/4Ag;
+
+    .line 15
+    .line 16
+    return-void
+    .line 17
+    .line 18
+    .line 19
+.end method
+
+
+# virtual methods
+.method public final handleMessage(Landroid/os/Message;)V
+    .locals 3
+
+    .line 0
+    iget-object v0, p0, LX/4hT;->A01:Ljava/lang/ref/WeakReference;
+
+    .line 1
+    .line 2
+    invoke-virtual {v0}, Ljava/lang/ref/Reference;->get()Ljava/lang/Object;
+
+    .line 3
+    .line 4
+    .line 5
+    move-result-object v2
+
+    .line 6
+    check-cast v2, LX/4hO;
+
+    .line 7
+    .line 8
+    if-eqz v2, :cond_0
+
+    .line 9
+    .line 10
+    iget v1, p1, Landroid/os/Message;->what:I
+
+    .line 11
+    .line 12
+    const/4 v0, 0x1
+
+    .line 13
+    if-ne v1, v0, :cond_0
+
+    .line 14
+    .line 15
+    iget-object v1, p0, LX/4hT;->A00:LX/4Ag;
+
+    .line 16
+    .line 17
+    const/4 v0, 0x1
+
+    .line 18
+    iput-boolean v0, v1, LX/4Ag;->A04:Z
+
+    .line 19
+    .line 20
+    const/4 v0, 0x0
+
+    .line 21
+    iput-object v0, v1, LX/4Ag;->A02:LX/4Yb;
+
+    .line 22
+    .line 23
+    const/4 v0, -0x2
+
+    .line 24
+    iput v0, v1, LX/4Ag;->A00:I
+
+    .line 25
+    .line 26
+    invoke-interface {v2}, LX/4hO;->AZg()V
+
+    .line 27
+    .line 28
+    .line 29
+    iget-object v1, p0, LX/4hT;->A00:LX/4Ag;
+
+    .line 30
+    .line 31
+    const/4 v0, 0x0
+
+    .line 32
+    iput-boolean v0, v1, LX/4Ag;->A04:Z
+
+    .line 33
+    .line 34
+    :cond_0
+    return-void
+    .line 35
+    .line 36
+.end method

@@ -1,0 +1,4 @@
+.id groupsbadgeselector
+.requires dex
+.locator_id 14
+groupsbadgeselector2.dex a74df09d1af49117c002d376779bf0723f855f8c storefb2e.dex01.Canary

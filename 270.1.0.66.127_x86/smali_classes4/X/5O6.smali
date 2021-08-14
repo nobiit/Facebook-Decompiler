@@ -1,0 +1,30 @@
+.class public final enum LX/5O6;
+.super LX/5O4;
+.source ""
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 3
+
+    .line 0
+    const-string v2, "THREADED_COMMENTS_FLYOUT"
+
+    .line 1
+    .line 2
+    const/4 v1, 0x1
+
+    .line 3
+    const v0, 0x390023
+
+    .line 4
+    .line 5
+    .line 6
+    invoke-direct {p0, v2, v1, v0}, LX/5O4;-><init>(Ljava/lang/String;II)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+    .line 10
+.end method

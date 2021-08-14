@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160022" android:color="@color/APKTOOL_DUPLICATE_color_0x7f060221" android:dashWidth="@dimen2/(name removed)" android:dashGap="@dimen2/(name removed)" />
+        </shape>
+    </item>
+</selector>

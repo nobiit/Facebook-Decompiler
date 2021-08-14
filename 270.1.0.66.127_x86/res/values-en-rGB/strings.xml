@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120013">Send using Facebook Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120016">Auto-fill</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120017">Auto-fill settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120019">Facebook auto-fill settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001a">Your Facebook auto-fill information has been updated in your</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001d">This will clear auto-fill data you have saved for completing forms in the Facebook Mobile Browser.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001e">Clear auto-fill data</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120022">"Clear your phone's cookies and cache from websites that you've visited while using the %1$s app."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120023">Clear browsing data from your phone</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120037">Not enough storage to use %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120038">%1$s application error</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003a">This info will only be saved to your device so you can auto-fill later. This will not be shared with Facebook.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003c">Your story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003e">Your story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120040">Your story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120041">Add to your story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120049">"Don't Save"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004c">Get tickets</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004f">Not going</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120050">Not interested</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120051">%1$s-%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120057">Browser settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005d">Open with…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120060">Save link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120066">"Additional information from this advertiser couldn't be loaded. You can continue watching the video or go back to News Feed."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120067">You can install the app now without waiting for the Page to load.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120069">%1$s people reacted to this video.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120075">Learn more</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120078">Save for Facebook auto-fill?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120079">Update information?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120084">Short on time? Save this and be reminded about it later</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008c">Promo code sent to&lt;br/>&lt;b>%1$s&lt;/b>. You can also view this offer in your saved items.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120090">Auto-fill with Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120092">You can still &lt;a id=\"proceed\" href=\"#\">visit this site&lt;/a> if you want to.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120099">Attackers on &lt;b>%1$s&lt;/b> might attempt to install dangerous software on your device that steals or deletes your information (for example, photos, passwords, messages and credit cards).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009d">Website not safe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009e">Attackers on &lt;b>%1$s&lt;/b> may deceive you into doing something dangerous such as installing software or revealing your personal information (for example, passwords, phone numbers or credit cards).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a0">Save as new</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a1">Auto-fill with Facebook to make filling in forms faster.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a2">Save this info to make filling in forms faster.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a3">Save your information to auto-fill forms.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a4">Securely save your auto-fill information to fill in forms faster on Facebook.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a6">Auto-fill</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a7">Fill in forms faster</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a8">Save information for auto-fill?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ae">This information will only be saved in your Facebook browser settings.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b2">This website is not using a secure connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b3">This website is not using a secure connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b4">This website is using a secure connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b5">Set as profile picture</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c3">This website is not using a secure connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c7">You may also like...</string>
+</resources>

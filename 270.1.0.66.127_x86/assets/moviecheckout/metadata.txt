@@ -1,0 +1,4 @@
+.id moviecheckout
+.requires dex
+.locator_id 26
+moviecheckout2.dex 7cf0a0e874241bad65c9179240cb48d6d93cde5e store5c76.dex01.Canary

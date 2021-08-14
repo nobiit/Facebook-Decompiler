@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <size android:height="4.0dip" />
+            <corners android:radius="2.0dip" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060381" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1e90" android:shape="rectangle"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <size android:height="4.0dip" />
+                <corners android:radius="2.0dip" />
+                <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060487" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

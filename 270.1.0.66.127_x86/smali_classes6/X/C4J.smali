@@ -1,0 +1,123 @@
+.class public final LX/C4J;
+.super Landroid/text/style/ClickableSpan;
+.source ""
+
+
+# instance fields
+.field public final synthetic A00:Landroid/text/style/URLSpan;
+
+.field public final synthetic A01:LX/C4B;
+
+
+# direct methods
+.method public constructor <init>(LX/C4B;Landroid/text/style/URLSpan;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/C4J;->A01:LX/C4B;
+
+    .line 1
+    .line 2
+    iput-object p2, p0, LX/C4J;->A00:Landroid/text/style/URLSpan;
+
+    .line 3
+    .line 4
+    invoke-direct {p0}, Landroid/text/style/ClickableSpan;-><init>()V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/view/View;)V
+    .locals 4
+
+    .line 0
+    iget-object v0, p0, LX/C4J;->A01:LX/C4B;
+
+    .line 1
+    .line 2
+    iget-object v1, v0, LX/C4B;->A01:LX/C4D;
+
+    .line 3
+    .line 4
+    iget-object v0, p0, LX/C4J;->A00:Landroid/text/style/URLSpan;
+
+    .line 5
+    .line 6
+    invoke-virtual {v0}, Landroid/text/style/URLSpan;->getURL()Ljava/lang/String;
+
+    .line 7
+    .line 8
+    .line 9
+    move-result-object v0
+
+    .line 10
+    iget-object v3, v1, LX/C4D;->A03:LX/2h8;
+
+    .line 11
+    .line 12
+    iget-object v2, v1, LX/C4D;->A02:Landroid/content/Context;
+
+    .line 13
+    .line 14
+    const-string v1, "fb://faceweb/f?href=%s"
+
+    .line 15
+    .line 16
+    invoke-static {v0}, Landroid/net/Uri;->encode(Ljava/lang/String;)Ljava/lang/String;
+
+    .line 17
+    .line 18
+    .line 19
+    move-result-object v0
+
+    .line 20
+    filled-new-array {v0}, [Ljava/lang/Object;
+
+    .line 21
+    .line 22
+    .line 23
+    move-result-object v0
+
+    .line 24
+    invoke-static {v1, v0}, Lcom/facebook/common/stringformat/StringFormatUtil;->formatStrLocaleSafe(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+
+    .line 25
+    .line 26
+    .line 27
+    move-result-object v0
+
+    .line 28
+    invoke-virtual {v3, v2, v0}, LX/2h8;->A08(Landroid/content/Context;Ljava/lang/String;)Z
+
+    .line 29
+    .line 30
+    .line 31
+    return-void
+    .line 32
+.end method
+
+.method public final updateDrawState(Landroid/text/TextPaint;)V
+    .locals 1
+
+    .line 0
+    invoke-super {p0, p1}, Landroid/text/style/ClickableSpan;->updateDrawState(Landroid/text/TextPaint;)V
+
+    .line 1
+    .line 2
+    .line 3
+    const/4 v0, 0x0
+
+    .line 4
+    invoke-virtual {p1, v0}, Landroid/graphics/Paint;->setUnderlineText(Z)V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+    .line 8
+.end method

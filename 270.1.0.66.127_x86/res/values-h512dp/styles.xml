@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130007">
+        <item name="android:layout_weight">4.0</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130008">
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130009">
+        <item name="android:layout_marginBottom">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000a">
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000b">
+        <item name="android:lineSpacingExtra">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16001e</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13000c">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160018</item>
+        <item name="android:layout_marginBottom">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16001b</item>
+        <item name="android:lineSpacingExtra">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005</item>
+    </style>
+</resources>

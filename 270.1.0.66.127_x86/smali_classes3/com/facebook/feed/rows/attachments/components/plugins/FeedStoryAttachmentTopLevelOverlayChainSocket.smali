@@ -1,0 +1,18 @@
+.class public abstract Lcom/facebook/feed/rows/attachments/components/plugins/FeedStoryAttachmentTopLevelOverlayChainSocket;
+.super Lcom/facebook/common/plugins/utils/ChainIfNeededSocket;
+.source ""
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Lcom/facebook/common/plugins/utils/ChainIfNeededSocket;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+    .line 4
+.end method

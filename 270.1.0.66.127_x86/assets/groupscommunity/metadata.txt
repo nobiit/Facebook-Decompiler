@@ -1,0 +1,4 @@
+.id groupscommunity
+.requires dex
+.locator_id 15
+groupscommunity2.dex 5a7045520ab0545a9bf6ca98206534ac0c506dcc store2495.dex01.Canary

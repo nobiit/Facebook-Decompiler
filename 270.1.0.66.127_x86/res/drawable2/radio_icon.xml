@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <bitmap android:src="@drawable/fb_ic_circle_2_filled_16" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+    </item>
+    <item android:drawable="@drawable/fb_ic_circle_outline_16" />
+</selector>

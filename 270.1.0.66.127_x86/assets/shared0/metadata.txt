@@ -1,0 +1,4 @@
+.id shared0
+.requires dex
+.locator_id 30
+shared02.dex 15b64ae77723e944818107ab3437bb6c975eee2f storee06b.dex01.Canary

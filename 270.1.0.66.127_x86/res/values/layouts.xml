@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="(name removed)">L|7274|630|BF42</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0001">L|8250|618|EA9</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0004">L|F81D4|718|9B8E</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0005">L|140670|C98|7F4C</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0006">L|153B4C|21C|E5A9</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0007">L|193B20|7AC|FC5</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0008">L|1A13C0|238|E35E</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d0009">L|20ABD8|9D4|10B7</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d000a">L|2BAE88|210|76BB</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d000c">L|2E39DC|5F4|2728</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d000e">L|332AE0|C5C|F2F9</item>
+    <item type="layout" name="APKTOOL_DUPLICATE_layout_0x7f0d000f">L|478850|9B4|591</item>
+    <item type="layout" name="APKTOOL_DUMMY_2" />
+    <item type="layout" name="APKTOOL_DUMMY_b" />
+    <item type="layout" name="APKTOOL_DUMMY_d" />
+</resources>

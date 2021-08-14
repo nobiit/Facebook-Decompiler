@@ -1,0 +1,19 @@
+.class public final LX/AZm;
+.super LX/9zN;
+.source ""
+
+
+# direct methods
+.method public constructor <init>(LX/Aac;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0, p1}, LX/9zN;-><init>(LX/Aac;)V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+    .line 4
+    .line 5
+.end method

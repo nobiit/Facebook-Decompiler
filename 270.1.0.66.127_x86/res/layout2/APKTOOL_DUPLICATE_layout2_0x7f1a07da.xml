@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?APKTOOL_DUPLICATE_attr_0x7f040403" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.2W0 android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a289b" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <X.Kfj android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.facebook.litho.LithoView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04b3" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </X.Kfj>
+</LinearLayout>

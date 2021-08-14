@@ -1,0 +1,10 @@
+{
+  "$generated": "@generated SignedSource<<8e65537d1783177604d0cb6617a58fcb>>",
+  "AdsLWIBoostedPurchaseCreateFlowContainerViewQuery": {
+    "id": "1723497844440590",
+    "variables": [
+      "creationInput",
+      "pageID"
+    ]
+  }
+}

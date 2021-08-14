@@ -1,0 +1,39 @@
+.class public final LX/IiM;
+.super Ljava/lang/Object;
+.source ""
+
+
+# instance fields
+.field public A00:Lcom/facebook/graphql/model/GraphQLPrivacyScope;
+
+.field public A01:Lcom/facebook/graphql/model/GraphQLStoryAttachmentStyleInfo;
+
+.field public A02:Lcom/facebook/ipc/composer/model/ComposerLocationInfo;
+
+.field public A03:Lcom/google/common/collect/ImmutableList;
+
+.field public A04:Lcom/google/common/collect/ImmutableList;
+
+.field public A05:Ljava/lang/String;
+
+.field public A06:Ljava/lang/String;
+
+.field public A07:Ljava/lang/String;
+
+.field public A08:Ljava/lang/String;
+
+.field public A09:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method

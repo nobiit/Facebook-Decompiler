@@ -1,0 +1,296 @@
+.class public final LX/5yF;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation runtime Lcom/facebook/inject/ApplicationScoped;
+.end annotation
+
+
+# static fields
+.field public static volatile A00:LX/5yF;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+.method public static final A00(Lcom/facebook/graphservice/modelutil/GSTModelShape1S0000000;)Landroid/graphics/RectF;
+    .locals 12
+
+    .line 0
+    invoke-static {p0}, Lcom/google/common/base/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 1
+    .line 2
+    .line 3
+    const/16 v0, 0x58
+
+    .line 4
+    .line 5
+    invoke-virtual {p0, v0}, Lcom/facebook/graphservice/modelutil/GSTModelShape1S0000000;->APD(I)Ljava/lang/Object;
+
+    .line 6
+    .line 7
+    .line 8
+    move-result-object v11
+
+    .line 9
+    invoke-static {v11}, Lcom/google/common/base/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 10
+    .line 11
+    .line 12
+    const/16 v0, 0x59
+
+    .line 13
+    .line 14
+    invoke-virtual {p0, v0}, Lcom/facebook/graphservice/modelutil/GSTModelShape1S0000000;->APD(I)Ljava/lang/Object;
+
+    .line 15
+    .line 16
+    .line 17
+    move-result-object v10
+
+    .line 18
+    invoke-static {v10}, Lcom/google/common/base/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 19
+    .line 20
+    .line 21
+    new-instance v7, Landroid/graphics/RectF;
+
+    .line 22
+    .line 23
+    invoke-static {v11}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A05(LX/1CS;)D
+
+    .line 24
+    .line 25
+    .line 26
+    move-result-wide v2
+
+    .line 27
+    invoke-static {v10}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A05(LX/1CS;)D
+
+    .line 28
+    .line 29
+    .line 30
+    move-result-wide v0
+
+    .line 31
+    const-wide/high16 v8, 0x4000000000000000L    # 2.0
+
+    .line 32
+    .line 33
+    div-double/2addr v0, v8
+
+    .line 34
+    sub-double/2addr v2, v0
+
+    .line 35
+    double-to-float v6, v2
+
+    .line 36
+    invoke-static {v11}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A06(LX/1CS;)D
+
+    .line 37
+    .line 38
+    .line 39
+    move-result-wide v2
+
+    .line 40
+    invoke-static {v10}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A06(LX/1CS;)D
+
+    .line 41
+    .line 42
+    .line 43
+    move-result-wide v0
+
+    .line 44
+    div-double/2addr v0, v8
+
+    .line 45
+    sub-double/2addr v2, v0
+
+    .line 46
+    double-to-float v5, v2
+
+    .line 47
+    invoke-static {v11}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A05(LX/1CS;)D
+
+    .line 48
+    .line 49
+    .line 50
+    move-result-wide v2
+
+    .line 51
+    invoke-static {v10}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A05(LX/1CS;)D
+
+    .line 52
+    .line 53
+    .line 54
+    move-result-wide v0
+
+    .line 55
+    div-double/2addr v0, v8
+
+    .line 56
+    add-double/2addr v2, v0
+
+    .line 57
+    double-to-float v4, v2
+
+    .line 58
+    invoke-static {v11}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A06(LX/1CS;)D
+
+    .line 59
+    .line 60
+    .line 61
+    move-result-wide v2
+
+    .line 62
+    invoke-static {v10}, Lcom/facebook/graphql/modelutil/GQLTypeModelWTreeShape3S0000000_I0;->A06(LX/1CS;)D
+
+    .line 63
+    .line 64
+    .line 65
+    move-result-wide v0
+
+    .line 66
+    div-double/2addr v0, v8
+
+    .line 67
+    add-double/2addr v2, v0
+
+    .line 68
+    double-to-float v0, v2
+
+    .line 69
+    invoke-direct {v7, v6, v5, v4, v0}, Landroid/graphics/RectF;-><init>(FFFF)V
+
+    .line 70
+    .line 71
+    .line 72
+    return-object v7
+    .line 73
+.end method
+
+.method public static final A01(LX/0kw;)LX/5yF;
+    .locals 3
+
+    .line 0
+    sget-object v0, LX/5yF;->A00:LX/5yF;
+
+    .line 1
+    .line 2
+    if-nez v0, :cond_1
+
+    .line 3
+    .line 4
+    const-class v2, LX/5yF;
+
+    .line 5
+    .line 6
+    monitor-enter v2
+
+    .line 7
+    :try_start_0
+    sget-object v0, LX/5yF;->A00:LX/5yF;
+
+    .line 8
+    .line 9
+    invoke-static {v0, p0}, LX/2Fd;->A00(Ljava/lang/Object;LX/0kw;)LX/2Fd;
+
+    .line 10
+    .line 11
+    .line 12
+    move-result-object v1
+
+    .line 13
+    if-eqz v1, :cond_0
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_1
+
+    .line 14
+    .line 15
+    :try_start_1
+    invoke-interface {p0}, LX/0kw;->getApplicationInjector()LX/0kw;
+
+    .line 16
+    .line 17
+    .line 18
+    new-instance v0, LX/5yF;
+
+    .line 19
+    .line 20
+    invoke-direct {v0}, LX/5yF;-><init>()V
+
+    .line 21
+    .line 22
+    .line 23
+    sput-object v0, LX/5yF;->A00:LX/5yF;
+
+    .line 24
+    .line 25
+    goto :goto_0
+    :try_end_1
+    .catchall {:try_start_1 .. :try_end_1} :catchall_0
+
+    .line 26
+    :catchall_0
+    :try_start_2
+    move-exception v0
+
+    .line 27
+    invoke-virtual {v1}, LX/2Fd;->A01()V
+
+    .line 28
+    .line 29
+    .line 30
+    throw v0
+
+    .line 31
+    :goto_0
+    invoke-virtual {v1}, LX/2Fd;->A01()V
+
+    .line 32
+    .line 33
+    .line 34
+    :cond_0
+    monitor-exit v2
+
+    .line 35
+    goto :goto_1
+
+    .line 36
+    :catchall_1
+    move-exception v0
+
+    .line 37
+    monitor-exit v2
+    :try_end_2
+    .catchall {:try_start_2 .. :try_end_2} :catchall_1
+
+    .line 38
+    throw v0
+
+    .line 39
+    :cond_1
+    :goto_1
+    sget-object v0, LX/5yF;->A00:LX/5yF;
+
+    .line 40
+    .line 41
+    return-object v0
+    .line 42
+.end method

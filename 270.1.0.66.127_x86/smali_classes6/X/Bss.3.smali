@@ -1,0 +1,108 @@
+.class public final LX/Bss;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/content/DialogInterface$OnClickListener;
+
+
+# instance fields
+.field public final synthetic A00:LX/BtK;
+
+
+# direct methods
+.method public constructor <init>(LX/BtK;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/Bss;->A00:LX/BtK;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/content/DialogInterface;I)V
+    .locals 3
+
+    .line 0
+    const v2, 0x81c5
+
+    .line 1
+    .line 2
+    .line 3
+    iget-object v0, p0, LX/Bss;->A00:LX/BtK;
+
+    .line 4
+    .line 5
+    iget-object v1, v0, LX/BtK;->A02:LX/0li;
+
+    .line 6
+    .line 7
+    const/4 v0, 0x0
+
+    .line 8
+    invoke-static {v0, v2, v1}, LX/0kv;->A06(IILX/0li;)Ljava/lang/Object;
+
+    .line 9
+    .line 10
+    .line 11
+    move-result-object v1
+
+    .line 12
+    check-cast v1, LX/7QU;
+
+    .line 13
+    .line 14
+    sget-object v0, LX/01l;->A00:Ljava/lang/Integer;
+
+    .line 15
+    .line 16
+    invoke-virtual {v1, v0}, LX/7QU;->A00(Ljava/lang/Integer;)V
+
+    .line 17
+    .line 18
+    .line 19
+    iget-object v0, p0, LX/Bss;->A00:LX/BtK;
+
+    .line 20
+    .line 21
+    iget-object v2, v0, LX/BtK;->A00:Lcom/facebook/account/login/fragment/LoginMainFragment;
+
+    .line 22
+    .line 23
+    iget-object v0, v0, LX/BtK;->A01:Lcom/facebook/account/login/model/DeviceEmailSoftMatchData;
+
+    .line 24
+    .line 25
+    iget-object v1, v0, Lcom/facebook/account/login/model/DeviceEmailSoftMatchData;->mMatchedDeviceEmail:Ljava/lang/String;
+
+    .line 26
+    .line 27
+    iget-object v0, v2, Lcom/facebook/account/login/fragment/LoginMainFragment;->A0E:Lcom/facebook/account/login/model/LoginFlowData;
+
+    .line 28
+    .line 29
+    iput-object v1, v0, Lcom/facebook/account/login/model/LoginFlowData;->A0R:Ljava/lang/String;
+
+    .line 30
+    .line 31
+    sget-object v0, LX/BsJ;->A08:LX/BsJ;
+
+    .line 32
+    .line 33
+    invoke-virtual {v2, v0}, Lcom/facebook/account/login/fragment/LoginBaseFragment;->A2I(LX/BsJ;)V
+
+    .line 34
+    .line 35
+    .line 36
+    return-void
+    .line 37
+.end method

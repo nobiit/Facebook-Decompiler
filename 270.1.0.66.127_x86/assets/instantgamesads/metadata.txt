@@ -1,0 +1,4 @@
+.id instantgamesads
+.requires dex
+.locator_id 22
+instantgamesads2.dex d23e1375e0fa7c657354f2fa3e9cbcf076497aa6 store7730.dex01.Canary

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="18.0dip" android:thickness="4.0dip">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f04038b" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="20.0dip" android:thickness="4.0dip">
+            <gradient android:startColor="?APKTOOL_DUPLICATE_attr_0x7f04036b" android:endColor="?APKTOOL_DUPLICATE_attr_0x7f040385" android:angle="270.0" android:type="linear" android:centerY="0.5" />
+        </shape>
+    </item>
+</layer-list>

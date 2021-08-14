@@ -1,0 +1,119 @@
+.class public final LX/LEY;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# static fields
+.field public static final __redex_internal_original_name:Ljava/lang/String; = "com.facebook.events.tickets.singlestep.impl.EventTicketingSingleStepComponentSpec$3"
+
+
+# instance fields
+.field public final synthetic A00:LX/LGA;
+
+.field public final synthetic A01:Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;
+
+.field public final synthetic A02:LX/7v7;
+
+.field public final synthetic A03:Lcom/facebook/events/tickets/logging/BuyTicketsLoggingInfo;
+
+.field public final synthetic A04:LX/7pW;
+
+
+# direct methods
+.method public constructor <init>(LX/7v7;LX/7pW;Lcom/facebook/events/tickets/logging/BuyTicketsLoggingInfo;Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;LX/LGA;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/LEY;->A02:LX/7v7;
+
+    .line 1
+    .line 2
+    iput-object p2, p0, LX/LEY;->A04:LX/7pW;
+
+    .line 3
+    .line 4
+    iput-object p3, p0, LX/LEY;->A03:Lcom/facebook/events/tickets/logging/BuyTicketsLoggingInfo;
+
+    .line 5
+    .line 6
+    iput-object p4, p0, LX/LEY;->A01:Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;
+
+    .line 7
+    .line 8
+    iput-object p5, p0, LX/LEY;->A00:LX/LGA;
+
+    .line 9
+    .line 10
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 5
+
+    .line 0
+    iget-object v0, p0, LX/LEY;->A02:LX/7v7;
+
+    .line 1
+    .line 2
+    iget-object v4, v0, LX/7v7;->A00:Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;
+
+    .line 3
+    .line 4
+    iget-object v3, p0, LX/LEY;->A04:LX/7pW;
+
+    .line 5
+    .line 6
+    iget-object v2, p0, LX/LEY;->A03:Lcom/facebook/events/tickets/logging/BuyTicketsLoggingInfo;
+
+    .line 7
+    .line 8
+    invoke-virtual {v4}, Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;->BP5()Lcom/facebook/events/tickets/common/model/EventTicketingPurchaseData;
+
+    .line 9
+    .line 10
+    .line 11
+    move-result-object v0
+
+    .line 12
+    iget v1, v0, Lcom/facebook/events/tickets/common/model/EventTicketingPurchaseData;->A00:I
+
+    .line 13
+    .line 14
+    iget-object v0, p0, LX/LEY;->A01:Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;
+
+    .line 15
+    .line 16
+    invoke-static {v0}, LX/LFi;->A00(Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;)Lcom/facebook/graphql/enums/GraphQLEventTicketsSelectionType;
+
+    .line 17
+    .line 18
+    .line 19
+    move-result-object v0
+
+    .line 20
+    invoke-virtual {v3, v2, v1, v0}, LX/7pW;->A02(Lcom/facebook/events/tickets/logging/BuyTicketsLoggingInfo;ILcom/facebook/graphql/enums/GraphQLEventTicketsSelectionType;)V
+
+    .line 21
+    .line 22
+    .line 23
+    iget-object v0, p0, LX/LEY;->A00:LX/LGA;
+
+    .line 24
+    .line 25
+    invoke-virtual {v0, v4}, LX/LGA;->A01(Lcom/facebook/events/tickets/common/model/EventBuyTicketsModel;)V
+
+    .line 26
+    .line 27
+    .line 28
+    return-void
+.end method

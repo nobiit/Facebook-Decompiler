@@ -1,0 +1,11 @@
+{
+  "$generated": "@generated SignedSource<<7ac6b87094f1f7d439a419c4ce69feca>>",
+  "AdsLWIBoostedLocalAwarenessManagementContainerViewQuery": {
+    "id": "3282250131807063",
+    "variables": [
+      "boostID",
+      "pageID",
+      "scale"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+.id awesomizer
+.requires dex
+.locator_id 5
+awesomizer2.dex 85712f208f66d627a4cac524fee2ad28bd74d259 store48e0.dex01.Canary

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600d5" android:top="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600d5" android:right="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600d5" android:bottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600d4">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+        </shape>
+    </item>
+</layer-list>

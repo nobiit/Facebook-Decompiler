@@ -1,0 +1,24 @@
+{
+  "$generated": "@generated SignedSource<<25ff624f2a635f9dc6c5b65415d5a1e3>>",
+  "AdsManagerAccountHomeView_Query": {
+    "id": "2900217096766098",
+    "variables": [
+      "account",
+      "ama_delayedSpendBar",
+      "ama_homeScreenRedesign_home",
+      "ama_homeScreenRedesign_removeCampaignStatus",
+      "ama_imagePrefetch",
+      "ama_isAMA",
+      "ama_mediumListImageSize",
+      "ama_mediumPlusListImageSize",
+      "ambr_fb_quickpromotion_nux_surface_id",
+      "ambr_pma_quickpromotion_nux_surface_id",
+      "scale",
+      "showNewAccountSummary"
+    ]
+  },
+  "AMAPreferredAccountQuery": {
+    "id": "1249551565149002",
+    "variables": []
+  }
+}

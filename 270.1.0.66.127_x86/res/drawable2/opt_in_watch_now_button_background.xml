@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+            <corners android:radius="@dimen2/(name removed)" />
+            <padding android:left="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f" android:top="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000e" android:right="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000f" android:bottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16000e" />
+        </shape>
+    </item>
+</selector>

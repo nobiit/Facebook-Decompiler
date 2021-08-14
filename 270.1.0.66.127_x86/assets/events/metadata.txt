@@ -1,0 +1,4 @@
+.id events
+.requires dex
+.locator_id 9
+events2.dex b9b4a88bc24bdb1c6fba4bce68d1f69338544319 storee119.dex01.Canary

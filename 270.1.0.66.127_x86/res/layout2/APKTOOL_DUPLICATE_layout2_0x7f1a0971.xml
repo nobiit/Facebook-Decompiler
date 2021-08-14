@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <X.Gpv android:layout_width="fill_parent" android:layout_height="wrap_content" fb:titleText="@null" />
+    <X.Gpu android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a21ce" android:layout_width="fill_parent" android:layout_height="wrap_content" fb:actionType="APKTOOL_DUPLICATE_id_0x7f0a2811" fb:titleText="@null" />
+    <X.Gpu android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a24f2" android:layout_width="fill_parent" android:layout_height="wrap_content" fb:actionType="APKTOOL_DUPLICATE_id_0x7f0a2737" fb:titleText="@null" />
+    <X.Gpu android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a29e7" android:layout_width="fill_parent" android:layout_height="wrap_content" fb:actionType="APKTOOL_DUPLICATE_id_0x7f0a2737" fb:titleText="@null" />
+    <X.Gpu android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a143b" android:layout_width="fill_parent" android:layout_height="wrap_content" fb:actionType="APKTOOL_DUPLICATE_id_0x7f0a2737" fb:titleText="@null" />
+</LinearLayout>

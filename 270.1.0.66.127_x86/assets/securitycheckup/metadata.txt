@@ -1,0 +1,4 @@
+.id securitycheckup
+.requires dex
+.locator_id 29
+securitycheckup2.dex 9267d1975e56681fc21e582639104067d458e0b7 storeb263.dex01.Canary

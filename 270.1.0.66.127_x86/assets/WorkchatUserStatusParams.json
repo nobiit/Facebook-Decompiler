@@ -1,0 +1,14 @@
+{
+  "render_object_query_id": 2128328433947154,
+  "render_object_query_params": {
+    "user_id": "<ID>"
+  },
+  "render_object_list_query_id": 2536797233058045,
+  "render_object_list_query_params": {},
+  "render_object_list_graphql_params": {
+    "top_level_list_path": "viewer.work_all_users_for_availability_status.edges",
+    "object_path": "node",
+    "primary_key_path": "id"
+  },
+  "render_object_list_sort_key": null
+}

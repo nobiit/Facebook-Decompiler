@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f06020b" />
+            <corners android:radius="@dimen2/(name removed)" />
+        </shape>
+    </item>
+    <item android:state_enabled="true">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+            <corners android:radius="@dimen2/(name removed)" />
+        </shape>
+    </item>
+    <item android:state_enabled="false" android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f06001c" />
+            <corners android:radius="@dimen2/(name removed)" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_checked="true" android:color="?android:colorControlActivated" android:alpha="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16012b" />
+    <item android:color="?android:colorControlHighlight" />
+</selector>

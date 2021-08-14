@@ -1,0 +1,4 @@
+.id groupsinsightsmember
+.requires dex
+.locator_id 17
+groupsinsightsmember2.dex 1bf60a56155e7ab6918ae030e995579fed391dec store4909.dex01.Canary

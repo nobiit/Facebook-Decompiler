@@ -1,0 +1,33 @@
+{
+  "$generated": "@generated SignedSource<<a6c35e64f54732ed246844a8f7d0f8e9>>",
+  "PromotionsHubSurfaceQuery": {
+    "id": "2350454931729271",
+    "variables": [
+      "id"
+    ]
+  },
+  "PromotionsHubObjectiveSectionQuery": {
+    "id": "2980682375279204",
+    "variables": [
+      "id",
+      "source_location"
+    ]
+  },
+  "PromotionsHubPromotionSectionQuery": {
+    "id": "3787771391264285",
+    "variables": [
+      "id",
+      "source_location"
+    ]
+  },
+  "PromotionsHubEqualOpportunityQuery": {
+    "id": "2350572278295126",
+    "variables": []
+  },
+  "PromotionsHubVitalsQuery": {
+    "id": "2740952502679164",
+    "variables": [
+      "id"
+    ]
+  }
+}

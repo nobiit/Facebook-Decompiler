@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a18ca" android:background="?APKTOOL_DUPLICATE_attr_0x7f040403" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.1jM android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a18c9" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@color/APKTOOL_DUPLICATE_color_0x7f0600e1" android:divider="@drawable2/fbui_list_divider" />
+    <ProgressBar android:layout_gravity="center" android:id="@android:id/empty" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c07e1" />
+</FrameLayout>

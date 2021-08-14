@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.1GA android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a09cf" android:background="?APKTOOL_DUPLICATE_attr_0x7f040403" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <X.2W0 android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a09d0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0e78" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <X.3Bd android:background="@color/APKTOOL_DUPLICATE_color_0x7f0601d4" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <X.2of android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160018" android:textColor="@drawable2/autofill_button_blue_font_style" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2212" android:background="@drawable2/autofill_button_blue_background" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:text="@null" />
+    </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="16.0dip" android:fillViewport="true" android:layout_above="@id/APKTOOL_DUPLICATE_id_0x7f0a0e78" android:layout_below="@id/APKTOOL_DUPLICATE_id_0x7f0a09d0">
+        <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2412" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip">
+            <X.1N1 android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160035" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f0601fe" android:gravity="start" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2883" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2.0dip" android:text="@null" />
+            <X.1N1 android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160037" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403fa" android:gravity="start" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a26e9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="@null" />
+            <View android:focusableInTouchMode="true" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip">
+                <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0e1f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_weight="1.0" android:layout_marginEnd="8.0dip" fb:hasNext="true" fb:hint="@null" />
+                <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a13ed" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" fb:hasNext="true" fb:hint="@null" />
+            </LinearLayout>
+            <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0160" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" fb:hasNext="true" fb:hint="@null" />
+            <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0161" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" fb:hasNext="true" fb:hint="@null" />
+            <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0609" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" fb:hasNext="true" fb:hint="@null" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip">
+                <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2b5c" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_weight="1.0" android:layout_marginEnd="8.0dip" fb:hasNext="true" fb:hint="@null" />
+                <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2581" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" fb:hasNext="true" fb:hint="@null" />
+            </LinearLayout>
+            <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0a23" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" fb:hasNext="true" fb:hint="@null" />
+            <X.MLs android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a27c0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" fb:hasNext="true" fb:hint="@null" />
+        </LinearLayout>
+    </ScrollView>
+</X.1GA>

@@ -1,0 +1,10 @@
+{
+  "$generated": "@generated SignedSource<<3b9bebc863a8e3e2848bde48c70d2e9e>>",
+  "AdsLWIBoostedPostCreateFlowContainerViewQuery": {
+    "id": "2740079699450863",
+    "variables": [
+      "creationInput",
+      "pageID"
+    ]
+  }
+}

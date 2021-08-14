@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">Kopēt saiti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120012">Saglabāt saiti Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001f">Atpakaļ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002a">Bloķēt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002d">Atzīmēt saiti kā aizdomīgu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120032">Atgriezties</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003f">Kamera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120046">Nokopēts</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004c">Pirkt biļetes</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004d">Iešu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004e">Interesē</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004f">Nedosies</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120050">Neinteresē</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120052">Brīvs</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120056">DALĪTIES</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120057">Pārlūka iestatījumi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120058">Kopēt saiti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005a">Instalēt aplikāciju</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005c">Apskati saglabātās lietas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120060">Saglabāt saiti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120062">Sūtīt ar Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120064">Vairāk iespēju</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120065">Ielādē vietni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006b">Ielādē %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006e">Ne tagad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120072">Skatīt vairāk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120075">Uzzini vairāk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12007b">Ne tagad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120080">Saglabāt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120081">Saglabāts</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120082">Piedāvājums</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120086">Saglabāt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120088">Saglabāts</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120089">Mēģini vēlreiz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008d">Labi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120095">Brīdinājums</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120096">Atpakaļ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ad">Uzzināt vairāk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b5">Iestatīt kā profila attēlu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bc">Publicēt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bd">Ziņu plūsma</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200be">Ziņu plūsma</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c1">Atpakaļ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ca">Atjaunināt</string>
+</resources>

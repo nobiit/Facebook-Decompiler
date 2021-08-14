@@ -1,0 +1,9 @@
+{
+  "$generated": "@generated SignedSource<<cd959b66bf36b30f742b91ee60920212>>",
+  "ProfileAboutSectionConfigAppSectionsQuery": {
+    "id": "2711717442272272",
+    "variables": [
+      "profileID"
+    ]
+  }
+}

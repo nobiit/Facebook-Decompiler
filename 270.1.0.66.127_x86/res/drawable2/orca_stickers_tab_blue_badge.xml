@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="-20.0dip" android:right="-20.0dip">
+        <bitmap android:gravity="center" android:src="@drawable4/orca_nux_icon_blue_dot" />
+    </item>
+</layer-list>

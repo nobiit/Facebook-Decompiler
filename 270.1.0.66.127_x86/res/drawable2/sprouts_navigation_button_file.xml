@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/fb_ic_upload_filled_24" />
+    <item android:drawable="@drawable/fb_ic_upload_outline_24" />
+</selector>

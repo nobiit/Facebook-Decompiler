@@ -1,0 +1,4 @@
+.id groupautoandruleapprove
+.requires dex
+.locator_id 11
+groupautoandruleapprove2.dex 48adb8fdf4603d17b2f27cff4d95f032cc9489f8 store56c8.dex01.Canary

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.8Ww android:orientation="vertical" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2895" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0340" />
+    <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a16f2" android:visibility="gone" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c033f" />
+</X.8Ww>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable2/cta_button_in_video_control_bg_circle" />
+    <item android:gravity="center">
+        <inset android:insetLeft="12.0dip" android:insetRight="12.0dip" android:insetTop="12.0dip" android:insetBottom="12.0dip">
+            <rotate android:fromDegrees="90.0" android:toDegrees="90.0" android:pivotX="50.0%" android:pivotY="50.0%">
+                <bitmap android:src="@drawable/fb_ic_chevron_double_left_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+            </rotate>
+        </inset>
+    </item>
+</layer-list>

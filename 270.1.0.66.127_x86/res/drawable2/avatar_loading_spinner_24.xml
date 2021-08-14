@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size android:height="24.0dip" android:width="24.0dip" />
+            <stroke android:width="3.0dip" android:color="@color/APKTOOL_DUPLICATE_color_0x7f06020b" />
+        </shape>
+    </item>
+    <item>
+        <rotate android:duration="780" android:fromDegrees="0.0" android:toDegrees="1440.0" android:pivotX="50.0%" android:pivotY="50.0%" android:repeatCount="infinite" android:repeatMode="restart">
+            <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="200.0" android:viewportHeight="200.0">
+                <path android:pathData="M13, 102 A 87, 87, 0, 0, 0, 90, 187" android:strokeColor="@color/APKTOOL_DUPLICATE_color_0x7f0600af" android:strokeWidth="22.0" android:strokeLineCap="round" />
+            </vector>
+        </rotate>
+    </item>
+</layer-list>

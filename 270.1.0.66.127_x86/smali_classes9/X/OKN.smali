@@ -1,0 +1,151 @@
+.class public final LX/OKN;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/view/View$OnClickListener;
+
+
+# instance fields
+.field public final synthetic A00:LX/OKO;
+
+
+# direct methods
+.method public constructor <init>(LX/OKO;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/OKN;->A00:LX/OKO;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/view/View;)V
+    .locals 5
+
+    .line 0
+    const v0, -0xb830b97
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A05(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v4
+
+    .line 7
+    iget-object v3, p0, LX/OKN;->A00:LX/OKO;
+
+    .line 8
+    .line 9
+    iget-object v1, v3, LX/OKO;->A00:LX/F8n;
+
+    .line 10
+    .line 11
+    sget-object v0, LX/01l;->A00:Ljava/lang/Integer;
+
+    .line 12
+    .line 13
+    invoke-virtual {v1, v0}, LX/F8n;->A02(Ljava/lang/Integer;)V
+
+    .line 14
+    .line 15
+    .line 16
+    iget-object v0, v3, LX/OKO;->A01:LX/F9D;
+
+    .line 17
+    .line 18
+    iget-object v0, v0, LX/F9D;->A03:Landroid/net/Uri;
+
+    .line 19
+    .line 20
+    if-eqz v0, :cond_0
+
+    .line 21
+    .line 22
+    invoke-static {v0}, LX/OKO;->A00(Landroid/net/Uri;)Landroid/net/Uri;
+
+    .line 23
+    .line 24
+    .line 25
+    move-result-object v1
+
+    .line 26
+    new-instance v2, Landroid/content/Intent;
+
+    .line 27
+    .line 28
+    const-string v0, "android.intent.action.VIEW"
+
+    .line 29
+    .line 30
+    invoke-direct {v2, v0}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
+
+    .line 31
+    .line 32
+    .line 33
+    invoke-static {v1}, LX/OKO;->A00(Landroid/net/Uri;)Landroid/net/Uri;
+
+    .line 34
+    .line 35
+    .line 36
+    invoke-virtual {v2, v1}, Landroid/content/Intent;->setData(Landroid/net/Uri;)Landroid/content/Intent;
+
+    .line 37
+    .line 38
+    .line 39
+    invoke-static {}, LX/0Rp;->A00()LX/0Rp;
+
+    .line 40
+    .line 41
+    .line 42
+    move-result-object v0
+
+    .line 43
+    invoke-virtual {v0}, LX/0Rp;->A03()LX/0Ma;
+
+    .line 44
+    .line 45
+    .line 46
+    move-result-object v1
+
+    .line 47
+    iget-object v0, v3, LX/OKO;->A05:LX/OKP;
+
+    .line 48
+    .line 49
+    iget-object v0, v0, LX/OKP;->A00:Landroid/content/Context;
+
+    .line 50
+    .line 51
+    invoke-virtual {v1, v2, v0}, LX/0MP;->A06(Landroid/content/Intent;Landroid/content/Context;)Z
+
+    .line 52
+    .line 53
+    .line 54
+    :cond_0
+    const v0, 0x21949401
+
+    .line 55
+    .line 56
+    .line 57
+    invoke-static {v0, v4}, LX/05B;->A0B(II)V
+
+    .line 58
+    .line 59
+    .line 60
+    return-void
+    .line 61
+.end method

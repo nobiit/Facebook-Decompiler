@@ -1,0 +1,48 @@
+enum Status : int {
+  NONE = 0,
+  AVAILABLE = 1,
+  SPORADIC = 2,
+  TENTATIVE = 3,
+  BUSY = 4,
+  DO_NOT_DISTURB = 5,
+  FOCUS = 6, // Focus status exists solely as a faceworld feature
+  EMOJI_STATUS = 7, // A manually set combination of emoji/text that describes what the user is doing.
+}
+
+enum DndMode : byte {
+  DEFAULT = 0, // For legacy reasons, this value means that statuses of DO_NOT_DISTURB will count as enabling DND, and all other types will do nothing to affect DND mode in either way
+  ENABLE_DND = 1, // This schedule item enables DND mode. Can be set on types DO_NOT_DISTURB or EMOJI_STATUS
+  DISABLE_DND = 2, // This schedule item actively disables DND mode (e.g. overriding a recurring schedule). Can only be set on type DO_NOT_DISTURB.
+}
+
+table StatusScheduleItem {
+  status:Status;
+  start_date:long; // dates are unix timestamps, same as our GraphQL Date type
+  end_date:long;
+  location:string;
+  comment:string;
+  priority:int; // Higher priority should overrule lower priority
+  emoji:string; // Set by the user, an emoji representing this status event. (only used for status == EMOJI_STATUS.)
+  user_status_text:string; // Set by the user, a text string to describe their status. (only used for status == EMOJI_STATUS.)
+  dnd_mode:DndMode; // Whether this status event enables or disables DND or not.
+}
+
+table WeeklyRecurringItem {
+  start_time_seconds:int; // Time of week when this DND block begins. In user's local timezone.
+  end_time_seconds:int; // Time of week when this DND block ends. In user's local timezone.
+  duration:int;
+  enabled:bool; // If disabled, item has no effect on DND. This property exists so that users can toggle off a status schedule without losing its information from the GUI.    	
+}
+
+table WorkInfo {
+  status_events:[StatusScheduleItem];
+  do_not_disturb_weekly_recurring_items:[WeeklyRecurringItem];
+  gmt_offset_minutes:int; // The user's current timezone's GMT offset.
+}
+
+table User {
+  id:string;
+  work_info:WorkInfo;
+}
+
+root_type User;

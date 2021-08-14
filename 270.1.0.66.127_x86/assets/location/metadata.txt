@@ -1,0 +1,4 @@
+.id location
+.requires dex
+.locator_id 24
+location2.dex 0d870c461f1bc05f857d0cadc29f35f94e07b006 store9fb5.dex01.Canary

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_checkable="true" android:state_checked="true" android:color="?APKTOOL_DUPLICATE_attr_0x7f04036b" />
+    <item android:state_enabled="true" android:color="?APKTOOL_DUPLICATE_attr_0x7f0403fa" />
+    <item android:color="?APKTOOL_DUPLICATE_attr_0x7f040398" />
+</selector>

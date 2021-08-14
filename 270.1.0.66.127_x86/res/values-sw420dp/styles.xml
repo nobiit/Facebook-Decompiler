@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130015" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130017">
+        <item name="android:layout_width">@dimen/APKTOOL_DUPLICATE_dimen_0x7f07000a</item>
+        <item name="android:layout_height">@dimen/APKTOOL_DUPLICATE_dimen_0x7f070009</item>
+    </style>
+</resources>

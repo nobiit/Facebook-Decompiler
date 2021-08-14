@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <style type="text/css">
+    html, body {
+      height: 100%%;
+      width: 100%%;
+      margin: 0;
+      padding: 0;
+      background-color: #000000;
+      overflow: hidden;
+      position: fixed;
+    }
+  </style>
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </head>
+
+  <body>
+    <div id="youTubePlayerDOM"></div>
+  </body>
+
+  <script type="text/javascript">
+    var UNSTARTED = "UNSTARTED";
+    var ENDED = "ENDED";
+    var PLAYING = "PLAYING";
+    var PAUSED = "PAUSED";
+    var BUFFERING = "BUFFERING";
+    var CUED = "CUED";
+    var INTERVAL_DELAY_MS = %2$s;
+
+    var YouTubePlayerJavascriptBridge = window.YouTubePlayerJavascriptBridge;
+    var player;
+
+    var timerId;
+
+    function onYouTubeIframeAPIReady() {
+      YouTubePlayerJavascriptBridge.sendPlayerReady();
+      player = new YT.Player("youTubePlayerDOM", %1$s);
+  	}
+
+    function sendVideoReady() {
+      player.playVideo();
+      YouTubePlayerJavascriptBridge.sendVideoReady(player.getDuration());
+    }
+
+    function sendPlayerStateChange(event) {
+      clearTimeout(timerId);
+      switch (event.data) {
+      	case YT.PlayerState.UNSTARTED:
+          sendStateChange(UNSTARTED);
+          return;
+
+      	case YT.PlayerState.ENDED:
+          sendStateChange(ENDED);
+          return;
+
+        case YT.PlayerState.PLAYING:
+          sendStateChange(PLAYING);
+          startSendCurrentTimeInterval();
+            return;
+
+        case YT.PlayerState.PAUSED:
+          sendStateChange(PAUSED);
+          return;
+
+        case YT.PlayerState.BUFFERING:
+          sendStateChange(BUFFERING);
+          return;
+
+        case YT.PlayerState.CUED:
+          sendStateChange(CUED);
+          return;
+      }
+
+      function sendStateChange(newState) {
+        YouTubePlayerJavascriptBridge.sendStateChange(newState, player.getCurrentTime())
+      }
+
+      function startSendCurrentTimeInterval() {
+        timerId = setInterval(function() {
+          YouTubePlayerJavascriptBridge.sendVideoCurrentlyPlaying( player.getCurrentTime() )
+          YouTubePlayerJavascriptBridge.sendVideoLoadedFraction( player.getVideoLoadedFraction() )
+        }, INTERVAL_DELAY_MS );
+      }
+    }
+
+    function sendPlaybackQualityChange(event) {
+      YouTubePlayerJavascriptBridge.sendPlaybackQualityChange(event.data);
+    }
+
+    function sendError(event) {
+      YouTubePlayerJavascriptBridge.sendError(error.data);
+    }
+
+    // JAVA to WEB functions
+
+    function seekTo(startSeconds) {
+    	player.seekTo(startSeconds, true);
+    	var videoDuration = player.getDuration();
+    	if (startSeconds <= videoDuration) {
+    	  YouTubePlayerJavascriptBridge.sendVideoCurrentlyPlaying(startSeconds);
+    	}
+    }
+
+    function pauseVideo() {
+    	player.pauseVideo();
+    }
+
+    function playVideo() {
+    	player.playVideo();
+    }
+
+    function setVolume(volumePercent) {
+      player.setVolume(volumePercent);
+    }
+
+    function loadVideo(playerParamsString) {
+      let playerParams = JSON.parse(playerParamsString);
+      player.stopVideo();
+      player.destroy();
+      player = new YT.Player("youTubePlayerDOM", playerParams);
+    }
+
+  </script>
+</html>

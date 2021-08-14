@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160006" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160011"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="marquee" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07be" android:fadingEdge="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0137" />
+    <TextView android:ellipsize="marquee" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07ba" android:fadingEdge="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" android:layout_marginBottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" android:maxLines="4" android:layout_marginEnd="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160005" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c0138" />
+</LinearLayout>

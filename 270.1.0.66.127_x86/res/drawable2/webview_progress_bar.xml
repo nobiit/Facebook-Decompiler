@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:thickness="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009">
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:thickness="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009">
+                <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060023" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

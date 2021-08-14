@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.1FY android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.5Ya android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02d2" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="top" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02d1" android:background="@drawable2/bottom_sheet_background_fb" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02cf" android:inflatedId="@id/APKTOOL_DUPLICATE_id_0x7f0a02ce" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <androidx.core.widget.NestedScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <X.8uM android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02d4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" />
+            </androidx.core.widget.NestedScrollView>
+            <X.8QE android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02d5" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </X.5Ya>
+    <X.8QE android:layout_gravity="bottom" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a25dd" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</X.1FY>

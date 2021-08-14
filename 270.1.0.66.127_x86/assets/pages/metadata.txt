@@ -1,0 +1,4 @@
+.id pages
+.requires dex
+.locator_id 27
+pages2.dex bac7916059c54da46fc506a20ab4873127f2a276 storeefc4.dex01.Canary

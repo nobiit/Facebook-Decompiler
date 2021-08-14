@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.1GA android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015">
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0627" android:layout_width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" android:scaleType="centerInside" android:tint="?APKTOOL_DUPLICATE_attr_0x7f0403d5" android:layout_alignParentLeft="true" android:layout_alignParentStart="true" />
+        <TextView android:textSize="12.0dip" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403d4" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a281a" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="4.0dip" android:layout_centerInParent="true" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a16f1" android:layout_width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160015" android:tint="?APKTOOL_DUPLICATE_attr_0x7f0403d5" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" />
+    </X.1GA>
+</merge>

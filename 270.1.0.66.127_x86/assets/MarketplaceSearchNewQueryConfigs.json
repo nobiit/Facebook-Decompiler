@@ -1,0 +1,16 @@
+{
+  "$generated": "@generated SignedSource<<b37fe857492ed83a4897db779aaa717c>>",
+  "MarketplaceSearchApp_MarketplaceSearchRouteNewQuery": {
+    "id": "3951553384887188",
+    "variables": [
+      "fetchCanonicalEntity",
+      "params",
+      "MarketplaceBrowseFeedScrollView_SIZE",
+      "ShopsUIUtils_FEED_IMAGE_WIDTH",
+      "scale",
+      "showFeedbackOnSERP",
+      "showFreeShipping",
+      "fetchLatitudeAndLongitude"
+    ]
+  }
+}

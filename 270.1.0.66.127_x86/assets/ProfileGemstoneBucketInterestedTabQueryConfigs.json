@@ -1,0 +1,11 @@
+{
+  "$generated": "@generated SignedSource<<64d91a00be8ec1626b4783b2e2aeccae>>",
+  "ProfileGemstoneBucketInterestedTabContainerViewQuery": {
+    "id": "2694372060640970",
+    "variables": [
+      "ProfileGemstoneProfile_PHOTO_HEIGHT",
+      "ProfileGemstoneProfile_PHOTO_WIDTH",
+      "scale"
+    ]
+  }
+}

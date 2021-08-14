@@ -1,0 +1,94 @@
+.class public final LX/MM7;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/view/View$OnClickListener;
+
+
+# instance fields
+.field public final synthetic A00:LX/MM5;
+
+
+# direct methods
+.method public constructor <init>(LX/MM5;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/MM7;->A00:LX/MM5;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/view/View;)V
+    .locals 4
+
+    .line 0
+    const v0, 0x3fa88990
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A05(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v3
+
+    .line 7
+    iget-object v2, p0, LX/MM7;->A00:LX/MM5;
+
+    .line 8
+    .line 9
+    iget v0, v2, LX/MM5;->A00:I
+
+    .line 10
+    .line 11
+    add-int/lit8 v1, v0, 0x1
+
+    .line 12
+    .line 13
+    iget v0, v2, LX/MM5;->A01:I
+
+    .line 14
+    .line 15
+    invoke-static {v1, v0}, Ljava/lang/Math;->min(II)I
+
+    .line 16
+    .line 17
+    .line 18
+    move-result v0
+
+    .line 19
+    iput v0, v2, LX/MM5;->A00:I
+
+    .line 20
+    .line 21
+    invoke-static {v2}, LX/MM5;->A00(LX/MM5;)V
+
+    .line 22
+    .line 23
+    .line 24
+    const v0, -0x20a14426
+
+    .line 25
+    .line 26
+    .line 27
+    invoke-static {v0, v3}, LX/05B;->A0B(II)V
+
+    .line 28
+    .line 29
+    .line 30
+    return-void
+    .line 31
+.end method

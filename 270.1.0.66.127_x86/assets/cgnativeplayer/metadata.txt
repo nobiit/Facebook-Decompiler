@@ -1,0 +1,4 @@
+.id cgnativeplayer
+.requires dex
+.locator_id 7
+cgnativeplayer2.dex fa7932c8887031692ea3a26f765b2139bb2287c6 stored41c.dex01.Canary

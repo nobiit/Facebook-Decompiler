@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f010053"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:duration="@android:integer/config_longAnimTime" android:fromYDelta="25.0%p" android:toYDelta="0.0" />
+    <alpha android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f010053" android:duration="@android:integer/config_longAnimTime" android:fromAlpha="0.0" android:toAlpha="1.0" />
+</set>

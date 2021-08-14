@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate android:fromDegrees="270.0" android:toDegrees="270.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="ring" android:innerRadiusRatio="2.5" android:useLevel="true" android:thickness="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160006">
+        <gradient android:startColor="?APKTOOL_DUPLICATE_attr_0x7f04089c" android:endColor="?APKTOOL_DUPLICATE_attr_0x7f04089c" android:angle="0.0" android:type="sweep" />
+    </shape>
+</rotate>

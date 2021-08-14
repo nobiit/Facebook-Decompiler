@@ -1,0 +1,51 @@
+.class public final LX/2Y7;
+.super LX/2Le;
+.source ""
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    .line 0
+    const/16 v0, 0xa
+
+    .line 1
+    .line 2
+    new-array v1, v0, [I
+
+    .line 3
+    .line 4
+    fill-array-data v1, :array_0
+
+    .line 5
+    .line 6
+    .line 7
+    const-string v0, "FbChromeFragmentStartOrder$OnFragmentCreate"
+
+    .line 8
+    .line 9
+    invoke-direct {p0, v0, v1}, LX/2Le;-><init>(Ljava/lang/String;[I)V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+
+    .line 13
+    nop
+
+    :array_0
+    .array-data 4
+        0xfd
+        0xfe
+        0xff
+        0x100
+        0x101
+        0x102
+        0x103
+        0x104
+        0x105
+        0x106
+    .end array-data
+.end method

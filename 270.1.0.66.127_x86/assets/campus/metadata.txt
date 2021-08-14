@@ -1,0 +1,4 @@
+.id campus
+.requires dex
+.locator_id 6
+campus2.dex 7c3cb7cd2e792c364b0f418dd63134761cd0e6e1 storeecdf.dex01.Canary

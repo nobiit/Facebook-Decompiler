@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners android:bottomLeftRadius="4.0dip" android:bottomRightRadius="4.0dip" />
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f040371" />
+        </shape>
+    </item>
+</selector>

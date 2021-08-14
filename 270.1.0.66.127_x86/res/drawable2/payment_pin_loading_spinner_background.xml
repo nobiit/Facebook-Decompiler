@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009" android:color="@color/APKTOOL_DUPLICATE_color_0x7f060225" />
+        </shape>
+    </item>
+    <item>
+        <rotate android:toDegrees="360.0">
+            <shape android:shape="ring" android:innerRadius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160066" android:thickness="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160009">
+                <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600af" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

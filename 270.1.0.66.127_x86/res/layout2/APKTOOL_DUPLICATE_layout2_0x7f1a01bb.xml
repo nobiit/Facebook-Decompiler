@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.8Wv android:orientation="vertical" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1008" android:background="@drawable2/clickable_item_bg" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable2/navigation_back" android:scaleType="center" android:layout_weight="1.0" />
+        <View android:layout_gravity="center_vertical" android:background="#ffe5e5e5" android:layout_width="1.0dip" android:layout_height="24.0dip" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1009" android:background="@drawable2/clickable_item_bg" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable2/navigation_forward" android:scaleType="center" android:layout_weight="1.0" />
+    </LinearLayout>
+    <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a16f2" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1c033f" />
+</X.8Wv>

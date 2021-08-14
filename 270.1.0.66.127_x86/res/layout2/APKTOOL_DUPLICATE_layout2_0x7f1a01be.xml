@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.8WW android:orientation="vertical" android:background="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" android:layout_width="fill_parent" android:layout_height="49.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f06006b" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1f15" android:padding="6.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable2/iab_ic_app_facebook_24" />
+        <TextView android:textSize="16.0sp" android:ellipsize="middle" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1f18" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff689afe" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a1f16" android:background="@drawable2/clickable_item_bg" android:paddingLeft="13.0dip" android:paddingRight="13.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="48.0dip" android:text="@string/APKTOOL_DUPLICATE_string_0x7f12008f" android:maxLines="1" />
+    </LinearLayout>
+</X.8WW>

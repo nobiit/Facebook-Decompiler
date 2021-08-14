@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f04039a" />
+            <stroke android:width="4.0dip" android:color="?APKTOOL_DUPLICATE_attr_0x7f040403" />
+            <size android:height="140.0dip" android:width="140.0dip" />
+        </shape>
+    </item>
+    <item android:top="8.0dip" android:bottom="8.0dip" android:start="8.0dip" android:end="8.0dip">
+        <shape android:shape="oval">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f0403c8" />
+            <stroke android:width="4.0dip" android:color="?APKTOOL_DUPLICATE_attr_0x7f040403" />
+            <size android:height="132.0dip" android:width="132.0dip" />
+        </shape>
+    </item>
+</layer-list>

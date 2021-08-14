@@ -1,0 +1,289 @@
+.class public final Lcom/facebook/common/util/Either;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/google/common/base/Supplier;
+.implements Landroid/os/Parcelable;
+
+
+# static fields
+.field public static final CREATOR:Landroid/os/Parcelable$Creator;
+
+
+# instance fields
+.field public final A00:Ljava/lang/Object;
+
+.field public final A01:Ljava/lang/Object;
+
+.field public final A02:Z
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 2
+
+    .line 0
+    new-instance v1, Lcom/facebook/redex/PCreatorEBaseShape48S0000000_I3_20;
+
+    .line 1
+    .line 2
+    const/16 v0, 0x8
+
+    .line 3
+    .line 4
+    invoke-direct {v1, v0}, Lcom/facebook/redex/PCreatorEBaseShape48S0000000_I3_20;-><init>(I)V
+
+    .line 5
+    .line 6
+    .line 7
+    sput-object v1, Lcom/facebook/common/util/Either;->CREATOR:Landroid/os/Parcelable$Creator;
+
+    .line 8
+    .line 9
+    return-void
+    .line 10
+.end method
+
+.method public constructor <init>(Ljava/lang/Object;Ljava/lang/Object;Z)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    iput-object p1, p0, Lcom/facebook/common/util/Either;->A00:Ljava/lang/Object;
+
+    .line 4
+    .line 5
+    iput-object p2, p0, Lcom/facebook/common/util/Either;->A01:Ljava/lang/Object;
+
+    .line 6
+    .line 7
+    iput-boolean p3, p0, Lcom/facebook/common/util/Either;->A02:Z
+
+    .line 8
+    .line 9
+    return-void
+    .line 10
+    .line 11
+    .line 12
+    .line 13
+.end method
+
+
+# virtual methods
+.method public final describeContents()I
+    .locals 1
+
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
+.method public final equals(Ljava/lang/Object;)Z
+    .locals 2
+
+    .line 0
+    instance-of v0, p1, Lcom/facebook/common/util/Either;
+
+    .line 1
+    .line 2
+    if-nez v0, :cond_0
+
+    .line 3
+    .line 4
+    const/4 v0, 0x0
+
+    .line 5
+    return v0
+
+    .line 6
+    :cond_0
+    invoke-virtual {p0}, Lcom/facebook/common/util/Either;->get()Ljava/lang/Object;
+
+    .line 7
+    .line 8
+    .line 9
+    move-result-object v1
+
+    .line 10
+    check-cast p1, Lcom/facebook/common/util/Either;
+
+    .line 11
+    .line 12
+    invoke-virtual {p1}, Lcom/facebook/common/util/Either;->get()Ljava/lang/Object;
+
+    .line 13
+    .line 14
+    .line 15
+    move-result-object v0
+
+    .line 16
+    invoke-static {v1, v0}, Lcom/google/common/base/Objects;->equal(Ljava/lang/Object;Ljava/lang/Object;)Z
+
+    .line 17
+    .line 18
+    .line 19
+    move-result v0
+
+    .line 20
+    return v0
+    .line 21
+.end method
+
+.method public final get()Ljava/lang/Object;
+    .locals 1
+
+    .line 0
+    iget-boolean v0, p0, Lcom/facebook/common/util/Either;->A02:Z
+
+    .line 1
+    .line 2
+    if-eqz v0, :cond_0
+
+    .line 3
+    .line 4
+    iget-object v0, p0, Lcom/facebook/common/util/Either;->A00:Ljava/lang/Object;
+
+    .line 5
+    .line 6
+    return-object v0
+
+    .line 7
+    :cond_0
+    iget-object v0, p0, Lcom/facebook/common/util/Either;->A01:Ljava/lang/Object;
+
+    .line 8
+    .line 9
+    return-object v0
+    .line 10
+.end method
+
+.method public final hashCode()I
+    .locals 1
+
+    .line 0
+    invoke-virtual {p0}, Lcom/facebook/common/util/Either;->get()Ljava/lang/Object;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v0
+
+    .line 4
+    filled-new-array {v0}, [Ljava/lang/Object;
+
+    .line 5
+    .line 6
+    .line 7
+    move-result-object v0
+
+    .line 8
+    invoke-static {v0}, Ljava/util/Arrays;->hashCode([Ljava/lang/Object;)I
+
+    .line 9
+    .line 10
+    .line 11
+    move-result v0
+
+    .line 12
+    return v0
+    .line 13
+.end method
+
+.method public final toString()Ljava/lang/String;
+    .locals 3
+
+    .line 0
+    iget-boolean v0, p0, Lcom/facebook/common/util/Either;->A02:Z
+
+    .line 1
+    .line 2
+    if-eqz v0, :cond_0
+
+    .line 3
+    .line 4
+    const-string v2, "left"
+
+    .line 5
+    .line 6
+    :goto_0
+    invoke-virtual {p0}, Lcom/facebook/common/util/Either;->get()Ljava/lang/Object;
+
+    .line 7
+    .line 8
+    .line 9
+    move-result-object v0
+
+    .line 10
+    invoke-static {v0}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    .line 11
+    .line 12
+    .line 13
+    move-result-object v1
+
+    .line 14
+    const-string v0, "Either.%s(%s)"
+
+    .line 15
+    .line 16
+    invoke-static {v0, v2, v1}, Lcom/facebook/common/stringformat/StringFormatUtil;->formatStrLocaleSafe(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/String;
+
+    .line 17
+    .line 18
+    .line 19
+    move-result-object v0
+
+    .line 20
+    return-object v0
+
+    .line 21
+    :cond_0
+    const-string v2, "right"
+
+    .line 22
+    .line 23
+    goto :goto_0
+.end method
+
+.method public final writeToParcel(Landroid/os/Parcel;I)V
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, Lcom/facebook/common/util/Either;->A00:Ljava/lang/Object;
+
+    .line 1
+    .line 2
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeValue(Ljava/lang/Object;)V
+
+    .line 3
+    .line 4
+    .line 5
+    iget-object v0, p0, Lcom/facebook/common/util/Either;->A01:Ljava/lang/Object;
+
+    .line 6
+    .line 7
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeValue(Ljava/lang/Object;)V
+
+    .line 8
+    .line 9
+    .line 10
+    iget-boolean v0, p0, Lcom/facebook/common/util/Either;->A02:Z
+
+    .line 11
+    .line 12
+    invoke-static {p1, v0}, LX/3yi;->A0W(Landroid/os/Parcel;Z)V
+
+    .line 13
+    .line 14
+    .line 15
+    return-void
+    .line 16
+    .line 17
+    .line 18
+    .line 19
+.end method

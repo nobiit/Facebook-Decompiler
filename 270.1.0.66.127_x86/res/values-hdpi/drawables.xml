@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="edit_text_view_trash_grey">R|GMYR5ANA5J3m1_0BAAAAAACfVCZ9bnsvAAAD||27|37|240</item>
+    <item type="drawable" name="facecast_recycler_pill_icon">R|GOsuVwLU6wW3aWMGAAAAAABSQepkbnsvAAAD||29|29|240</item>
+    <item type="drawable" name="ic_menu_messages_archive">R|GIQn5gNQUdd9NhMBAAAAAADw_INubnsvAAAD||72|72|240</item>
+    <item type="drawable" name="ic_menu_messages_forward">R|GLxc5APlcm8msaMEAAAAAACHYtB5bnsvAAAD||72|72|240</item>
+    <item type="drawable" name="ic_menu_messages_move">R|GPMM5QNnpLURnGsIAAAAAAAo9uxubnsvAAAD||72|72|240</item>
+    <item type="drawable" name="ic_menu_messages_unarchive">R|GOdM5gMol3hNlIAEAAAAAAAM6NdmbnsvAAAD||72|72|240</item>
+    <item type="drawable" name="ic_menu_messages_unread">R|GOph4wO5GDoiyhgBAAAAAADi2RECbnsvAAAD||72|72|240</item>
+</resources>

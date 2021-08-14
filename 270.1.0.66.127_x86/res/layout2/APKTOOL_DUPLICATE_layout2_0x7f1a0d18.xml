@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2201" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:background="?APKTOOL_DUPLICATE_attr_0x7f040403" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <X.2R2 android:layout_gravity="start|center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2204" android:background="@drawable2/clickable_item_bg" android:padding="12.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip" android:src="@drawable/fb_ic_nav_cross_outline_24" fb:glyphColor="@color/APKTOOL_DUPLICATE_color_0x7f060217" />
+        <LinearLayout android:layout_gravity="start|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <X.1j4 android:textSize="14.0sp" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403dd" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2894" android:layout_width="wrap_content" android:layout_height="wrap_content" fb:fbFontFamily="APKTOOL_DUPLICATE_id_0x7f0a21dc" fb:fbFontWeight="APKTOOL_DUPLICATE_id_0x7f0a03ce" />
+            <X.1j4 android:textSize="14.0sp" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0403c9" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a26f1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginStart="6.0dip" fb:fbFontFamily="APKTOOL_DUPLICATE_id_0x7f0a21dc" fb:fbFontWeight="APKTOOL_DUPLICATE_id_0x7f0a200f" />
+        </LinearLayout>
+        <X.2R2 android:layout_gravity="start|center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a2202" android:background="@drawable2/clickable_item_bg" android:padding="12.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginRight="6.0dip" android:src="@drawable/fb_ic_chevron_down_filled_24" android:layout_marginEnd="6.0dip" fb:glyphColor="?APKTOOL_DUPLICATE_attr_0x7f0403f9" />
+    </LinearLayout>
+    <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060223" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

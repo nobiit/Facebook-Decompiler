@@ -1,0 +1,5 @@
+.id instantgames
+.requires dex
+.requires instantgamesads
+.locator_id 21
+instantgames2.dex 84bff233fe8e80574a45b4050264b6f73af89a84 store9180.dex01.Canary

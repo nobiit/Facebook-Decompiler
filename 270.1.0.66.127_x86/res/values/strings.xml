@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">622912139302-p5kle555cs5cfom8idmrdt1p3dlmd8d8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url">https://fb-messaging-b8df1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">622912139302</string>
+    <string name="google_api_key">AIzaSyBWJZPw7wVi-NQEViQV9ZnadO-xbX4S8o0</string>
+    <string name="google_app_id">1:622912139302:android:77def644cd0f4622</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBWJZPw7wVi-NQEViQV9ZnadO-xbX4S8o0</string>
+    <string name="project_id">fb-messaging-b8df1</string>
+    <string name="(name removed)">Copy link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120012">Save link to Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120013">Send in Facebook Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120014">Address</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120015">[{ \"include\": \"https://www.facebook.com/.well-known/assetlinks.json\" },{ \"relation\": [\"delegate_permission/common.handle_all_urls\"], \"target\": { \"namespace\": \"web\", \"site\": \"https://m.facebook.com\" } },{ \"relation\": [\"delegate_permission/common.handle_all_urls\"], \"target\": { \"namespace\": \"web\", \"site\": \"https://www.facebook.com\" } }]</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120016">Autofill</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120017">Autofill Settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120018">Your information has been saved in</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120019">Facebook Autofill Settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001a">Your Facebook autofill information has been updated in your</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001b">Added to %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001c">Add to Collection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001d">This will clear autofill data you have saved for completing forms in the Facebook Mobile Browser.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001e">Clear Autofill Data</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001f">Go back</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120020">Change Collection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120021">Close browser</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120022">"Clear your phone's cookies and cache from websites you've visited while using the %1$s app."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120023">Clear Browsing Data From Your Phone</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120024">"We're sorry, there's a technical problem with this feature. We're working on getting it fixed."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120025">Sorry, Something Went Wrong</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120026">"%1$s wants to use your device's camera."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120027">"%1$s wants to use your device's location."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120028">Facebook Mobile Browser</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120029">Allow</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002a">Block</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002b">Confirm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002c">Loading …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002d">Mark link as suspicious</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002e">Saved</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12002f">Share Content</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120030">\"%1$s\"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120031">There are problems with the security certificate for this site</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120032">Go Back</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120033">Security error</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120034">%1$s for Android</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120036">Free up space by managing data storage in your device settings.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120037">Not Enough Storage to Use %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120038">%1$s Application Error</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120039">SAVE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003a">This info will only be saved to your device so you can autofill later. This will not be shared with Facebook.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003b">Save this information?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003c">Your Story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003d">Story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003e">Your Story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003f">Camera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120040">Your Story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120041">Add to Your Story</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120042">Facebook Stories</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120043">Reset capture mode.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120044">Share webpage to Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120045">COPIED!</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120046">Copied</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120047">Copy Code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120048">Data settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120049">"Don't save"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004a">Edit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004b">Email</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004c">Get Tickets</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004d">Going</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004e">Interested</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12004f">Not Going</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120050">Not Interested</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120051">%1$s - %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120052">Free</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120053">This offer has expired</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120054">Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120055">"Page can't be loaded"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120056">SHARE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120057">Browser Settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120058">Copy link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120059">Link copied</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005a">Install app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005b">Install %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005c">View saved items</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005d">Open with …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005e">Open in app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12005f">Open in %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120060">Save Link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120061">Link not saved</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120062">Send in Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120063">Send in Workplace Chat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120064">More options</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120065">Loading website</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120066">"Additional info from this advertiser couldn't be loaded. You can continue watching the video or go back to News Feed."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120067">You can install the app now without waiting for the page to load.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120068">%s comments about this video.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120069">%s people reacted on this video.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006a">%s people shared this video.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006b">Loading %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006c">Settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006d">SAVE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006e">NOT NOW</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006f">Hide Details</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120070">"This won't be posted to Facebook"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120071">Save this information for next time?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120072">See More</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120074">Powered by</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120075">Learn More</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120076">••••••••</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120077">Locked · Save this offer to reveal the promo code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120078">Save for Facebook Autofill?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120079">Update Information?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12007a">Name</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12007b">Not Now</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12007c">Save this offer and get reminders before it expires.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120080">Save</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120081">Saved</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120082">Offer</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120083">Save failed.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120084">Short on time? Save this and get reminded about it later</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120085">Save for later</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120086">Save</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120087">Saving…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120088">Saved</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120089">Try again</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008a">Unsave failed.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008b">Unsaving…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008c">Promo code send to&lt;br/>&lt;b>%1$s&lt;/b>. You can also view this offer in your saved items.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008d">OK</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008e">Facebook QR Code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12008f">SHARE QUOTE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120090">Autofill with Facebook?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120091">&lt;a id=advisory_by_google>Advisory provided by Google&lt;/a></string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120092">"You can still &lt;a id=proceed href=#>visit this site&lt;/a> if you'd like to."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120093">This website may contain harmful or objectionable content.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120094">&lt;b>%1$s&lt;/b> may be associated with malicious activity, spam or other objectionable content.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120095">Warning</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120096">GO BACK</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120097">Hide Details</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120098">&lt;a id=learn_more>Learn more&lt;/a>.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120099">Attackers on &lt;b>%1$s&lt;/b> might attempt to install dangerous software on your device that steal or delete your information (for example, photos, passwords, messages, and credit cards).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009a">This website may try to install harmful software on your device.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009b">If you understand the risks to your security, you can &lt;a id=proceed href=#>visit this unsafe site&lt;/a> anyway.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009c">Show Details</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009d">Website Not Safe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009e">Attackers on &lt;b>%1$s&lt;/b> may deceive you into doing something dangerous like installing software or revealing your personal information (for example, passwords, phone numbers or credit cards).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12009f">This website may try to deceive you into providing personal information or downloading harmful software.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a0">Save as New</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a1">Autofill with Facebook to make filling out forms faster.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a2">Save this info to make filling out forms faster.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a3">Save your information to autofill forms.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a4">Securely save your autofill information to fill out forms faster on Facebook.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a5">Save this information?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a6">Autofill</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a7">Fill Out Forms Faster</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a8">Save information for autofill?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200a9">Save</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200aa">Save Changes</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ab">Save this offer to reveal the promo code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ac">Save this offer to reveal the promo code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ad">LEARN MORE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ae">This information will only be saved in your Facebook Browser Settings.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200af">Your information, such as passwords or credit card numbers, may not be secure when shared with this website.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b0">Your information, such as passwords or credit card numbers, may not be secure when shared with this website.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b1">Information shared with this website, such as passwords or credit card numbers, is submitted securely.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b2">This Website Is Not Using a Secure Connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b3">This Website Is Not Using a Secure Connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b4">This Website Is Using a Secure Connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b5">Set As Profile Picture</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b6">Set as Profile Video</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b7">App Updates</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b8">Notifications</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200b9">Third Party App Updates</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ba">Facebook News Feed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bb">Feed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bc">Post</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bd">News Feed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200be">News Feed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200bf">Post to News Feed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c0">CONTINUE TO WEBSITE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c1">GO BACK</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c2">"There's a problem with the security certificate used by %1$s. Your personal information, such as passwords or credit card numbers, may not be secure when shared with this website."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c3">This Website Is Not Using a Secure Connection</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c4">TAP FOR OFFER DETAILS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c5">Tap to copy promo code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c6">Telephone</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c7">You may also like</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c8">Unlocked · Tap to copy promo code</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200c9">Update this information?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ca">Update</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200cb">Use this promo code at checkout:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200cc">Use promo code:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200cd">VIEW OFFER</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200ce">Whitehat Settings</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200cf">App Settings</string>
+    <item type="string" name="APKTOOL_DUMMY_0" />
+    <item type="string" name="APKTOOL_DUMMY_1" />
+    <item type="string" name="APKTOOL_DUMMY_2" />
+    <item type="string" name="APKTOOL_DUMMY_3" />
+    <item type="string" name="APKTOOL_DUMMY_4" />
+    <item type="string" name="APKTOOL_DUMMY_5" />
+    <item type="string" name="APKTOOL_DUMMY_6" />
+    <item type="string" name="APKTOOL_DUMMY_7" />
+    <item type="string" name="APKTOOL_DUMMY_8" />
+    <item type="string" name="APKTOOL_DUMMY_9" />
+    <item type="string" name="APKTOOL_DUMMY_35" />
+    <item type="string" name="APKTOOL_DUMMY_73" />
+    <item type="string" name="APKTOOL_DUMMY_7d" />
+    <item type="string" name="APKTOOL_DUMMY_7e" />
+    <item type="string" name="APKTOOL_DUMMY_7f" />
+</resources>

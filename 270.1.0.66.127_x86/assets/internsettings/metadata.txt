@@ -1,0 +1,6 @@
+.id internsettings
+.requires dex
+.requires shared1
+.requires shared3
+.locator_id 23
+internsettings2.dex 1f65998eeb0469b72e627a631299f1c3b42d0699 storec135.dex01.Canary

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners android:radius="8.0dip" />
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600c1" />
+            <stroke android:width="0.5dip" android:color="@color/APKTOOL_DUPLICATE_color_0x7f060223" />
+        </shape>
+    </item>
+</selector>

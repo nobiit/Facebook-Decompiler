@@ -1,0 +1,35 @@
+.class public final LX/2aM;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/2aN;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+
+# virtual methods
+.method public final B3u(Ljava/lang/Object;)Lcom/facebook/graphql/model/FeedUnit;
+    .locals 0
+
+    .line 0
+    check-cast p1, Lcom/facebook/graphql/model/FeedUnit;
+
+    .line 1
+    .line 2
+    return-object p1
+    .line 3
+    .line 4
+.end method

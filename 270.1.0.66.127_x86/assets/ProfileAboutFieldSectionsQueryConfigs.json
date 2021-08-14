@@ -1,0 +1,12 @@
+{
+  "$generated": "@generated SignedSource<<cfaf7ed6a35c0a9c3d3f442527935740>>",
+  "ProfileAboutSectionConfigFieldSectionsQuery": {
+    "id": "2661659037293898",
+    "variables": [
+      "profileID",
+      "disableEdit",
+      "fieldSectionItemCount",
+      "scale"
+    ]
+  }
+}

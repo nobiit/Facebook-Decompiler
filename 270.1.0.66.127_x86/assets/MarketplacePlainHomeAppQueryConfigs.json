@@ -1,0 +1,18 @@
+{
+  "$generated": "@generated SignedSource<<ab1fc796b53ab98703610b7ccee1d64d>>",
+  "MarketplacePlainHomeAppQuery": {
+    "id": "2889595211126452",
+    "variables": [
+      "MarketplaceExploreView_IMAGE_MEDIA_TYPE",
+      "MarketplaceBrowseFeedScrollView_SIZE",
+      "location",
+      "marketplaceID",
+      "predictedTTRC",
+      "prefetchConfidence",
+      "radius",
+      "scale",
+      "MarketplaceBrowseFeedScrollView_USE_PREVIEW_PAYLOAD",
+      "MarketplaceFeedView_USE_TURBO_FEED"
+    ]
+  }
+}

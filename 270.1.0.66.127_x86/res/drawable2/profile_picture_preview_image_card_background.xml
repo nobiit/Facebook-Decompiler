@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f040371" />
+        </shape>
+    </item>
+    <item android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip">
+        <shape android:shape="oval">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f04038b" />
+        </shape>
+    </item>
+    <item android:left="6.0dip" android:top="6.0dip" android:right="6.0dip" android:bottom="6.0dip">
+        <shape android:shape="oval">
+            <solid android:color="?APKTOOL_DUPLICATE_attr_0x7f040395" />
+        </shape>
+    </item>
+</layer-list>

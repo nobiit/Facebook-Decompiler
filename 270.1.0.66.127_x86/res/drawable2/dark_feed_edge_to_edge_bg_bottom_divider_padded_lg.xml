@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable2/dark_feed_story_edge_to_edge_bg_bottom_divider" android:top="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1600c0" />
+</layer-list>

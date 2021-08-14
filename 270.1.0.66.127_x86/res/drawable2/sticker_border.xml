@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f06010a" />
+            <stroke android:width="3.0px" android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600e4" />
+        </shape>
+    </item>
+</layer-list>

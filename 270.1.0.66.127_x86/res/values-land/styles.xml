@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130016" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1c00cd">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0409be">APKTOOL_DUPLICATE_id_0x7f0a059a</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0409cb">APKTOOL_DUPLICATE_id_0x7f0a0e2e</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130018">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130019">
+        <item name="android:layout_width">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f160010</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13001a">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16001b</item>
+        <item name="android:layout_marginEnd">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f16001b</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f13001b">
+        <item name="android:orientation">vertical</item>
+    </style>
+</resources>

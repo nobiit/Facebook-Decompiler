@@ -1,0 +1,4 @@
+.id groupsadmin
+.requires dex
+.locator_id 12
+groupsadmin2.dex 413e9cc1f13ae98140b50dd42475d5ab2cb5a22c store2dfb.dex01.Canary

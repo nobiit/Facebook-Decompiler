@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable3" name="control_notification_small_icon">@drawable3/control_notification_small_icon</item>
+    <item type="drawable3" name="APKTOOL_DUMMY_22" />
+    <item type="drawable3" name="APKTOOL_DUMMY_2a" />
+    <item type="drawable3" name="APKTOOL_DUMMY_79" />
+    <item type="drawable3" name="APKTOOL_DUMMY_a6" />
+    <item type="drawable3" name="APKTOOL_DUMMY_c5" />
+    <item type="drawable3" name="APKTOOL_DUMMY_c7" />
+    <item type="drawable3" name="APKTOOL_DUMMY_c8" />
+    <item type="drawable3" name="APKTOOL_DUMMY_c9" />
+    <item type="drawable3" name="APKTOOL_DUMMY_ca" />
+    <item type="drawable3" name="APKTOOL_DUMMY_cb" />
+    <item type="drawable3" name="APKTOOL_DUMMY_cd" />
+    <item type="drawable3" name="APKTOOL_DUMMY_122" />
+    <item type="drawable3" name="APKTOOL_DUMMY_123" />
+    <item type="drawable3" name="APKTOOL_DUMMY_13b" />
+    <item type="drawable3" name="APKTOOL_DUMMY_141" />
+    <item type="drawable3" name="APKTOOL_DUMMY_142" />
+</resources>

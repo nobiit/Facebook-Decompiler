@@ -1,0 +1,32 @@
+{
+  "$generated": "@generated SignedSource<<ba880f6c30bfa528ba766a4c52d5d60d>>",
+  "JobSearchAppQuery": {
+    "id": "2849552498432522",
+    "variables": [
+      "cursor",
+      "enableJobTitlePreferencesInterstitialFragment",
+      "jobCategoryFilters",
+      "count",
+      "cityID",
+      "latitude",
+      "longitude",
+      "keyword",
+      "radius",
+      "jobTypeFilters",
+      "scale",
+      "pinnedJobOpeningID",
+      "pinnedJobOpeningNodeID",
+      "gpsPoints",
+      "context",
+      "waterfallSessionID",
+      "jobBrowserListID",
+      "minWage",
+      "maxWage",
+      "wageCurrency",
+      "wageTypes",
+      "shouldIncludeEstimatedSalaries",
+      "shouldInvalidateRankingCache",
+      "enableJobBrowserNotificationsTray"
+    ]
+  }
+}

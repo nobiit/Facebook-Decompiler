@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f010065"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:duration="@integer/APKTOOL_DUPLICATE_integer_0x7f0b0015" android:fromXDelta="0.0%" android:toXDelta="100.0%" />
+</set>

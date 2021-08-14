@@ -1,0 +1,4 @@
+.id groupsmoderatorrecommendation
+.requires dex
+.locator_id 19
+groupsmoderatorrecommendation2.dex 842e6743dedc9eb5c333974f4de2f053f0109cf8 store8faa.dex01.Canary

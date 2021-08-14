@@ -1,0 +1,61 @@
+.class public final LX/9w2;
+.super LX/5YT;
+.source ""
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, LX/5YT;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+
+# virtual methods
+.method public final BMs(Landroid/view/View;I)I
+    .locals 3
+
+    .line 0
+    invoke-virtual {p1}, Landroid/view/View;->getMeasuredHeight()I
+
+    .line 1
+    .line 2
+    .line 3
+    move-result v2
+
+    .line 4
+    int-to-float v1, p2
+
+    .line 5
+    const v0, 0x3f59999a    # 0.85f
+
+    .line 6
+    .line 7
+    .line 8
+    mul-float/2addr v1, v0
+
+    .line 9
+    float-to-int v0, v1
+
+    .line 10
+    invoke-static {v2, v0}, Ljava/lang/Math;->min(II)I
+
+    .line 11
+    .line 12
+    .line 13
+    move-result v0
+
+    .line 14
+    return v0
+    .line 15
+    .line 16
+    .line 17
+    .line 18
+    .line 19
+.end method

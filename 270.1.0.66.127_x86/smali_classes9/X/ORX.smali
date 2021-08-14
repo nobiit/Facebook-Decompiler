@@ -1,0 +1,99 @@
+.class public final LX/ORX;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/view/View$OnClickListener;
+
+
+# instance fields
+.field public final synthetic A00:LX/ORF;
+
+
+# direct methods
+.method public constructor <init>(LX/ORF;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, LX/ORX;->A00:LX/ORF;
+
+    .line 1
+    .line 2
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/view/View;)V
+    .locals 4
+
+    .line 0
+    const v0, -0x6b7e5c8c
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {v0}, LX/05B;->A05(I)I
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v3
+
+    .line 7
+    iget-object v0, p0, LX/ORX;->A00:LX/ORF;
+
+    .line 8
+    .line 9
+    iget-object v0, v0, LX/ORF;->A0W:LX/ORT;
+
+    .line 10
+    .line 11
+    iget-object v2, v0, LX/ORT;->A00:LX/1pT;
+
+    .line 12
+    .line 13
+    sget-object v1, LX/1pQ;->A8O:LX/1pR;
+
+    .line 14
+    .line 15
+    const-string v0, "SWITCH_TO_SCAN_MODE"
+
+    .line 16
+    .line 17
+    invoke-interface {v2, v1, v0}, LX/1pT;->AUA(LX/1pR;Ljava/lang/String;)V
+
+    .line 18
+    .line 19
+    .line 20
+    iget-object v1, p0, LX/ORX;->A00:LX/ORF;
+
+    .line 21
+    .line 22
+    const-string v0, "scan"
+
+    .line 23
+    .line 24
+    invoke-static {v1, v0}, LX/ORF;->A05(LX/ORF;Ljava/lang/String;)V
+
+    .line 25
+    .line 26
+    .line 27
+    const v0, 0x6c0d6912
+
+    .line 28
+    .line 29
+    .line 30
+    invoke-static {v0, v3}, LX/05B;->A0B(II)V
+
+    .line 31
+    .line 32
+    .line 33
+    return-void
+    .line 34
+.end method

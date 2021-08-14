@@ -1,0 +1,5 @@
+.id papaya
+.requires dex
+.requires pytorch
+.locator_id 28
+papaya2.dex 2b9b1b2ebad2980fd9085e657b5866d4f8cf80ac store122a.dex01.Canary

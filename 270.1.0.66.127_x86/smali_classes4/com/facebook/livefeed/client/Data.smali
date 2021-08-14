@@ -1,0 +1,46 @@
+.class public Lcom/facebook/livefeed/client/Data;
+.super Ljava/lang/Object;
+.source ""
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    const-string v0, "livefeedclient-jni"
+
+    .line 1
+    .line 2
+    invoke-static {v0}, LX/03z;->A08(Ljava/lang/String;)V
+
+    .line 3
+    .line 4
+    .line 5
+    return-void
+    .line 6
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+.method public static native itemInvalidation(Lcom/facebook/livefeed/invalidation/callbacks/ItemInvalidationCallback;)Lcom/facebook/livefeed/client/NativeDataCallback;
+.end method
+
+.method public static native newPostForNewsFeed(Lcom/facebook/livefeed/client/NewPostForNewsFeedCallback;)Lcom/facebook/livefeed/client/NativeDataCallback;
+.end method
+
+.method public static native payloadBinary(ILcom/facebook/livefeed/client/Data$ByteArrayCallback;)Lcom/facebook/livefeed/client/NativeDataCallback;
+.end method
+
+.method public static native vpvAck(Lcom/facebook/livefeed/client/VpvAckCallback;)Lcom/facebook/livefeed/client/NativeDataCallback;
+.end method

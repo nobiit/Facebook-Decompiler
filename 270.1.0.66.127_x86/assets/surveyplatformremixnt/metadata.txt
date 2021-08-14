@@ -1,0 +1,4 @@
+.id surveyplatformremixnt
+.requires dex
+.locator_id 34
+surveyplatformremixnt2.dex 6f87d902eaef5a0f732a2486211d89a0562de88a storea062.dex01.Canary
