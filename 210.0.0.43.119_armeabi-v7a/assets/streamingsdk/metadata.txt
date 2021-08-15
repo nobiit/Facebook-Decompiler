@@ -1,0 +1,6 @@
+.id streamingsdk
+.requires dex
+.locators
+.name_based_locators
+.locator_id 19
+streamingsdk-1.dex.jar.xzs.tmp~ 3493f9bc8dd6189527ac7164191cbfdf5d0018fc store3098.dex01.Canary

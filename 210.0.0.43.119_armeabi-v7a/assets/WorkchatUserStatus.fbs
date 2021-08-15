@@ -1,0 +1,29 @@
+enum Status : int {
+  NONE = 0,
+  AVAILABLE = 1,
+  SPORADIC = 2,
+  TENTATIVE = 3,
+  BUSY = 4,
+  DO_NOT_DISTURB = 5,
+  FOCUS = 6, // Focus status exists solely as a faceworld feature
+}
+
+table StatusScheduleItem {
+  status:Status;
+  start_date:long; // dates are unix timestamps, same as our GraphQL Date type
+  end_date:long;
+  location:string;
+  comment:string;
+  priority:int; // Higher priority should overrule lower priority
+}
+
+table WorkInfo {
+  status_events:[StatusScheduleItem];
+}
+
+table User {
+  id:string;
+  work_info:WorkInfo;
+}
+
+root_type User;

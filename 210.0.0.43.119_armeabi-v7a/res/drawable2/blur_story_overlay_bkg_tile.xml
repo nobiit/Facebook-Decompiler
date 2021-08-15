@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient android:startColor="@color/APKTOOL_DUPLICATE_color_0x7f060094" android:endColor="@color/APKTOOL_DUPLICATE_color_0x7f060093" android:angle="-90.0" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/blur_story_bkg_pattern_medium_2" android:tileMode="repeat"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </item>
+</layer-list>

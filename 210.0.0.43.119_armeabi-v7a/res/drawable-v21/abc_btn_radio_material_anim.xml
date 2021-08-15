@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091ae3" android:drawable="@drawable2/btn_radio_on_mtrl" />
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f091a5b" android:drawable="@drawable2/btn_radio_off_mtrl" />
+    <transition android:drawable="@drawable2/btn_radio_on_to_off_mtrl_animation" android:toId="@id/APKTOOL_DUPLICATE_id_0x7f091a5b" android:fromId="@id/APKTOOL_DUPLICATE_id_0x7f091ae3" />
+    <transition android:drawable="@drawable2/btn_radio_off_to_on_mtrl_animation" android:toId="@id/APKTOOL_DUPLICATE_id_0x7f091ae3" android:fromId="@id/APKTOOL_DUPLICATE_id_0x7f091a5b" />
+</animated-selector>

@@ -1,0 +1,56 @@
+// run to generate classes: ./generate_flatbuffers.sh
+
+namespace com.facebook.rtc.omnistore.flatbuffer.messengercall;
+
+enum State : byte {
+  DEFAULT=0, ACTIVE=1, ENDED=2
+}
+
+enum MessengerCallParticipantState : byte {
+  UNKNOWN = 0,
+  DISCONNECTED = 1,
+  NO_ANSWER = 2,
+  REJECTED = 3,
+  UNREACHABLE = 4,
+  CONNECTION_DROPPED = 5,
+  CONTACTING = 6,
+  RINGING = 7,
+  CONNECTING = 8,
+  CONNECTED = 9,
+  PARTICIPANT_LIMIT_REACHED = 10,
+  IN_ANOTHER_CALL = 11,
+  RING_TYPE_UNSUPPORTED = 12
+}
+
+enum MediaType: byte {
+  UNKNOWN = 0,
+  AUDIO = 1,
+  VIDEO = 2
+}
+
+table ProxiedAsMessengerCallUser {
+  facebookUserID:string;
+  accountID:string;
+}
+
+table MessengerCallUser {
+  facebookUserID:string;
+  participantState:MessengerCallParticipantState;
+  proxyingAs: [ProxiedAsMessengerCallUser];
+}
+
+table MessengerCall {
+  name:string;
+  createdTime:uint;
+  creator:MessengerCallUser;
+  members:[MessengerCallUser];
+  state:State;
+  conferenceName:string;
+  serverInfoData:string;
+  threadId:string;
+  mediaType:MediaType;
+  multiwayWwwTier:string;
+  multiwayCoreTier:string;
+}
+
+root_type MessengerCall;

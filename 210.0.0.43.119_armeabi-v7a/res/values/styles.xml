@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="(name removed)" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a0430">
+        <item name="android:textColor">?APKTOOL_DUPLICATE_attr_0x7f040038</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408d2">@bool/APKTOOL_DUPLICATE_bool_0x7f050001</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120001" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0017">
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f060008</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120002" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a0078" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120003" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a0079" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120004" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007a" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120005" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007b" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12000f" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c002c">
+        <item name="android:textAppearance">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0448</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120010" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a0087">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0400dc">18.0dip</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040296">24.0dip</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0403b7">3.0dip</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120011" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007d" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120012" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_indicator_material</item>
+        <item name="android:progressDrawable">@drawable/abc_ratingbar_indicator_material</item>
+        <item name="android:minHeight">36.0dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120013" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">16.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_small_material</item>
+        <item name="android:progressDrawable">@drawable/abc_ratingbar_small_material</item>
+        <item name="android:minHeight">16.0dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120014" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0041">
+        <item name="android:background">@drawable2/abc_spinner_textfield_background_material</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120015" parent="@android:style/Widget.TextView" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120016" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007e" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120017">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150017</item>
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f0600d2</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120018" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a006a" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120019" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001a" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001b">
+        <item name="android:layout_marginBottom">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150008</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001c">
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001d" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001e">
+        <item name="android:textSize">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150018</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001f" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120021" parent="@android:style/Widget.RatingBar">
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120022" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a05aa">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040930">@color/APKTOOL_DUPLICATE_color_0x7f0600d2</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040931">@color/APKTOOL_DUPLICATE_color_0x7f060027</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040932">@color/APKTOOL_DUPLICATE_color_0x7f0600a2</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120023" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0058">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120024">
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120025">
+        <item name="android:layout_toLeftOf">@id/APKTOOL_DUPLICATE_id_0x7f090c2f</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120026" parent="@android:style/Theme.Holo">
+        <item name="android:colorForeground">@color/APKTOOL_DUPLICATE_color_0x7f060062</item>
+        <item name="android:colorBackground">@color/APKTOOL_DUPLICATE_color_0x7f060072</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:disabledAlpha">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000e</item>
+        <item name="android:textAppearance">@style2/APKTOOL_DUPLICATE_style2_0x7f1a042d</item>
+        <item name="android:textAppearanceInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0433</item>
+        <item name="android:textColorPrimary">@color/APKTOOL_DUPLICATE_color_0x7f06000f</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/APKTOOL_DUPLICATE_color_0x7f06000d</item>
+        <item name="android:textColorSecondary">@color/APKTOOL_DUPLICATE_color_0x7f060013</item>
+        <item name="android:textColorPrimaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f060010</item>
+        <item name="android:textColorSecondaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f060014</item>
+        <item name="android:textColorHintInverse">@color/APKTOOL_DUPLICATE_color_0x7f06000b</item>
+        <item name="android:textAppearanceLarge">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0434</item>
+        <item name="android:textAppearanceMedium">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0438</item>
+        <item name="android:textAppearanceSmall">@style2/APKTOOL_DUPLICATE_style2_0x7f1a043d</item>
+        <item name="android:textAppearanceLargeInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0435</item>
+        <item name="android:textAppearanceMediumInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0439</item>
+        <item name="android:textAppearanceSmallInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a043e</item>
+        <item name="android:windowBackground">@color/APKTOOL_DUPLICATE_color_0x7f060072</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorHighlight">@color/APKTOOL_DUPLICATE_color_0x7f0602ec</item>
+        <item name="android:textColorHint">@color/APKTOOL_DUPLICATE_color_0x7f06000a</item>
+        <item name="android:textColorLink">?APKTOOL_DUPLICATE_attr_0x7f0401bc</item>
+        <item name="android:colorForegroundInverse">@color/APKTOOL_DUPLICATE_color_0x7f06000c</item>
+        <item name="android:textColorTertiary">@color/APKTOOL_DUPLICATE_color_0x7f060013</item>
+        <item name="android:textColorTertiaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f060014</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable2/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable2/abc_btn_check_material</item>
+        <item name="android:colorBackgroundCacheHint">@color/APKTOOL_DUPLICATE_color_0x7f060006</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl_dark</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl_dark</item>
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl_dark</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorAlertDialogListItem">@color/APKTOOL_DUPLICATE_color_0x7f06000f</item>
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003d</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003f</item>
+        <item name="android:borderlessButtonStyle">?APKTOOL_DUPLICATE_attr_0x7f040100</item>
+        <item name="android:buttonBarStyle">?APKTOOL_DUPLICATE_attr_0x7f040129</item>
+        <item name="android:buttonBarButtonStyle">?APKTOOL_DUPLICATE_attr_0x7f040124</item>
+        <item name="android:textColorHighlightInverse">@color/APKTOOL_DUPLICATE_color_0x7f0602ed</item>
+        <item name="android:textColorLinkInverse">?APKTOOL_DUPLICATE_attr_0x7f0401bc</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUPLICATE_attr_0x7f040041</item>
+        <item name="android:listPreferredItemPaddingLeft">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150013</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150013</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04051a">@drawable/abc_btn_check_material_anim</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04051b">@drawable/abc_btn_radio_material_anim</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120027" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorForeground">@color/APKTOOL_DUPLICATE_color_0x7f06000c</item>
+        <item name="android:colorBackground">@color/APKTOOL_DUPLICATE_color_0x7f060073</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:disabledAlpha">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000f</item>
+        <item name="android:textAppearance">@style2/APKTOOL_DUPLICATE_style2_0x7f1a042d</item>
+        <item name="android:textAppearanceInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0433</item>
+        <item name="android:textColorPrimary">@color/APKTOOL_DUPLICATE_color_0x7f060010</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/APKTOOL_DUPLICATE_color_0x7f06000e</item>
+        <item name="android:textColorSecondary">@color/APKTOOL_DUPLICATE_color_0x7f060014</item>
+        <item name="android:textColorPrimaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f06000f</item>
+        <item name="android:textColorSecondaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f060013</item>
+        <item name="android:textColorHintInverse">@color/APKTOOL_DUPLICATE_color_0x7f06000a</item>
+        <item name="android:textAppearanceLarge">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0434</item>
+        <item name="android:textAppearanceMedium">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0438</item>
+        <item name="android:textAppearanceSmall">@style2/APKTOOL_DUPLICATE_style2_0x7f1a043d</item>
+        <item name="android:textAppearanceLargeInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0435</item>
+        <item name="android:textAppearanceMediumInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a0439</item>
+        <item name="android:textAppearanceSmallInverse">@style2/APKTOOL_DUPLICATE_style2_0x7f1a043e</item>
+        <item name="android:windowBackground">@color/APKTOOL_DUPLICATE_color_0x7f060073</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorHighlight">@color/APKTOOL_DUPLICATE_color_0x7f0602ed</item>
+        <item name="android:textColorHint">@color/APKTOOL_DUPLICATE_color_0x7f06000b</item>
+        <item name="android:textColorLink">?APKTOOL_DUPLICATE_attr_0x7f0401bc</item>
+        <item name="android:colorForegroundInverse">@color/APKTOOL_DUPLICATE_color_0x7f060062</item>
+        <item name="android:textColorTertiary">@color/APKTOOL_DUPLICATE_color_0x7f060014</item>
+        <item name="android:textColorTertiaryInverse">@color/APKTOOL_DUPLICATE_color_0x7f060013</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable2/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable2/abc_btn_check_material</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/APKTOOL_DUPLICATE_color_0x7f06000d</item>
+        <item name="android:colorBackgroundCacheHint">@color/APKTOOL_DUPLICATE_color_0x7f060007</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl_light</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl_light</item>
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl_light</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorAlertDialogListItem">@color/APKTOOL_DUPLICATE_color_0x7f060010</item>
+        <item name="android:actionModeCutDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003d</item>
+        <item name="android:actionModeCopyDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003c</item>
+        <item name="android:actionModePasteDrawable">?APKTOOL_DUPLICATE_attr_0x7f04003f</item>
+        <item name="android:borderlessButtonStyle">?APKTOOL_DUPLICATE_attr_0x7f040100</item>
+        <item name="android:buttonBarStyle">?APKTOOL_DUPLICATE_attr_0x7f040129</item>
+        <item name="android:buttonBarButtonStyle">?APKTOOL_DUPLICATE_attr_0x7f040124</item>
+        <item name="android:textColorHighlightInverse">@color/APKTOOL_DUPLICATE_color_0x7f0602ec</item>
+        <item name="android:textColorLinkInverse">?APKTOOL_DUPLICATE_attr_0x7f0401bc</item>
+        <item name="android:actionModeSelectAllDrawable">?APKTOOL_DUPLICATE_attr_0x7f040041</item>
+        <item name="android:listPreferredItemPaddingLeft">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150013</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150013</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04051a">@drawable/abc_btn_check_material_anim</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04051b">@drawable/abc_btn_radio_material_anim</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002a" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0058">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002b" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a05dc">
+        <item name="android:windowBackground">@drawable2/branded_communities_launch_screen</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002c" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a05c0" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002d" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0058" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002e" parent="@android:style/Widget">
+        <item name="android:background">?APKTOOL_DUPLICATE_attr_0x7f0401c4</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002f" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a008e">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408a8">APKTOOL_DUPLICATE_id_0x7f090ecf</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408ae">true</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408b5">APKTOOL_DUPLICATE_id_0x7f090f27</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120030">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120031">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120032">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120033">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120034">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120035">
+        <item name="android:orientation">horizontal</item>
+    </style>
+</resources>

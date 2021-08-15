@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="(name removed)" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0001" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0002" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0004" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0005" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0006" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0007" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0008" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0009" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000a" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000b" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000c" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000d" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000e" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c000f" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0010" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0011" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0012" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0013" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0014" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0015" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0016" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0017" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0018" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0019" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c001a" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c001b" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c001c" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c001d" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c001e" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c001f" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0025" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0026" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0027" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0028" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0029" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c002a" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c002b" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c002c" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c002d" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c002e" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c002f" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0030" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0031" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0032" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0033" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0034" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0035" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0036" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0037" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0038" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0039" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c003a" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c003b" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c003c" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c003d" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c003e" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c003f" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0040" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0041" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0042" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0043" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0044" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0045" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0046" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0047" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0049" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c004a" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c004b" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c004c" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c004d" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c004e" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c004f" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0050" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0053" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0054" />
+    <item type="style4" name="APKTOOL_DUPLICATE_style4_0x7f1c0055" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0056" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0057" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0058" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0059" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005a" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005b" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005c" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005d" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005e" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c005f" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0061" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0062" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0064" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0065" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0066" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0069" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0021" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0022" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0023" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0024" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0048" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0051" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0052" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0060" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0063" />
+    <attr name="APKTOOL_DUPLICATE_style4_0x7f1c0068" />
+</resources>

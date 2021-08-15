@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f010035" android:duration="200" android:fillBefore="true" android:fillAfter="true" android:fromAlpha="0.0" android:toAlpha="1.0" android:fillEnabled="true" />
+    <translate android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f010036" android:duration="@integer/APKTOOL_DUPLICATE_integer_0x7f0a0002" android:fillBefore="false" android:fillAfter="true" android:fromYDelta="8.000004%" android:toYDelta="0.0" android:fillEnabled="true" />
+</set>

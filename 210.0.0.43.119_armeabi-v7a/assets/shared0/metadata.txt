@@ -1,0 +1,6 @@
+.id shared0
+.requires dex
+.locators
+.name_based_locators
+.locator_id 17
+shared0-1.dex.jar.xzs.tmp~ 7c434bcbb9ea9f7917f37a88de8e005ddbd8d2cd storee06b.dex01.Canary

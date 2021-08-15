@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120024">
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120025">
+        <item name="android:layout_toRightOf">@id/APKTOOL_DUPLICATE_id_0x7f090c2f</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002f" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a008e">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408a8">APKTOOL_DUPLICATE_id_0x7f0905ab</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408b5">APKTOOL_DUPLICATE_id_0x7f090f27</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120031">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120032">
+        <item name="android:layout_width">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150030</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120033">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150022</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120034">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120035">
+        <item name="android:orientation">vertical</item>
+    </style>
+</resources>

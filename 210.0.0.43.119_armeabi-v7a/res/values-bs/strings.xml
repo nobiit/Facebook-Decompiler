@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">Kopirajte link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110002">Sačuvajte link na Facebooku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110003">Pošalji preko Facebook Messengera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Dodaj u kolekciju</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110010">Žao nam je, pojavio se tehnički problem s ovom funkcijom. Radimo na njegovom otklanjanju.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">Žao nam je, došlo je do greške</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Dozvoli</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">Blokiraj</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110017">Učitavanje…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110018">Označite link sumnjivim</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Sačuvano</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Traži</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Nazad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110029">Kamera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002a">Vaša priča</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">Idem</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">Ne idem</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110036">PODIJELI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110037">Kopirajte link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003b">Pogledajte spremljene stvari</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003f">Sačuvajte link</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110042">Pošalji u Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Više opcija</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110045">Idi uživo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110046">Učitavanje web stranice</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">Učitavanje %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004f">Ne sada</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110050">Sakrij detalje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110053">Prikaži više</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110059">Sačuvati</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">Sačuvano</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110066">Upozorenje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110067">Nazad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110068">Sakrij detalje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006d">Pokaži detalje</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007e">Nazad</string>
+</resources>

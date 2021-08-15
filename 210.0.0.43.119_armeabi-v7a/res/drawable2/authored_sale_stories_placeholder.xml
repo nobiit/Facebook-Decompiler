@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-tint android:src="@drawable2/fb_ic_tag_price_24" fb:tintColor="@color/APKTOOL_DUPLICATE_color_0x7f0601b8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto" />

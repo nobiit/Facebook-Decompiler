@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060152" />
+            <stroke android:width="2.0px" android:color="@color/APKTOOL_DUPLICATE_color_0x7f0603c6" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/add_sticker" android:left="16.0dip" android:top="16.0dip" android:right="16.0dip" android:bottom="16.0dip" />
+</layer-list>

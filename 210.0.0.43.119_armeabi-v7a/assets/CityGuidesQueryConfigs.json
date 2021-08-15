@@ -1,0 +1,11 @@
+{
+  "$generated": "@generated SignedSource<<e093a574a1c37e2fba8f77a51461d59a>>",
+  "CityGuidesAppQuery": {
+    "id": "1773952126023350",
+    "variables": [
+      "FBPhoto_LEGACY_FULL_WIDTH",
+      "pageID",
+      "scale"
+    ]
+  }
+}

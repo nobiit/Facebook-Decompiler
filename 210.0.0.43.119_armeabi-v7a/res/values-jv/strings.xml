@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110006">Tambah Ekstensi Platform</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000c">Tutup browser</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000d">Konfirmasi Ekstensi Platform sing Ditambahake</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110013">%1$s pengin nggunakake panggonan perangkat sampeyan.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Idini</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">Blok</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Wis Disimpen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Goleki</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001b">Andum Konten</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001d">Ana masalah karo sertifikat keamanan kanggo situs iki</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Mbalik</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001f">Kesalahan keamanan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110035">Kaca ora bisa diamot</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">Pasang Aplikasi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003a">Pasang %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003c">Bukak karo ...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">Bukak ing aplikasi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003e">Bukak ing %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Opsi liyane</string>
+</resources>

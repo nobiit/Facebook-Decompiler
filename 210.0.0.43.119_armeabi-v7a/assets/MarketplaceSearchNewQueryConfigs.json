@@ -1,0 +1,13 @@
+{
+  "$generated": "@generated SignedSource<<ae54ca9b4d26b91cad5a36c6bed3d83d>>",
+  "MarketplaceSearchApp_MarketplaceSearchRouteNewQuery": {
+    "id": "2620787871297202",
+    "variables": [
+      "isExtraDataFetched",
+      "params",
+      "MarketplaceBrowseFeedScrollView_SIZE",
+      "ShopsUIUtils_FEED_IMAGE_WIDTH",
+      "scale"
+    ]
+  }
+}

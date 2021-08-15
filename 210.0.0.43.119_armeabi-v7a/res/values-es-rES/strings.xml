@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110004">Añade la extensión para acceder más tarde rápidamente.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110006">Añadir extensión de plataforma</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110007">Añadido a</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Añadir a una colección</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110009">Se borrarán los datos de relleno automático que has guardado para rellenar formularios en el navegador de Facebook para móviles.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000d">Confirmar extensión de plataforma añadida</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000e">Borra las cookies del teléfono y la caché de los sitios web que has visitado mientras usabas la aplicación %1$s.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">Se ha producido un error</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110014">Navegador de Facebook para móviles</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110022">Administra el almacenamiento de datos en los ajustes del dispositivo para liberar espacio.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110024">Esta versión de %1$s no es compatible con tu dispositivo. Desinstálala y descarga la versión actualizada en: &lt;a href=\"http://www.facebook.com/android_upgrade?app_referrer=app_version_error\">www.facebook.com/android_upgrade&lt;/a></string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110025">Falta la aplicación %1$s. Vuelve a instalarla.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110026">Falta la aplicación %1$s.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110027">Error de la aplicación %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002d">Obtener entradas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">Asistirá</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002f">Me interesa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">No asistirá</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">No me interesa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">Instalar aplicación</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003c">Abrir con …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">Abrir en la aplicación</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110043">Enviar en el chat de Workplace</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110047">No se ha podido cargar información adicional de este anunciante. Puedes seguir viendo el vídeo o volver a la sección de noticias.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110048">Puedes instalar la aplicación ahora sin esperar que se cargue la página.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110049">%1$s comentarios sobre este vídeo.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004a">%1$s personas han reaccionado en este vídeo.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004b">%1$s personas han compartido este vídeo.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110050">Ocultar datos</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110051">No se publicará en Facebook</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110057">Esta oferta ha finalizado Toca para ver los detalles.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110058">Esta oferta ha sido tan popular que se ha agotado. Toca para obtener más información.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110060">Puedes seleccionar texto en esta página web y hacer clic en \"COMPARTIR CITA\" para compartir una cita.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110069">&lt;a id=\"learn_more\">Obtén más información&lt;/a>.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006b">Puede que este sitio web intente instalar software malicioso en tu dispositivo.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006c">Si entiendes los riesgos para tu seguridad, puedes &lt;a id=\"proceed\" href=\"#\">visitar este sitio no seguro&lt;/a> de todas formas.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007d">IR AL SITIO WEB</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110082">Quizá también te guste</string>
+</resources>

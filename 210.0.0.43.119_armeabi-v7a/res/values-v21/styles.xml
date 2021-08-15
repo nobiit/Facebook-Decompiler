@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120002" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0021" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120003" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0022" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120004" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0023" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120005" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0024" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12000f" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:textColor">@color/APKTOOL_DUPLICATE_color_0x7f060008</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120011" parent="@android:style/Widget.Material.EditText">
+        <item name="android:background">?APKTOOL_DUPLICATE_attr_0x7f0402a1</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120015" parent="@android:style/Widget.Material.TextView" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12001f">
+        <item name="android:datePickerDialogTheme">@style4/APKTOOL_DUPLICATE_style4_0x7f1c0048</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120021" parent="@android:style/Widget.RatingBar">
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:mirrorForRtl">true</item>
+        <item name="android:progressTint">@color/APKTOOL_DUPLICATE_color_0x7f060243</item>
+        <item name="android:progressBackgroundTint">@color/APKTOOL_DUPLICATE_color_0x7f060263</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120026" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0051" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f120027" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0052" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002e" parent="@android:style/Widget">
+        <item name="android:background">?APKTOOL_DUPLICATE_attr_0x7f0401c4</item>
+        <item name="android:stateListAnimator">@animator/APKTOOL_DUPLICATE_animator_0x7f020000</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120020">
+        <item name="android:timePickerDialogTheme">@style4/APKTOOL_DUPLICATE_style4_0x7f1c0060</item>
+        <item name="android:datePickerDialogTheme">@style4/APKTOOL_DUPLICATE_style4_0x7f1c0048</item>
+    </style>
+</resources>

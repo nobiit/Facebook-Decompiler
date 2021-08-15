@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white" />
+    <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15002a" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15002a" />
+    <stroke android:width="@dimen2/(name removed)" android:color="@android:color/transparent" />
+</shape>

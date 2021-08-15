@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120004" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007a">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120005" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a007b">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+</resources>

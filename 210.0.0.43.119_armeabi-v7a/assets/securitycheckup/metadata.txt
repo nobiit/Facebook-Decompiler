@@ -1,0 +1,6 @@
+.id securitycheckup
+.requires dex
+.locators
+.name_based_locators
+.locator_id 16
+securitycheckup-1.dex.jar.xzs.tmp~ 60e409376e43af588d8a400953746cf1408140cd storeb263.dex01.Canary

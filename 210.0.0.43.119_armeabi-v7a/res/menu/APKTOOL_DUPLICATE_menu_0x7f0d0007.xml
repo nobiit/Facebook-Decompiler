@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable2/fb_ic_friend_confirm_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d4c" android:checked="false" android:title="@null" android:checkable="false" />
+    <item android:icon="@drawable2/fb_ic_friend_remove_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d4d" android:checked="false" android:title="@null" android:checkable="false" />
+</menu>

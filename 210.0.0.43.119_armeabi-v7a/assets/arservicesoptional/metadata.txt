@@ -1,0 +1,6 @@
+.id arservicesoptional
+.requires dex
+.locators
+.name_based_locators
+.locator_id 1
+arservicesoptional-1.dex.jar.xzs.tmp~ 5ff57a184bf75abf2623fe6d57787cc0e4104a79 storea7ef.dex01.Canary

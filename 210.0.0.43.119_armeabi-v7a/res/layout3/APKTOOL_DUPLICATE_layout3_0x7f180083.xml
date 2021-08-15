@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <X.2Wv android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903f2" android:layout_width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150001" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150001" android:layout_marginTop="1.0dip" android:layout_marginRight="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150002" android:layout_marginEnd="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150002" app:layout_useAsThumbnail="true" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <X.15L android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150018" android:textColor="?APKTOOL_DUPLICATE_attr_0x7f0406d9" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_weight="1.0" />
+        <X.15L android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150018" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903f3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_weight="0.0" />
+    </LinearLayout>
+</merge>

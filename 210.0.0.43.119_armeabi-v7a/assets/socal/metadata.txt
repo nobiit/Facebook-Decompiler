@@ -1,0 +1,7 @@
+.id socal
+.requires dex
+.requires shared1
+.locators
+.name_based_locators
+.locator_id 18
+socal-1.dex.jar.xzs.tmp~ d8091caadcd220741033209e182b691c2af5de10 store83f2.dex01.Canary

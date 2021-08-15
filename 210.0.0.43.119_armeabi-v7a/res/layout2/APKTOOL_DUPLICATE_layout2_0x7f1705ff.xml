@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.1oD android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090307" android:background="@drawable2/autofill_bar_entry_background" android:padding="8.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.1rX android:textAppearance="@style2/APKTOOL_DUPLICATE_style2_0x7f1a053f" android:ellipsize="end" android:gravity="start" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090308" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:maxEms="15" android:includeFontPadding="false" />
+</X.1oD>

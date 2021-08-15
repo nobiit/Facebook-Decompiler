@@ -1,0 +1,6 @@
+.id pages
+.requires dex
+.locators
+.name_based_locators
+.locator_id 14
+pages-1.dex.jar.xzs.tmp~ f3caa702e01a79088c1f72299109068f1faf2d44 storeefc4.dex01.Canary

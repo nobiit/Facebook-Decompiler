@@ -1,0 +1,8 @@
+table ContactTempStatus {
+  contact_id:string;
+  status_end_time:long;
+  status:string;
+  availability_end_time:long;
+}
+
+root_type ContactTempStatus;

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">Kopjo lidhjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110007">Shtuar në:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Shto te koleksioni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">Na vjen keq, por ndodhi një gabim</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Lejo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110017">Duke ngarkuar...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110018">Shënoje lidhjen si të dyshimtë.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Ruajtur</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Kërko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Kthehu mbrapa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110029">Kamera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002a">Historia jote</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">Do të marr pjesë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002f">Jam i interesuar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">Nuk do të marr pjesë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">Nuk më intereson</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110033">Falas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110036">NDAJ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110037">Kopjo lidhjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">Instalo aplikacionin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">Hape në program</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003f">Ruaj lidhjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110042">Dërgo në Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Më shumë mundësi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110045">Kaloni drejtpërdrejt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">Duke ngarkuar %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004e">RUAJ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004f">Jo tani</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110050">Fshih detajet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110053">Shiko më shumë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110059">Ruaj</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">U ruajt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110066">Kujdes</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110067">KTHEHU PRAPA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110068">Fshih detajet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006d">Shfaq detajet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110071">Mëso më shumë</string>
+</resources>

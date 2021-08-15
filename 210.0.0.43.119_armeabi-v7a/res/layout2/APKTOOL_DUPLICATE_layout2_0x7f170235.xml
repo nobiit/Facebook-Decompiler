@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <X.2Wv android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091127" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/fb_ic_bell_null_filled_24" fb:glyphColor="@color/APKTOOL_DUPLICATE_color_0x7f06006f" />
+</merge>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:bottom="192.5dip">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060163" />
+            <size android:height="80.0dip" />
+        </shape>
+    </item>
+    <item android:top="80.0dip" android:bottom="80.5dip">
+        <shape>
+            <gradient android:startColor="@color/APKTOOL_DUPLICATE_color_0x7f060163" android:endColor="@color/APKTOOL_DUPLICATE_color_0x7f060231" android:angle="270.0" />
+            <size android:height="112.0dip" />
+        </shape>
+    </item>
+    <item android:top="192.0dip">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060231" />
+        </shape>
+    </item>
+</layer-list>

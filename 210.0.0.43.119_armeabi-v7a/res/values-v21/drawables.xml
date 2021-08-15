@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="msgr_selectable_item_background">@drawable2/msgr_ripple_light</item>
+</resources>

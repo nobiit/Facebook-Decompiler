@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/fb_ic_send_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060243" />
+        <size android:height="24.0dip" android:width="24.0dip" />
+    </item>
+    <item android:state_enabled="true">
+        <bitmap android:src="@drawable/fb_ic_send_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060243" />
+        <size android:height="24.0dip" android:width="24.0dip" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/fb_ic_send_outline_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060192" />
+        <size android:height="24.0dip" android:width="24.0dip" />
+    </item>
+</selector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <X.9hQ android:id="@id/APKTOOL_DUPLICATE_id_0x7f09295e" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1a041b" />
+    <X.15L android:id="@id/APKTOOL_DUPLICATE_id_0x7f09295d" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawablePadding="4.0dip" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1a041b" />
+</merge>

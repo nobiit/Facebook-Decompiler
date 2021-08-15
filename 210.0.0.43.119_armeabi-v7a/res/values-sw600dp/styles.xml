@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002d" parent="@style4/APKTOOL_DUPLICATE_style4_0x7f1c0058">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f12002f" parent="@style2/APKTOOL_DUPLICATE_style2_0x7f1a008e">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408a8">APKTOOL_DUPLICATE_id_0x7f0905ab</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0408b5">APKTOOL_DUPLICATE_id_0x7f090f27</item>
+    </style>
+</resources>

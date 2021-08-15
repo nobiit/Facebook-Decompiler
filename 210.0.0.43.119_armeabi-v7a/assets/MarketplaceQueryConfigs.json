@@ -1,0 +1,52 @@
+{
+  "$generated": "@generated SignedSource<<67451aff19cdce18a0d259d0762059c0>>",
+  "MarketplaceHomeAppQuery": {
+    "id": "2336693136366863",
+    "variables": [
+      "MarketplaceBrowseFeedScrollView_DEFAULT_COUNT",
+      "MarketplaceExploreView_IMAGE_MEDIA_TYPE",
+      "MarketplaceExploreView_USE_MODULAR_FEED",
+      "MarketplaceBrowseFeedScrollView_SIZE",
+      "ShopsUIUtils_FEED_IMAGE_WIDTH",
+      "browseContext",
+      "categoryIDs",
+      "feedSources",
+      "location",
+      "marketplaceID",
+      "radius",
+      "scale",
+      "cappedScale",
+      "priceRange",
+      "FBFallbackAttachment_LARGE_WIDTH",
+      "FBFallbackAttachment_LARGE_HEIGHT",
+      "FBFallbackAttachment_PORTRAIT_WIDTH",
+      "FBFallbackAttachment_PORTRAIT_HEIGHT",
+      "FBFallbackAttachment_SMALL_WIDTH",
+      "FBFallbackAttachment_SMALL_HEIGHT",
+      "FBStickerAttachment_SIZE",
+      "FBVideoAttachment_WIDTH",
+      "FBVideoAttachment_HEIGHT",
+      "FBPhoto_LEGACY_FULL_HEIGHT",
+      "FBPhoto_LEGACY_FULL_WIDTH",
+      "FBPhoto_LEGACY_LARGE_HEIGHT",
+      "FBPhoto_LEGACY_LARGE_WIDTH",
+      "FBPhoto_LEGACY_MEDIUM_HEIGHT",
+      "FBPhoto_LEGACY_MEDIUM_WIDTH",
+      "FBPhoto_LEGACY_SMALL_HEIGHT",
+      "FBPhoto_LEGACY_SMALL_WIDTH",
+      "FBPhoto_ZOOMED_HEIGHT",
+      "FBPhoto_ZOOMED_WIDTH",
+      "FBGroupsDiscover_MEMBER_IMAGE_SIZE",
+      "FBGroupsDiscover_COVER_PHOTO_SIZE"
+    ]
+  },
+  "MarketplaceCrossPostSuggestionsAppQuery": {
+    "id": "1899620306833268",
+    "variables": [
+      "Marketplace_SHOW_DRAFTS_IN_POST_SUGGESTIONS",
+      "Marketplace_SHOW_CROSS_POST_SUGGESTIONS_FROM_GROUPS",
+      "MarketplaceProductImage_LARGE_SIZE",
+      "MarketplaceProductImage_SMALL_SIZE"
+    ]
+  }
+}

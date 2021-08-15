@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110006">"Ongeraho umugereka w'urubuga"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Ongera mu ikusanya</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000c">Gufunga mushakisha</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000d">"Emeza umugereka w'urubuga wongeweho"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110013">"%1$s irashaka gukoresha ahantu y'igikoresho cyawe."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Kwemerera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">Guhagarika</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Byabitswe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Gushaka</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001b">Sangiza ibikubiyemo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001d">"Icyemezo cy'umutekano cy'uru rubuga gifite ibibazo"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Gusubira inyuma</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001f">"Ikosa ry'umutekano"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110035">Paji ntishobora gufunguka</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">Kwinjizamo porogaramu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003a">Kwinjizamo %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003c">Gufunguza …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">Gufungurira muri porogaramu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003e">Gufungira muri %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Andi mahitamo</string>
+</resources>

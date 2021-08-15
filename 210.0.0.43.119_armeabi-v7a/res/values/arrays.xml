@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="(name removed)">
+        <item>Threads not loading</item>
+        <item>Games</item>
+        <item>Sending messages</item>
+        <item>Messages missing</item>
+        <item>Notification Issues</item>
+        <item>Stories</item>
+        <item>Bots</item>
+        <item>Message Requests</item>
+        <item>Calling</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030001">
+        <item>\#ad</item>
+        <item>\#ads</item>
+        <item>\#paid</item>
+        <item>\#spon</item>
+        <item>\#sponsored</item>
+        <item>\#advert</item>
+        <item>\#feature</item>
+        <item>\#notanad</item>
+        <item>\#partner</item>
+        <item>\#partnered</item>
+        <item>\#promo</item>
+        <item>\#publicité</item>
+        <item>\#sp</item>
+        <item>\#sponsor</item>
+        <item>\#sponsoredby</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030002">
+        <item>amzn.to</item>
+        <item>liketk.it</item>
+        <item>api.shopstyle</item>
+        <item>click.linksynergy.com</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030003">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030004">
+        <item>12</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030005">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030006">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030007">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030008">
+        <item>12</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030009">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000a">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000b">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000c">
+        <item>hours</item>
+        <item>days</item>
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000d">
+        <item>Open for selected hours</item>
+        <item>Always open</item>
+        <item>No hours available</item>
+        <item>Permanently closed</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000e">
+        <item>Post in %1$s by tapping the %2$s icon</item>
+        <item>Tap the %2$s icon to post in %1$s</item>
+        <item>Tap the %2$s icon to type in %1$s using English</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000f">
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030010">
+        <item>hours</item>
+        <item>days</item>
+        <item>weeks</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030011">
+        <item>minutes</item>
+        <item>hours</item>
+    </string-array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030012">
+        <item>@id/jobscheduler_appinstalltracker</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030013">
+        <item>@id/jobscheduler_bugreporterretry</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030014">
+        <item>@id/jobscheduler_conditionalworker</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030015">
+        <item>@id/jobscheduler_app_module_download</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030016">
+        <item>@id/jobscheduler_delayed_notification_job_id</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030017">
+        <item>@id/jobscheduler_offline_mutations_retry</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030018">
+        <item>@id/jobscheduler_push_negative_logging_service</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030019">
+        <item>@id/jobscheduler_push_registrar_get_gcm_token_service</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f03001a">
+        <item>@id/jobscheduler_push_server_register_finish_notified_service</item>
+        <item>@id/jobscheduler_push_server_register_finish_notified_fbns_service</item>
+        <item>@id/jobscheduler_push_server_register_best_effort_service</item>
+        <item>@id/jobscheduler_push_server_register_best_effort_fbns_service</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f03001b">
+        <item>@id/jobscheduler_push_server_register_service</item>
+        <item>@id/jobscheduler_push_server_register_service2</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f03001c">
+        <item>@id/jobscheduler_update_local_media_store</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f03001d">
+        <item>@id/jobscheduler_zerodownload_start</item>
+        <item>@id/jobscheduler_zerodownload_stop</item>
+    </array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03001e">
+        <item>Default</item>
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warn</item>
+        <item>Error</item>
+        <item>Assert</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03001f">
+        <item>-1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030020">
+        <item>I hated it</item>
+        <item>"I didn't like it"</item>
+        <item>"It's okay"</item>
+        <item>I liked it</item>
+        <item>I loved it</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030021">
+        <item>Tap a star to rate</item>
+        <item>"&lt;b>Very bad:&lt;/b> I can't understand anything."</item>
+        <item>"&lt;b>Bad:&lt;/b> I can't understand most of this."</item>
+        <item>&lt;b>OK:&lt;/b> I can understand enough of this.</item>
+        <item>&lt;b>Good:&lt;/b> I can understand most of this.</item>
+        <item>&lt;b>Very good:&lt;/b> I can understand everything.</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030022">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030023">
+        <item>12</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030024">
+        <item>00</item>
+        <item>05</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030025">
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060115</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060400</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f06005f</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060401</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f0600dd</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060402</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f06004c</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060328</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f060193</item>
+        <item>@color/APKTOOL_DUPLICATE_color_0x7f06004d</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030026">
+        <item>#fff5c33b</item>
+        <item>#fff35369</item>
+        <item>#ff54c7ec</item>
+        <item>#ff4dbba6</item>
+        <item>#ff89be4c</item>
+        <item>#ffec6fb5</item>
+        <item>#ffcd9862</item>
+        <item>#ffa8bbc3</item>
+        <item>#ffef6632</item>
+    </array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030027">
+        <item>Happy</item>
+        <item>Love</item>
+        <item>LOL</item>
+        <item>Thanks</item>
+        <item>Congrats</item>
+        <item>Birthday</item>
+        <item>Confused</item>
+        <item>Sad</item>
+        <item>Angry</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030028">
+        <item>com.mobile.legends</item>
+        <item>com.tencent.ig</item>
+        <item>com.imangi.templerun2</item>
+        <item>com.netease.chiji</item>
+        <item>com.supercell.clashofclans</item>
+        <item>com.supercell.clashroyale</item>
+        <item>com.dragonnestm.ggplay.koramgame.global</item>
+        <item>com.mojang.minecraftpe</item>
+        <item>com.roblox.client</item>
+        <item>com.h8games.helixjump</item>
+        <item>com.ea.gp.pvzheroes</item>
+    </string-array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f030029">
+        <item>@drawable/emoji_uf_sd_main_really_sad_default</item>
+        <item>@drawable/emoji_uf_sd_main_sad_default</item>
+        <item>@drawable/emoji_uf_sd_main_neutral_default</item>
+        <item>@drawable/emoji_uf_sd_main_happy_default</item>
+        <item>@drawable/emoji_uf_sd_main_really_happy_default</item>
+    </array>
+    <array name="APKTOOL_DUPLICATE_array_0x7f03002a">
+        <item>@drawable/emoji_uf_sd_main_really_sad_pressed</item>
+        <item>@drawable/emoji_uf_sd_main_sad_pressed</item>
+        <item>@drawable/emoji_uf_sd_main_neutral_pressed</item>
+        <item>@drawable/emoji_uf_sd_main_happy_pressed</item>
+        <item>@drawable/emoji_uf_sd_main_really_happy_pressed</item>
+    </array>
+</resources>

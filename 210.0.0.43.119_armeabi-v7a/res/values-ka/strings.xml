@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">ბმულის კოპირება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110002">ბმულის შენახვა Facebook-ზე</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110003">გაუგზავნეთ სასაუბროში</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">კოლექციაში დამატება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000e">გაასუფთავეთ თქვენი ტელეფონის ქუქი-ფაილები და ისტორია თქვენი ვებ-გვერდების ვიზიტი %1$s აპში.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110010">ვწუხვართ, ამ ფუნქციას ტექნიკური პრობლემა აქვს. ჩვენ მის გამოსწორებაზე ვმუშაობთ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">უკაცრავად, დაფიქსირდა შეცდომა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">ნებართვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">დაბლოკვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110017">იტვირთება...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110018">მონიშნეთ ბმული, როგორც საეჭვო</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">შენახულია</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">უკან დაბრუნება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110029">კამერა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002a">თქვენი ამბავი</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">მივდივარ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">არ მივდივარ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">არ ვარ დაინტერესებული</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110036">გაზიარება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110037">ბმულის კოპირება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110038">ბმული კოპირებულია</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003b">შენახულის ნახვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003f">შეინახეთ ბმული</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110040">ბმული შეინახა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110042">Messenger-ში გაგზავნა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">მეტი არჩევანი</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110045">პირდაპირ ეთერში გასვლა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110046">ვებ-გვერდი იტვირთება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">იტვირთება %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004f">ახლა არა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110053">მეტის ნახვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110059">შენახვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">შენახულია</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110067">უკან დაბრუნება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007e">უკან დაბრუნება</string>
+</resources>

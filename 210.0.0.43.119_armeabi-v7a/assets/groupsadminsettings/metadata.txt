@@ -1,0 +1,6 @@
+.id groupsadminsettings
+.requires dex
+.locators
+.name_based_locators
+.locator_id 6
+groupsadminsettings-1.dex.jar.xzs.tmp~ 25464cd4d373cf8417c1a7698a5d7453ceda42f5 storebf1e.dex01.Canary

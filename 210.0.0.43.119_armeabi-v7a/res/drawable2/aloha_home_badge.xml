@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f09037f">
+        <bitmap android:src="@drawable/aloha_home_badge_background" />
+    </item>
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f090383">
+        <inset android:insetLeft="1.0dip" android:insetRight="1.0dip" android:insetTop="1.0dip" android:insetBottom="1.0dip">
+            <bitmap android:src="@drawable/messenger_icons_house_32" />
+        </inset>
+    </item>
+</layer-list>

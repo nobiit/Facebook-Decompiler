@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <padding android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+            <solid android:color="#00cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+            <solid android:color="#10cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+            <solid android:color="#20cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+            <solid android:color="#30cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="1.0dip" android:right="1.0dip" android:bottom="1.0dip" />
+            <solid android:color="#40cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:bottom="1.0dip" />
+            <solid android:color="#48cccccc" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600d2" />
+            <corners android:radius="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000d" />
+        </shape>
+    </item>
+</layer-list>

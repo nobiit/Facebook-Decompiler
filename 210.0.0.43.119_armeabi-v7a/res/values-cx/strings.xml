@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110006">Pagdugang og Extension sa Platform</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Idugang sa koleksyon</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000c">Isirado ang browser</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000d">Kumpirmaha ang Gidugang nga Extension sa Platform</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110013">Gusto gamiton sa %1$s ang lokasyon sa imong device.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Tugoti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">I-block</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Na-save na</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Pangita</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001b">Ibahagi ang Content</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001d">Adunay mga problema sa sertipiko sa seguridad para niini nga site</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Balik</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001f">Sayop sa seguridad</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110035">Dili ma-load ang pahina</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">I-install ang app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003a">I-install ang %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003c">Ablihi gamit ang ...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">Ablihi sa app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003e">Ablihi sa %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Dugang pang mga opsyon</string>
+</resources>

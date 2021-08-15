@@ -1,0 +1,7 @@
+.id localsurface
+.requires dex
+.requires shared1
+.locators
+.name_based_locators
+.locator_id 11
+localsurface-1.dex.jar.xzs.tmp~ 74bc4786db7ed939d9dce84da0fdb9e3a097148c storeeee2.dex01.Canary

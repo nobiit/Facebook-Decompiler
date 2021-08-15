@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">"Copia l'enllaç"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110002">"Desa l'enllaç al Facebook"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110003">Envia per Facebook Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110007">Afegida/es a:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Afegeix a la col·lecció</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110010">Hi ha un problema tècnic amb aquesta funció. Estem treballant per solucionar-lo.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">Alguna cosa ha anat malament</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Permet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">Bloqueja</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110017">Carregant...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110018">Marca aquest enllaç com a sospitós</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">"S'ha desat"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Torna enrere</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110029">Càmera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002a">La teva història</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">Hi assistiràs</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002f">"M'interessa"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">No hi assistiré</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">No hi estàs interessat?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110033">Gratuïts</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110036">COMPARTEIX</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110037">"Copia l'enllaç"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110038">"L'enllaç s'ha copiat"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">"Instal·la l'aplicació"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003b">Mostra els elements desats</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003d">"Obre a l'aplicació"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003f">"Desa l'enllaç"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110042">Envia per Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Més opcions</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110045">Transmet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110046">Carregant web</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">Carregant %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004e">DESA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004f">Ara no</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110050">Amaga els detalls</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110053">"Mostra'n més..."</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110059">Desa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">Desat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110066">Alerta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110067">Torna enrere</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110068">Amaga els detalls</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006d">Mostra els detalls</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007e">Torna enrere</string>
+</resources>

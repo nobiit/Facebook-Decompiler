@@ -1,0 +1,7 @@
+.id internsettings
+.requires dex
+.requires shared0
+.locators
+.name_based_locators
+.locator_id 10
+internsettings-1.dex.jar.xzs.tmp~ fd0f37301acc3214ae2f0e6278a1d74e4c696e92 storec135.dex01.Canary

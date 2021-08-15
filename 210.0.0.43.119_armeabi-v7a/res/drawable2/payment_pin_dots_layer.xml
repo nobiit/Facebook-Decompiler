@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f091e3b" android:drawable="@drawable2/payment_pin_underline_shape" android:left="0.0dip" android:right="120.0dip" />
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f091e3c" android:drawable="@drawable2/payment_pin_underline_shape" android:left="40.0dip" android:right="80.0dip" />
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f091e3d" android:drawable="@drawable2/payment_pin_underline_shape" android:left="80.0dip" android:right="40.0dip" />
+    <item android:id="@id/APKTOOL_DUPLICATE_id_0x7f091e3e" android:drawable="@drawable2/payment_pin_underline_shape" android:left="120.0dip" android:right="0.0dip" />
+</layer-list>

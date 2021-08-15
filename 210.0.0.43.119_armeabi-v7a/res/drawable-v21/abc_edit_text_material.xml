@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen2/(name removed)" android:insetRight="@dimen2/(name removed)" android:insetTop="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150001" android:insetBottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150011"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item android:state_enabled="false">
+            <nine-patch android:src="@drawable/abc_textfield_default_mtrl_alpha" android:tint="?APKTOOL_DUPLICATE_attr_0x7f0401c1" android:alpha="?android:disabledAlpha" />
+        </item>
+        <item android:state_focused="false" android:state_pressed="false">
+            <nine-patch android:src="@drawable/abc_textfield_default_mtrl_alpha" android:tint="?APKTOOL_DUPLICATE_attr_0x7f0401c1" />
+        </item>
+        <item>
+            <nine-patch android:src="@drawable/abc_textfield_activated_mtrl_alpha" android:tint="?APKTOOL_DUPLICATE_attr_0x7f0401bf" />
+        </item>
+    </selector>
+</inset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/APKTOOL_DUPLICATE_color_0x7f0600d2" />
+    <item android:gravity="center">
+        <shape android:height="72.0dip" android:width="72.0dip" android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0601fc" />
+            <size android:height="72.0dip" android:width="72.0dip" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@mipmap/icon_katana_foreground" />
+    </item>
+    <item android:gravity="center">
+        <shape android:height="110.0dip" android:width="110.0dip" android:shape="oval">
+            <solid android:color="@android:color/transparent" />
+            <size android:height="96.0dip" android:width="96.0dip" />
+            <stroke android:width="13.0dip" android:color="@android:color/white" />
+        </shape>
+    </item>
+</layer-list>

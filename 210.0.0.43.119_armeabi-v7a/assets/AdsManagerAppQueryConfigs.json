@@ -1,0 +1,22 @@
+{
+  "$generated": "@generated SignedSource<<adbc1d6ec29d714588a4e0dd7b5692ff>>",
+  "AdsManagerAccountHomeView_Query": {
+    "id": "1834355446621667",
+    "variables": [
+      "account",
+      "ama_creativeTest",
+      "ama_delayedSpendBar",
+      "ama_isAMA",
+      "ama_mediumListImageSize",
+      "ama_mediumPlusListImageSize",
+      "ama_shouldDelayCriticalAlerts",
+      "ambr_fb_quickpromotion_nux_surface_id",
+      "ambr_pma_quickpromotion_nux_surface_id",
+      "scale"
+    ]
+  },
+  "AMAPreferredAccountQuery": {
+    "id": "1249551565149002",
+    "variables": []
+  }
+}

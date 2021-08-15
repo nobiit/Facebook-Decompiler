@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen2/(name removed)" android:insetRight="@dimen2/(name removed)" android:insetTop="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150001" android:insetBottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150011"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item android:state_enabled="false" android:drawable="@drawable/abc_textfield_default_mtrl_alpha" />
+        <item android:state_focused="false" android:state_pressed="false" android:drawable="@drawable/abc_textfield_default_mtrl_alpha" />
+        <item android:drawable="@drawable/abc_textfield_activated_mtrl_alpha" />
+    </selector>
+</inset>

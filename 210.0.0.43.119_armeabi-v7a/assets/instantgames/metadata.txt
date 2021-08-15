@@ -1,0 +1,6 @@
+.id instantgames
+.requires dex
+.locators
+.name_based_locators
+.locator_id 8
+instantgames-1.dex.jar.xzs.tmp~ 75bb5f229b039a3437801936f5a8376d8107ead2 store9180.dex01.Canary

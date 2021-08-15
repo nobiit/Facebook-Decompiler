@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120024">
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f120025">
+        <item name="android:layout_toLeftOf">@id/APKTOOL_DUPLICATE_id_0x7f090c2f</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:layout_toStartOf">@id/APKTOOL_DUPLICATE_id_0x7f090c2f</item>
+    </style>
+</resources>

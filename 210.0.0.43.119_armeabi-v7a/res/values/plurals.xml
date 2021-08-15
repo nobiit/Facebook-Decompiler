@@ -1,0 +1,2077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="(name removed)">
+        <item quantity="other">%1$s, %2$s and %3$d others accepted your friend requests.</item>
+        <item quantity="one">%1$s, %2$s and %3$d other accepted your friend requests.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0001">
+        <item quantity="other">Seen by %1$s people, click button to open list of viewers</item>
+        <item quantity="one">Seen by %1$s person, click button to open list of viewers</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0002">
+        <item quantity="other">Seen by %1$d people</item>
+        <item quantity="one">Seen by %1$d person</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0003">
+        <item quantity="other">Applications Submitted</item>
+        <item quantity="one">Application Submitted</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0004">
+        <item quantity="other">Comments</item>
+        <item quantity="one">Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0005">
+        <item quantity="other">Add %1$s and %2$s more days</item>
+        <item quantity="one">Add %1$s and 1 more day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0006">
+        <item quantity="other">Add %1$s days</item>
+        <item quantity="one">Add 1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0007">
+        <item quantity="other">%1$s days</item>
+        <item quantity="one">%1$s day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0008">
+        <item quantity="other">%1$s interests</item>
+        <item quantity="one">1 interest</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0009">
+        <item quantity="other">%1$d Custom Questions</item>
+        <item quantity="one">%1$d Custom Question</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000a">
+        <item quantity="other">Likes</item>
+        <item quantity="one">Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000b">
+        <item quantity="other">Link Clicks</item>
+        <item quantity="one">Link Click</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000c">
+        <item quantity="other">%1$s locations</item>
+        <item quantity="one">1 location</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000d">
+        <item quantity="other">&lt;font color=#da2929>The minimum budget is %1$s per day, so your current budget only allows adding up to %2$s days.&lt;/font></item>
+        <item quantity="one">&lt;font color=#da2929>The minimum budget is %1$s per day, so your current budget only allows adding up to 1 day.&lt;/font></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000e">
+        <item quantity="other">Messaging Replies</item>
+        <item quantity="one">Messaging Reply</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f000f">
+        <item quantity="other">Other Clicks</item>
+        <item quantity="one">Other Click</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0010">
+        <item quantity="other">Photo Views</item>
+        <item quantity="one">Photo View</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0011">
+        <item quantity="other">Reactions</item>
+        <item quantity="one">Reaction</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0012">
+        <item quantity="other">Shares</item>
+        <item quantity="one">Share</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0013">
+        <item quantity="other">Video Plays</item>
+        <item quantity="one">Video Play</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0014">
+        <item quantity="other">%1$s and %2$d others</item>
+        <item quantity="one">%1$s and 1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0015">
+        <item quantity="other">%d contributors</item>
+        <item quantity="one">1 contributor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0016">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">1 photo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0017">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0018">
+        <item quantity="other">%s votes</item>
+        <item quantity="one">1 vote</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0019">
+        <item quantity="other">%s months</item>
+        <item quantity="one">1 month</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001a">
+        <item quantity="other">%s years</item>
+        <item quantity="one">1 year</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001b">
+        <item quantity="other">%1$s • Posted in %2$d places</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001c">
+        <item quantity="other">%1$s of 5 stars from %2$s ratings</item>
+        <item quantity="one">%1$s of 5 stars from 1 rating</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001d">
+        <item quantity="other">%1$d Stories</item>
+        <item quantity="one">1 Story</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001e">
+        <item quantity="other">%1$d others</item>
+        <item quantity="one">%1$d other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f001f">
+        <item quantity="other">%1s check-ins</item>
+        <item quantity="one">1 check-in</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0020">
+        <item quantity="other">%d people have been blocked</item>
+        <item quantity="one">%d person has been blocked</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0021">
+        <item quantity="other">%d comments have been deleted</item>
+        <item quantity="one">%d comment has been deleted</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0022">
+        <item quantity="other">Deleting comments …</item>
+        <item quantity="one">Deleting comment …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0023">
+        <item quantity="other">Block the people who wrote these comments</item>
+        <item quantity="one">Block the person who wrote this comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0024">
+        <item quantity="other">When you delete these %d comments, they will no longer be visible to anyone.</item>
+        <item quantity="one">When you delete this comment, it will no longer be visible to anyone.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0025">
+        <item quantity="other">When you hide these %d comments, they will only be visible to the people who wrote them and their friends.</item>
+        <item quantity="one">When you hide this comment, it will only be visible to the people who wrote it and their friends.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0026">
+        <item quantity="other">Delete Comments</item>
+        <item quantity="one">Delete Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0027">
+        <item quantity="other">Hide Comments</item>
+        <item quantity="one">Hide Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0028">
+        <item quantity="other">%d comments have been hidden</item>
+        <item quantity="one">%d comment has been hidden</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0029">
+        <item quantity="other">Hiding comments …</item>
+        <item quantity="one">Hiding comment …</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002a">
+        <item quantity="other">Recommended by %d people</item>
+        <item quantity="one">Recommended by 1 person</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002b">
+        <item quantity="other">You have %d tags in your photos</item>
+        <item quantity="one">You have 1 tag in a photo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002c">
+        <item quantity="other">Say something about these photos…</item>
+        <item quantity="one">Say something about this photo…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002d">
+        <item quantity="other">Say something about these videos…</item>
+        <item quantity="one">Say something about this video…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002e">
+        <item quantity="other">Option %1$s</item>
+        <item quantity="one">Option %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f002f">
+        <item quantity="other">%1$d others</item>
+        <item quantity="one">1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0030">
+        <item quantity="other">%1$d confirmed friends</item>
+        <item quantity="one">1 confirmed friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0031">
+        <item quantity="other">%1$d views from this post</item>
+        <item quantity="one">1 view from this post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0032">
+        <item quantity="other">%1$d views from %2$d other posts</item>
+        <item quantity="one">%1$d views from 1 other post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0033">
+        <item quantity="other">No view from other posts</item>
+        <item quantity="one">No view from other post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0034">
+        <item quantity="other">1 view from other %1$d posts</item>
+        <item quantity="one">1 view from other 1 post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0035">
+        <item quantity="other">Video Posted %1$d Times</item>
+        <item quantity="one">Video Posted 1 Time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0036">
+        <item quantity="other">Send friends messages or stickers to say hi!</item>
+        <item quantity="one">Send them a message or sticker to say hi!</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0037">
+        <item quantity="other">%1$d of your contacts are on Messenger</item>
+        <item quantity="one">One of your contacts is on Messenger</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0038">
+        <item quantity="other">%d Extra Lives</item>
+        <item quantity="one">%d Extra Life</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0039">
+        <item quantity="other">%d Questions Correct</item>
+        <item quantity="one">%d Question Correct</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003a">
+        <item quantity="other">%s Players Still in the Running</item>
+        <item quantity="one">1 Player Still in the Running</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003b">
+        <item quantity="other">%s Winners</item>
+        <item quantity="one">1 Winner</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003c">
+        <item quantity="other">%s Upvotes</item>
+        <item quantity="one">%s Upvote</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003d">
+        <item quantity="other">%1$S Videos</item>
+        <item quantity="one">1 Video</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003e">
+        <item quantity="other">"You've already spent %1$d hours on Facebook today, so you'll get a reminder starting tomorrow."</item>
+        <item quantity="one">"You've already spent 1 hour on Facebook today, so you'll get a reminder starting tomorrow."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f003f">
+        <item quantity="other">and %1$d minutes</item>
+        <item quantity="one">and 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0040">
+        <item quantity="other">"You've already spent %1$d minutes on Facebook today, so you'll get a reminder starting tomorrow."</item>
+        <item quantity="one">"You've already spent 1 minute on Facebook today, so you'll get a reminder starting tomorrow."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0041">
+        <item quantity="other">"You've already spent %1$d hours %2$s on Facebook today, so you'll get a reminder starting tomorrow."</item>
+        <item quantity="one">"You've already spent 1 hour %2$s on Facebook today, so you'll get a reminder starting tomorrow."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0042">
+        <item quantity="other">"You've spent %1$d hours on Facebook today"</item>
+        <item quantity="one">"You've spent 1 hour on Facebook today"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0043">
+        <item quantity="other">and %1$d minutes</item>
+        <item quantity="one">and 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0044">
+        <item quantity="other">"You've spent %1$d minutes on Facebook today"</item>
+        <item quantity="one">"You've spent 1 minute on Facebook today"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0045">
+        <item quantity="other">"You've spent %1$d hours %2$s on Facebook today"</item>
+        <item quantity="one">"You've spent 1 hour %2$s on Facebook today"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0046">
+        <item quantity="other">You set a reminder for %1$d hours. %2$s</item>
+        <item quantity="one">You set a reminder for 1 hour. %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0047">
+        <item quantity="other">and %1$d minutes</item>
+        <item quantity="one">and 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0048">
+        <item quantity="other">You set a reminder for %1$d minutes. %2$s</item>
+        <item quantity="one">You set a reminder for 1 minute. %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0049">
+        <item quantity="other">You set a reminder for %1$d hours %2$s. %3$s</item>
+        <item quantity="one">You set a reminder for 1 hour %2$s. %3$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004a">
+        <item quantity="other">Your daily reminder currently is set for %1$d hours.</item>
+        <item quantity="one">Your daily reminder currently is set for 1 hour.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004b">
+        <item quantity="other">and %1$d minutes</item>
+        <item quantity="one">and 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004c">
+        <item quantity="other">Your daily reminder currently is set for %1$d minutes.</item>
+        <item quantity="one">Your daily reminder currently is set for 1 minute.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004d">
+        <item quantity="other">Your daily reminder currently is set for %1$d hours %2$s.</item>
+        <item quantity="one">Your daily reminder currently is set for 1 hour %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004e">
+        <item quantity="other">"You've set a daily reminder for %1$d hours."</item>
+        <item quantity="one">"You've set a daily reminder for 1 hour."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f004f">
+        <item quantity="other">and %1$d minutes</item>
+        <item quantity="one">and 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0050">
+        <item quantity="other">"You've set a daily reminder for %1$d minutes."</item>
+        <item quantity="one">"You've set a daily reminder for 1 minute."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0051">
+        <item quantity="other">"You've set a daily reminder for %1$d hours %2$s."</item>
+        <item quantity="one">"You've set a daily reminder for 1 hour %2$s."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0052">
+        <item quantity="other">%d days left</item>
+        <item quantity="one">1 day left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0053">
+        <item quantity="other">Error uploading %1$d photos…</item>
+        <item quantity="one">Error uploading 1 photo…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0054">
+        <item quantity="other">Uploading %1$d photos…</item>
+        <item quantity="one">Uploading 1 photo…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0055">
+        <item quantity="other">Waiting to upload %1$d photos…</item>
+        <item quantity="one">Waiting to upload 1 photo…</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0056">
+        <item quantity="other">Deleting %d items</item>
+        <item quantity="one">Deleting 1 item</item>
+    </plurals>
+    <plurals name="device_request">
+        <item quantity="other">Device Requests</item>
+        <item quantity="one">Device Request</item>
+    </plurals>
+    <plurals name="device_requests_awaiting_approval">
+        <item quantity="other">You have device requests awaiting your approval</item>
+        <item quantity="one">You have a device request awaiting your approval</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0059">
+        <item quantity="other">Drafts will be discarded after %1$d days</item>
+        <item quantity="one">Drafts will be discarded after 1 day.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005a">
+        <item quantity="other">There are %1$s items waiting to be reviewed.</item>
+        <item quantity="one">There is one item waiting to be reviewed.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005b">
+        <item quantity="other">There are %1$s posts waiting to be reviewed.</item>
+        <item quantity="one">There is one post waiting to be reviewed.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005c">
+        <item quantity="other">+%d more times</item>
+        <item quantity="one">+%d more time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005d">
+        <item quantity="other">You have %1$s posts under review.</item>
+        <item quantity="one">You have one post under review.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005e">
+        <item quantity="other">Tickets</item>
+        <item quantity="one">Ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f005f">
+        <item quantity="other">%1$,d Tickets</item>
+        <item quantity="one">1 Ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0060">
+        <item quantity="other">%1$,d Tickets</item>
+        <item quantity="one">1 Ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0061">
+        <item quantity="other">%1$,d %2$s</item>
+        <item quantity="one">1 %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0062">
+        <item quantity="other">%1$,d Guests</item>
+        <item quantity="one">1 Guest</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0063">
+        <item quantity="other">%1$s, %2$s and %3$d other pages have requests to co-host this event</item>
+        <item quantity="one">%1$s, %2$s and one other page have requests to co-host this event</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0064">
+        <item quantity="other">&lt;b>%1$s&lt;/b> going or interested</item>
+        <item quantity="one">&lt;b>1&lt;/b> going or interested</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0065">
+        <item quantity="other">%1$s are going or interested</item>
+        <item quantity="one">%1$s is going or interested</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0066">
+        <item quantity="other">%1$s are going</item>
+        <item quantity="one">%1$s is going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0067">
+        <item quantity="other">%1$s are interested</item>
+        <item quantity="one">%1$s is interested</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0068">
+        <item quantity="other">&lt;b>%1$s going&lt;/b></item>
+        <item quantity="one">&lt;b>1 going&lt;/b></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0069">
+        <item quantity="other">&lt;b>%1$s interested&lt;/b></item>
+        <item quantity="one">&lt;b>1 interested&lt;/b></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006a">
+        <item quantity="other">&lt;b>%1$s&lt;/b>, &lt;b>%2$s&lt;/b> and %4$d others</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>, &lt;b>%2$s&lt;/b> and &lt;b>%3$s&lt;/b></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006b">
+        <item quantity="other">&lt;b>%1$s shares&lt;/b></item>
+        <item quantity="one">&lt;b>1 share&lt;/b></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006c">
+        <item quantity="other">"Sorry we couldn't find %1$,d tickets between %2$s - %3$s. You can try changing the filter settings or view this event on %4$s"</item>
+        <item quantity="one">"Sorry we couldn't find 1 ticket between %2$s - %3$s. You can try changing the filter settings or view this event on %4$s"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006d">
+        <item quantity="other">"Sorry we couldn't find %1$,d tickets for %2$s. You can try changing the filter settings or view this event on %3$s"</item>
+        <item quantity="one">"Sorry we couldn't find 1 ticket for %2$s. You can try changing the filter settings or view this event on %3$s"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006e">
+        <item quantity="other">%1$s - %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f006f">
+        <item quantity="other">%1$s and %2$d friends are going</item>
+        <item quantity="one">%1$s and 1 friend are going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0070">
+        <item quantity="other">%1$s and %2$d friends are interested</item>
+        <item quantity="one">%1$s and 1 friend are interested</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0071">
+        <item quantity="other">%1$s and %2$d friends might go</item>
+        <item quantity="one">%1$s and 1 friend might go</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0072">
+        <item quantity="other">View Orders</item>
+        <item quantity="one">View Order</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0073">
+        <item quantity="other">%1$,d guests registered</item>
+        <item quantity="one">1 guest registered</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0074">
+        <item quantity="other">Tickets on sale in %s days</item>
+        <item quantity="one">Tickets on sale in 1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0075">
+        <item quantity="other">Tickets on sale in %s hours</item>
+        <item quantity="one">Tickets on sale in 1 hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0076">
+        <item quantity="other">Tickets on sale in %s minutes</item>
+        <item quantity="one">Tickets on sale in 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0077">
+        <item quantity="other">%1$,d Tickets</item>
+        <item quantity="one">1 Ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0078">
+        <item quantity="other">You can only purchase up to %1$,d tickets at a time.</item>
+        <item quantity="one">You can only purchase up to 1 ticket at a time.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0079">
+        <item quantity="other">You must purchase a minimum of %1$,d tickets.</item>
+        <item quantity="one">You must purchase a minimum of 1 ticket.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007a">
+        <item quantity="other">You can only purchase %1$,d tickets at a time.</item>
+        <item quantity="one">You can only purchase 1 ticket at a time.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007b">
+        <item quantity="other">Find %1$,d seats</item>
+        <item quantity="one">Find 1 seat</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007c">
+        <item quantity="other">Your Tickets</item>
+        <item quantity="one">Your Ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007d">
+        <item quantity="other">%s EVENTS</item>
+        <item quantity="one">1 EVENT</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007e">
+        <item quantity="other">%1$s and %2$,d others</item>
+        <item quantity="one">%1$s and 1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f007f">
+        <item quantity="other">events in your calendar</item>
+        <item quantity="one">event in your calendar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0080">
+        <item quantity="other">%1$,d Miles</item>
+        <item quantity="one">%1$d Mile</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0081">
+        <item quantity="other">%1$,d Categories</item>
+        <item quantity="one">%1$d Category</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0082">
+        <item quantity="other">%1$,d mutual friends</item>
+        <item quantity="one">1 mutual friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0083">
+        <item quantity="other">"%1$s CAN'T GO"</item>
+        <item quantity="one">"1 CAN'T GO"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0084">
+        <item quantity="other">%1$s GOING</item>
+        <item quantity="one">1 GOING</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0085">
+        <item quantity="other">%1$s INVITED</item>
+        <item quantity="one">1 INVITED</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0086">
+        <item quantity="other">%1$s MAYBE</item>
+        <item quantity="one">1 MAYBE</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0087">
+        <item quantity="other">%1$d dates left</item>
+        <item quantity="one">One date left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0088">
+        <item quantity="other">%1$d times left</item>
+        <item quantity="one">One time left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0089">
+        <item quantity="other">%1$d messages remaining</item>
+        <item quantity="one">1 message remaining</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008a">
+        <item quantity="other">%1$d Times</item>
+        <item quantity="one">One Time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008b">
+        <item quantity="other">%1$,d chats with friends</item>
+        <item quantity="one">%1$,d chat with friends</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008c">
+        <item quantity="other">%1$d Spots Left</item>
+        <item quantity="one">1 Spot Left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008d">
+        <item quantity="other">%1$s, %2$s and %3$,d other friends are going</item>
+        <item quantity="one">%1$s and 2 other friends are going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008e">
+        <item quantity="other">%1$,d friends are going</item>
+        <item quantity="one">1 friend is going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f008f">
+        <item quantity="other">%1$s, %2$s and %3$,d other friends might go</item>
+        <item quantity="one">%1$s and 2 other friends might go</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0090">
+        <item quantity="other">%1$,d friends might go</item>
+        <item quantity="one">1 friend might go</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0091">
+        <item quantity="other">%1$s, %2$s and %3$,d other friends might have gone</item>
+        <item quantity="one">%1$s and 2 other friends might have gone</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0092">
+        <item quantity="other">%1$,d friends might have gone</item>
+        <item quantity="one">1 friend might have gone</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0093">
+        <item quantity="other">%1$s, %2$s and %3$,d other friends went</item>
+        <item quantity="one">%1$s and 2 other friends went</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0094">
+        <item quantity="other">%1$,d friends went</item>
+        <item quantity="one">1 friend went</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0095">
+        <item quantity="other">and %d others</item>
+        <item quantity="one">and %d other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0096">
+        <item quantity="other">%1$s, %2$s and %3$d others like %4$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0097">
+        <item quantity="other">%1$s and %2$d friends</item>
+        <item quantity="one">%1$s and 1 friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0098">
+        <item quantity="other">%1$s tickets purchased</item>
+        <item quantity="one">1 ticket purchased</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0099">
+        <item quantity="other">%1$d Dates</item>
+        <item quantity="one">%1$d Date</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009a">
+        <item quantity="other">%1$d Times</item>
+        <item quantity="one">%1$d Time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009b">
+        <item quantity="other">1 chat with %1$s and %2$d others</item>
+        <item quantity="one">1 chat with %1$s and 1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009c">
+        <item quantity="other">%1$s people going</item>
+        <item quantity="one">1 person going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009d">
+        <item quantity="other">%1$d people went</item>
+        <item quantity="one">1 person went</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009e">
+        <item quantity="other">%1$s people interested</item>
+        <item quantity="one">1 person interested</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f009f">
+        <item quantity="other">You and %1$d friends went</item>
+        <item quantity="one">You and 1 friend went</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a0">
+        <item quantity="other">%1$d friends went</item>
+        <item quantity="one">1 friend went</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a1">
+        <item quantity="other">You have %1$,d tickets</item>
+        <item quantity="one">You have 1 ticket</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a2">
+        <item quantity="other">Event started %1$d hours ago</item>
+        <item quantity="one">Event started one hour ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a3">
+        <item quantity="other">In about %1$d hours</item>
+        <item quantity="one">In about one hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a4">
+        <item quantity="other">%1$d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a5">
+        <item quantity="other">In %1$d minutes</item>
+        <item quantity="one">In 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a6">
+        <item quantity="other">Event started %1$d months ago</item>
+        <item quantity="one">Event started one month ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a7">
+        <item quantity="other">In %1$d months</item>
+        <item quantity="one">Next month</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a8">
+        <item quantity="other">Event started %1$d weeks ago</item>
+        <item quantity="one">Event started one week ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00a9">
+        <item quantity="other">In %1$d weeks</item>
+        <item quantity="one">Next week</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00aa">
+        <item quantity="other">%1$d Upcoming Times</item>
+        <item quantity="one">One Upcoming Time</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ab">
+        <item quantity="other">Interested in %d items.</item>
+        <item quantity="one">Interested in 1 item.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ac">
+        <item quantity="other">%1$d friends are members</item>
+        <item quantity="one">1 friend is member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ad">
+        <item quantity="other">%d Items Failed to Delete</item>
+        <item quantity="one">1 Item Failed to Delete</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ae">
+        <item quantity="other">"Couldn't delete %d items"</item>
+        <item quantity="one">"Couldn't delete 1 item"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00af">
+        <item quantity="other">%d Items Not Saved</item>
+        <item quantity="one">1 Item Not Saved</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b0">
+        <item quantity="other">"Couldn't save %d items"</item>
+        <item quantity="one">"Couldn't save 1 item"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b1">
+        <item quantity="other">5</item>
+        <item quantity="zero">0</item>
+        <item quantity="one">1</item>
+        <item quantity="two">2</item>
+        <item quantity="few">3</item>
+        <item quantity="many">4</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b2">
+        <item quantity="other">%1$s Friends</item>
+        <item quantity="one">1 Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b3">
+        <item quantity="other">Suggested Pages</item>
+        <item quantity="one">Suggested Page</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b4">
+        <item quantity="other">Try adding at least %d more friends to see more posts and photos here in News Feed.</item>
+        <item quantity="one">Try adding at least 1 more friend to see more posts and photos here in News Feed.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b5">
+        <item quantity="other">You have %d Facebook friends!</item>
+        <item quantity="one">You have 1 Facebook friend!</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b6">
+        <item quantity="other">%s Members</item>
+        <item quantity="one">1 Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b7">
+        <item quantity="other">See %1$d More Items</item>
+        <item quantity="one">See 1 More Item</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b8">
+        <item quantity="other">%,d people like this Page.</item>
+        <item quantity="one">%,d person likes this Page.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00b9">
+        <item quantity="other">%,d views</item>
+        <item quantity="one">1 view</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ba">
+        <item quantity="other">Add %1$s more friends.</item>
+        <item quantity="one">Add 1 more friend.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00bb">
+        <item quantity="other">"You've sent %1$s friend requests!"</item>
+        <item quantity="one">"You've sent 1 friend request!"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00bc">
+        <item quantity="other">%1$S Followers</item>
+        <item quantity="one">%1$S Follower</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00bd">
+        <item quantity="other">%d matches found.</item>
+        <item quantity="one">1 match found.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00be">
+        <item quantity="other">Now add %1$d more friends!</item>
+        <item quantity="one">Now add 1 more friend!</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00bf">
+        <item quantity="other">and %,d others.</item>
+        <item quantity="one">and 1 other.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c0">
+        <item quantity="other">%s Players in the Running</item>
+        <item quantity="one">1 Player in the Running</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c1">
+        <item quantity="other">%s Winners</item>
+        <item quantity="one">1 Winner</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c2">
+        <item quantity="other">and %d friends are watching</item>
+        <item quantity="one">and 1 friend are watching</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c3">
+        <item quantity="other">%s players in the running</item>
+        <item quantity="one">%s player in the running</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c4">
+        <item quantity="other">%d events</item>
+        <item quantity="one">%d event</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c5">
+        <item quantity="other">%d groups</item>
+        <item quantity="one">%d group</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c6">
+        <item quantity="other">%d suggested matches</item>
+        <item quantity="one">%d suggested match</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c7">
+        <item quantity="other">%dk suggested matches</item>
+        <item quantity="one">%d suggested match</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c8">
+        <item quantity="other">%d+ suggested matches</item>
+        <item quantity="one">%d+ suggested match</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00c9">
+        <item quantity="other">%1$d feet %2$d inches tall</item>
+        <item quantity="one">%1$d feet %2$d inch tall</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ca">
+        <item quantity="other">Group by These Pages</item>
+        <item quantity="one">Group by This Page</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00cb">
+        <item quantity="other">Your video post is blocked everywhere except in %1$s, %2$s and %3$s other countries.</item>
+        <item quantity="one">Your video post is blocked everywhere except in %1$s, %2$s and 1 other country.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00cc">
+        <item quantity="other">%1$s of your videos are blocked everywhere except in %2$s and %3$s other countries.</item>
+        <item quantity="one">%1$s of your videos is blocked everywhere except in %2$s and %3$s other countries.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00cd">
+        <item quantity="other">%1$s of your videos are blocked everywhere except in %2$s.</item>
+        <item quantity="one">%1$s of your videos is blocked everywhere except in %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ce">
+        <item quantity="other">%1$s of your videos are blocked everywhere except in %2$s and 1 other country.</item>
+        <item quantity="one">%1$s of your videos is blocked everywhere except in %2$s and 1 other country.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00cf">
+        <item quantity="other">Your video post is blocked in %1$s, %2$s and %3$s other countries.</item>
+        <item quantity="one">Your video post is blocked in %1$s, %2$s and 1 other country.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d0">
+        <item quantity="other">%1$s of your videos are blocked in %2$s and %3$s other countries.</item>
+        <item quantity="one">%1$s of your videos is blocked in %2$s and %3$s other countries.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d1">
+        <item quantity="other">%1$s of your videos are blocked in %2$s.</item>
+        <item quantity="one">%1$s of your videos is blocked in %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d2">
+        <item quantity="other">%1$s of your videos are blocked in %2$s and 1 other country.</item>
+        <item quantity="one">%1$s of your videos is blocked in %2$s and 1 other country.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d3">
+        <item quantity="other">%1$s members</item>
+        <item quantity="one">1 member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d4">
+        <item quantity="other">&lt;b>%1$s&lt;/b> in the last 28 days</item>
+        <item quantity="one">&lt;b>1&lt;/b> in the last 28 days</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d5">
+        <item quantity="other">&lt;font color=#2D2A28>%1$s&lt;/font> new posts today</item>
+        <item quantity="one">&lt;font color=#2D2A28>1&lt;/font> new post today</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d6">
+        <item quantity="other">New Chat · %1$s group members in this chat.</item>
+        <item quantity="one">New Chat · %1$s group member in this chat.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d7">
+        <item quantity="other">Shipping with %1$d carriers</item>
+        <item quantity="one">Shipping with 1 carrier</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d8">
+        <item quantity="other">%1$s and %2$d friends are going</item>
+        <item quantity="one">%1$s and 1 friend are going</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00d9">
+        <item quantity="other">%1$s and %2$d friends might go</item>
+        <item quantity="one">%1$s and 1 friend might go</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00da">
+        <item quantity="other">%s Auto-Flagged Content</item>
+        <item quantity="one">1 Auto-Flagged Content</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00db">
+        <item quantity="other">%s Keyword Alerts</item>
+        <item quantity="one">1 Keyword Alert</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00dc">
+        <item quantity="other">This will approve all %d pending requests.</item>
+        <item quantity="one">This will approve all 1 pending request.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00dd">
+        <item quantity="other">This will decline all %d pending requests.</item>
+        <item quantity="one">This will decline all 1 pending request.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00de">
+        <item quantity="other">%d Mutual Friends</item>
+        <item quantity="one">1 Mutual Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00df">
+        <item quantity="other">%d members of this group like this Page</item>
+        <item quantity="one">1 member of this group likes this page</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e0">
+        <item quantity="other">Blocked From %d Groups You Manage</item>
+        <item quantity="one">Blocked From 1 Group You Manage</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e1">
+        <item quantity="other">%d Groups in Common</item>
+        <item quantity="one">1 Group in Common</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e2">
+        <item quantity="other">%d Groups</item>
+        <item quantity="one">1 Group</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e3">
+        <item quantity="other">%d Other Groups</item>
+        <item quantity="one">1 Other Group</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e4">
+        <item quantity="other">%d Matching Requests</item>
+        <item quantity="one">1 Matching Request</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e5">
+        <item quantity="other">%1$s and %2$d others.</item>
+        <item quantity="one">%s and 1 other.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e6">
+        <item quantity="other">%1$s and %2$d others.</item>
+        <item quantity="one">%s and 1 other.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e7">
+        <item quantity="other">%1$d Members</item>
+        <item quantity="one">1 Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e8">
+        <item quantity="other">"You can only change your group's name once &lt;b>every %d days&lt;/b>."</item>
+        <item quantity="one">"You can only change your group's name once every 1 day."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00e9">
+        <item quantity="other">Member of %d Groups</item>
+        <item quantity="one">Member of 1 Group</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ea">
+        <item quantity="other">%d posts within the last 7 days</item>
+        <item quantity="one">1 post within the last 7 days</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00eb">
+        <item quantity="other">%d Team Members</item>
+        <item quantity="one">1 Team Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ec">
+        <item quantity="other">%1$s and %2$d others.</item>
+        <item quantity="one">%s and 1 other.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ed">
+        <item quantity="other">%1$s and %2$d others.</item>
+        <item quantity="one">%s and 1 other.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ee">
+        <item quantity="other">%s photos</item>
+        <item quantity="one">%s photo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ef">
+        <item quantity="other">%s Reported Posts and Comments</item>
+        <item quantity="one">1 Reported Post and Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f0">
+        <item quantity="other">YOU CAN CREATE %d MORE RULES</item>
+        <item quantity="one">YOU CAN CREATE 1 MORE RULE</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f1">
+        <item quantity="other">%1$s total members</item>
+        <item quantity="one">1 total member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f2">
+        <item quantity="other">&lt;font color=#2D2A28>&lt;b>+%1$s&lt;/b>&lt;/font> in last week</item>
+        <item quantity="one">&lt;font color=#2D2A28>&lt;b>+1&lt;/b>&lt;/font> in last week</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f3">
+        <item quantity="other">%1$s Upcoming Get-Togethers</item>
+        <item quantity="one">1 Upcoming Get-Together</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f4">
+        <item quantity="other">%d Articles</item>
+        <item quantity="one">1 Article</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f5">
+        <item quantity="other">%d Top Contributors</item>
+        <item quantity="one">1 Top Contributor</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f6">
+        <item quantity="other">"We'll notify them by email about anything you post"</item>
+        <item quantity="one">"We'll notify the person by email about anything you post"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f7">
+        <item quantity="other">%1$d invited members</item>
+        <item quantity="one">1 invited member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f8">
+        <item quantity="other">%1$s Member Requests</item>
+        <item quantity="one">1 Member Request</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00f9">
+        <item quantity="other">%1$s Pending Posts</item>
+        <item quantity="one">1 Pending Post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00fa">
+        <item quantity="other">%1$s Pending Story Items</item>
+        <item quantity="one">1 Pending Story Item</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00fb">
+        <item quantity="other">%1$s Member-Reported Story Items</item>
+        <item quantity="one">1 Member-Reported Story Item</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00fc">
+        <item quantity="other">%1$d Scheduled Posts</item>
+        <item quantity="one">1 Scheduled Post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00fd">
+        <item quantity="other">%1$d others</item>
+        <item quantity="one">1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00fe">
+        <item quantity="other">%1$d friends</item>
+        <item quantity="one">1 friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f00ff">
+        <item quantity="other">%1$d friends</item>
+        <item quantity="one">1 friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0100">
+        <item quantity="other">%1$d members</item>
+        <item quantity="one">1 member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0101">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">%1$d hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0102">
+        <item quantity="other">%d hours left</item>
+        <item quantity="one">1 hour left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0103">
+        <item quantity="other">%1$s and %2$d others</item>
+        <item quantity="one">%1$s and 1 other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0104">
+        <item quantity="other">%1$d people answered. This is the average answer.</item>
+        <item quantity="one">1 person answered. This is the average answer.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0105">
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">1 view</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0106">
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(1 item)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0107">
+        <item quantity="other">"%1$d+
+Items"</item>
+        <item quantity="one">"1
+Item"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0108">
+        <item quantity="other">%1$s group members in this chat.</item>
+        <item quantity="one">%1$s group member in this chat.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0109">
+        <item quantity="other">You got your first %d likes. Congratulations!</item>
+        <item quantity="one">You got your first like. Congratulations!</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010a">
+        <item quantity="other">%1$d members</item>
+        <item quantity="one">%1$d member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010b">
+        <item quantity="other">%1$S Reactions</item>
+        <item quantity="one">1 Reaction</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010c">
+        <item quantity="other">%1$s, %2$s, and %3$d others are listening with you.</item>
+        <item quantity="one">%1$s, %2$s, and %3$s are listening with you.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010d">
+        <item quantity="other">%1$s, %2$s, and %3$d others are watching with you.</item>
+        <item quantity="one">%1$s, %2$s, and %3$s are watching with you.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010e">
+        <item quantity="other">%d VIDEOS</item>
+        <item quantity="one">1 VIDEO</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f010f">
+        <item quantity="other">Your Queue (%1$s videos)</item>
+        <item quantity="one">Your Queue (1 video)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0110">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0111">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0112">
+        <item quantity="other">Add Videos (%1$s)</item>
+        <item quantity="one">Add Videos (1)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0113">
+        <item quantity="other">%d Friends Online</item>
+        <item quantity="one">1 Friend Online</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0114">
+        <item quantity="other">Suggested (%1$s)</item>
+        <item quantity="one">Suggested (1)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0115">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0116">
+        <item quantity="other">%1$d people were invited.</item>
+        <item quantity="one">One person was invited.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0117">
+        <item quantity="other">Only %1$d people were added.</item>
+        <item quantity="one">Only one person was added.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0118">
+        <item quantity="other">The people you added are pending admin approval.</item>
+        <item quantity="one">The person you added is pending admin approval.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0119">
+        <item quantity="other">Inviting Members</item>
+        <item quantity="one">Inviting Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011a">
+        <item quantity="other">"Something went wrong and %1$d people you selected haven't been added."</item>
+        <item quantity="one">"Something went wrong and the person you selected hasn't been invited."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011b">
+        <item quantity="other">%1$d people were invited.</item>
+        <item quantity="one">One person was invited.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011c">
+        <item quantity="other">Only %1$d people were invited.</item>
+        <item quantity="one">Only one person was invited.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011d">
+        <item quantity="other">%d likes</item>
+        <item quantity="one">1 like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011e">
+        <item quantity="other">Expires in %d days</item>
+        <item quantity="one">Expires in 1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f011f">
+        <item quantity="other">%1$s unread conversations</item>
+        <item quantity="one">1 unread conversation</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0120">
+        <item quantity="other">%1$d Mutual Friends</item>
+        <item quantity="one">1 Mutual Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0121">
+        <item quantity="other">%1$d Likes</item>
+        <item quantity="one">1 Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0122">
+        <item quantity="other">"Respond to %1$s and %2$d others so you can see each others' updates."</item>
+        <item quantity="one">"Respond to %1$s so you can see each others' updates."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0123">
+        <item quantity="other">Confirm %d Friend Requests</item>
+        <item quantity="one">Confirm One Friend Request</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0124">
+        <item quantity="other">You have %d Facebook friends. See photos and updates when you add more.</item>
+        <item quantity="one">You have %d Facebook friend. See photos and updates when you add more.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0125">
+        <item quantity="other">%1$s of %2$s seats selected</item>
+        <item quantity="one">%1$s of %2$s seat selected</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0126">
+        <item quantity="other">%1$s of %2$s seats selected: %3$s</item>
+        <item quantity="one">%1$s of %2$s seat selected: %3$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0127">
+        <item quantity="other">%d Hours</item>
+        <item quantity="one">1 Hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0128">
+        <item quantity="other">%d Days</item>
+        <item quantity="one">1 Day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0129">
+        <item quantity="other">%1$d mutual friends</item>
+        <item quantity="one">1 mutual friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012a">
+        <item quantity="other">%d people like this page.</item>
+        <item quantity="one">1 person likes this page.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012b">
+        <item quantity="other">%1$s, %2$s, and %3$d other friends like this page.</item>
+        <item quantity="one">%1$s, %2$s, and 1 other friend like this page.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012c">
+        <item quantity="other">%1$d other friends</item>
+        <item quantity="one">%1$d other friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012d">
+        <item quantity="other">%1$s New Members</item>
+        <item quantity="one">1 New Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012e">
+        <item quantity="other">%1$s billion</item>
+        <item quantity="one">1 billion</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f012f">
+        <item quantity="other">%1$s million</item>
+        <item quantity="one">1 million</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0130">
+        <item quantity="other">%1$s thousand</item>
+        <item quantity="one">1 thousand</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0131">
+        <item quantity="other">%1$s Views</item>
+        <item quantity="one">%1$s View</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0132">
+        <item quantity="other">%1$s posted %2$d photos and %3$d videos — %4$s</item>
+        <item quantity="one">%1$s posted %2$d photos and a video — %4$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0133">
+        <item quantity="other">%1$s posted %2$d photos and %3$d videos.</item>
+        <item quantity="one">%1$s posted %2$d photos and a video.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0134">
+        <item quantity="other">%1$s added %3$d photos and %4$d videos to the album %2$s — %5$s</item>
+        <item quantity="one">%1$s added %3$d photos and a video to the album %2$s — %5$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0135">
+        <item quantity="other">%1$s added %3$d photos and %4$d videos to the album %2$s.</item>
+        <item quantity="one">%1$s added %3$d photos and a video to the album %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0136">
+        <item quantity="other">%1$s added %3$d photos and %4$d videos to the album %2$s to the group %5$s.</item>
+        <item quantity="one">%1$s added %3$d photos and a video to the album %2$s to the group %5$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0137">
+        <item quantity="other">%1$s added %3$d new photos — %2$s</item>
+        <item quantity="one">%1$s added a new photo — %2$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0138">
+        <item quantity="other">%1$s added %2$d new photos.</item>
+        <item quantity="one">%1$s added a new photo.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0139">
+        <item quantity="other">%1$s added %3$d new photos to the album %2$s — %4$s</item>
+        <item quantity="one">%1$s added a new photo to the album %2$s — %4$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013a">
+        <item quantity="other">%1$s added %3$d new photos to the album %2$s.</item>
+        <item quantity="one">%1$s added a new photo to the album %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013b">
+        <item quantity="other">%1$s added %3$d new photos to the album %2$s to the group %4$s.</item>
+        <item quantity="one">%1$s added a new photo to the album %2$s to the group %4$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013c">
+        <item quantity="other">%1$s posted %2$d items for sale.</item>
+        <item quantity="one">%1$s posted an item for sale.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013d">
+        <item quantity="other">%1$s posted a photo and %2$d videos — %3$s</item>
+        <item quantity="one">%1$s posted a photo and a video — %3$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013e">
+        <item quantity="other">%1$s posted a photo and %2$d videos.</item>
+        <item quantity="one">%1$s posted a photo and a video.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f013f">
+        <item quantity="other">%1$s added a photo and %3$d videos to the album %2$s — %4$s</item>
+        <item quantity="one">%1$s added a photo and a video to the album %2$s — %4$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0140">
+        <item quantity="other">%1$s added a photo and %3$d videos to the album %2$s.</item>
+        <item quantity="one">%1$s added a photo and a video to the album %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0141">
+        <item quantity="other">%1$s added a photo and %3$d videos to the album %2$s to the group %4$s.</item>
+        <item quantity="one">%1$s added a photo and a video to the album %2$s to the group %4$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0142">
+        <item quantity="other">%1$s posted %2$d videos — %3$s</item>
+        <item quantity="one">%1$s posted a video — %3$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0143">
+        <item quantity="other">%1$s posted %2$d videos.</item>
+        <item quantity="one">%1$s posted a video.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0144">
+        <item quantity="other">%1$s added %3$d new videos to the album %2$s — %4$s</item>
+        <item quantity="one">%1$s added a new video to the album %2$s — %4$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0145">
+        <item quantity="other">%1$s added %3$d new videos to the album %2$s.</item>
+        <item quantity="one">%1$s added a new video to the album %2$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0146">
+        <item quantity="other">%1$s added %3$d new videos to the album %2$s to the group %4$s.</item>
+        <item quantity="one">%1$s added a new video to the album %2$s to the group %4$s.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0147">
+        <item quantity="other">%d more messages</item>
+        <item quantity="one">%d more message</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0148">
+        <item quantity="other">%d new messages</item>
+        <item quantity="one">%d new message</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f014b">
+        <item quantity="other">%1$d friend requests sent</item>
+        <item quantity="one">1 friend request sent</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f014c">
+        <item quantity="other">%1$d Friends</item>
+        <item quantity="one">%1$d Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f014d">
+        <item quantity="other">%1$d Members</item>
+        <item quantity="one">%1$d Member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f014e">
+        <item quantity="other">%s Likes</item>
+        <item quantity="one">%s Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f014f">
+        <item quantity="other">%1$d friends</item>
+        <item quantity="one">1 friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0150">
+        <item quantity="other">%1$d mutual friends</item>
+        <item quantity="one">1 mutual friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0151">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">1 like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0152">
+        <item quantity="other">%1$s · %2$s Likes</item>
+        <item quantity="one">%1$s · %2$s Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0153">
+        <item quantity="other">%1$s voted for %2$d stars.</item>
+        <item quantity="one">%1$s voted for %2$d star.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0154">
+        <item quantity="other">%1$d people voted for %2$d stars.</item>
+        <item quantity="one">%1$d person voted for %2$d stars.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0155">
+        <item quantity="other">%1$d people voted for %2$d star.</item>
+        <item quantity="one">%1$d person voted for %2$d star.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0156">
+        <item quantity="other">Ratings</item>
+        <item quantity="one">Rating</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0157">
+        <item quantity="other">Unique Accounts</item>
+        <item quantity="one">Unique Account</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0158">
+        <item quantity="other">Votes</item>
+        <item quantity="one">Vote</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0159">
+        <item quantity="other">%1$s days after last appointment</item>
+        <item quantity="one">%1$s day after last appointment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015a">
+        <item quantity="other">%1$s hours after last appointment</item>
+        <item quantity="one">%1$s hour after last appointment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015b">
+        <item quantity="other">%1$s months after last appointment</item>
+        <item quantity="one">%1$s month after last appointment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015c">
+        <item quantity="other">%1$s weeks after last appointment</item>
+        <item quantity="one">%1$s week after last appointment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015d">
+        <item quantity="other">%1$s years after last appointment</item>
+        <item quantity="one">%1$s year after last appointment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015e">
+        <item quantity="other">%1$s hours</item>
+        <item quantity="one">%1$s hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f015f">
+        <item quantity="other">%1$s minutes</item>
+        <item quantity="one">%1$s minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0160">
+        <item quantity="other">Likes This Week</item>
+        <item quantity="one">Like This Week</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0161">
+        <item quantity="other">New Likes</item>
+        <item quantity="one">New Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0162">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">1 like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0163">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0164">
+        <item quantity="other">(%1$s Videos)</item>
+        <item quantity="one">(%1$s Video)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0165">
+        <item quantity="other">%1$d pending requests</item>
+        <item quantity="one">1 pending request</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0166">
+        <item quantity="other">%1$s comments</item>
+        <item quantity="one">1 comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0167">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">1 like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0168">
+        <item quantity="other">%1$S Reactions</item>
+        <item quantity="one">1 Reaction</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0169">
+        <item quantity="other">Seen by %1$S</item>
+        <item quantity="one">Seen by 1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016a">
+        <item quantity="other">%1$S Views</item>
+        <item quantity="one">1 View</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016b">
+        <item quantity="other">%1$s results</item>
+        <item quantity="one">1 result</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016c">
+        <item quantity="other">"You've curated %1$s Businesses!"</item>
+        <item quantity="one">"You've curated %1$s Business!"</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016d">
+        <item quantity="other">%1$s visits</item>
+        <item quantity="one">1 visit</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016e">
+        <item quantity="other">%1s were here</item>
+        <item quantity="one">1 was here</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f016f">
+        <item quantity="other">%1$S Votes</item>
+        <item quantity="one">1 Vote</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0170">
+        <item quantity="other">%1$s votes</item>
+        <item quantity="one">%1$s vote</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0171">
+        <item quantity="other">%d members</item>
+        <item quantity="one">1 member</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0172">
+        <item quantity="other">Engagements</item>
+        <item quantity="one">Engagement</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0173">
+        <item quantity="other">People Reached</item>
+        <item quantity="one">Person Reached</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0174">
+        <item quantity="other">"You've responded to %d friend requests."</item>
+        <item quantity="one">"You've responded to one friend request."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0175">
+        <item quantity="other">%1$d mutual friends</item>
+        <item quantity="one">1 mutual friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0176">
+        <item quantity="other">Add %1$d Friends</item>
+        <item quantity="one">Add 1 Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0177">
+        <item quantity="other">Try to choose at least %1$s more friends.</item>
+        <item quantity="one">Try to choose at least 1 more friend.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0178">
+        <item quantity="other">Do you want to skip this step or add %1$d friends now?</item>
+        <item quantity="one">Do you want to skip this step or add 1 friend now?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0179">
+        <item quantity="other">Rate with %1$d stars</item>
+        <item quantity="one">Rate one star</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017a">
+        <item quantity="other">%.1f stars</item>
+        <item quantity="one">1 star</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017b">
+        <item quantity="other">%1$S</item>
+        <item quantity="one">1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017c">
+        <item quantity="other">%d new posts</item>
+        <item quantity="one">%d new post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017d">
+        <item quantity="other">You, %1$s and %2$d others are collaborating</item>
+        <item quantity="one">You, %s and 1 other are collaborating</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017e">
+        <item quantity="other">Last used %1$d months ago</item>
+        <item quantity="one">Last used 1 month ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f017f">
+        <item quantity="other">This event will be published in %1$s days</item>
+        <item quantity="one">This event will be published tomorrow</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0180">
+        <item quantity="other">This event will be published in %1$s hours</item>
+        <item quantity="one">This event will be published in 1 hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0181">
+        <item quantity="other">This event will be published in %1$s minutes</item>
+        <item quantity="one">This event will be published in 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0182">
+        <item quantity="other">%d guests</item>
+        <item quantity="one">1 guest</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0183">
+        <item quantity="other">%d rooms</item>
+        <item quantity="one">1 room</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0184">
+        <item quantity="other">%1$02d seconds</item>
+        <item quantity="one">%1$02d second</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0185">
+        <item quantity="other">See %1$s new recommendations on a map</item>
+        <item quantity="one">See %1$s new recommendation on a map</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0186">
+        <item quantity="other">%1$s Followers</item>
+        <item quantity="one">1 Follower</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0187">
+        <item quantity="other">Your update will finish downloading in about %d minutes.</item>
+        <item quantity="one">Your update will finish downloading in about 1 minute.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0188">
+        <item quantity="other">%d minutes left</item>
+        <item quantity="one">%d minute left</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0189">
+        <item quantity="other">%1$d others</item>
+        <item quantity="one">%1$d other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018a">
+        <item quantity="other">[[group_name]], %1$d other groups</item>
+        <item quantity="one">[[group_name]], %1$d other group</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018b">
+        <item quantity="other">[[group_name]], %1$d other places</item>
+        <item quantity="one">[[group_name]], %1$d other place</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018c">
+        <item quantity="other">Add %1$d Friends</item>
+        <item quantity="one">Add 1 Friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018d">
+        <item quantity="other">Option %1$s</item>
+        <item quantity="one">Option %1$s</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018e">
+        <item quantity="other">· Hidden from %1$d friends</item>
+        <item quantity="one">· Hidden from %1$d friend</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f018f">
+        <item quantity="other">%1$s days</item>
+        <item quantity="one">24 hours</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0190">
+        <item quantity="other">%1$s +%2$s</item>
+        <item quantity="one">%1$s +1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0191">
+        <item quantity="other">You, %1$s +%2$s</item>
+        <item quantity="one">You, %1$s +1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0192">
+        <item quantity="other">You +%1$s</item>
+        <item quantity="one">You +1</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0193">
+        <item quantity="other">%1$s Episodes</item>
+        <item quantity="one">1 Episode</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0194">
+        <item quantity="other">%1$s Followers</item>
+        <item quantity="one">1 Follower</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0195">
+        <item quantity="other">%d years old</item>
+        <item quantity="one">%d year old</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0196">
+        <item quantity="other">%1$s and %2$d others</item>
+        <item quantity="one">%1$s and %2$d other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0197">
+        <item quantity="other">%d events this week</item>
+        <item quantity="one">%d event this week</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0198">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">1 item selected</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0199">
+        <item quantity="other">Photos</item>
+        <item quantity="one">Photo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019a">
+        <item quantity="other">Ended %d days ago</item>
+        <item quantity="one">Ended 1 day ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019b">
+        <item quantity="other">Ended %d hours ago</item>
+        <item quantity="one">Ended 1 hour ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019c">
+        <item quantity="other">%1$s and %2$s others</item>
+        <item quantity="one">%1$s and %2$s other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019d">
+        <item quantity="other">Will publish in %1$s days</item>
+        <item quantity="one">Will publish tomorrow</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019e">
+        <item quantity="other">Will publish in %1$s hours</item>
+        <item quantity="one">Will publish in 1 hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f019f">
+        <item quantity="other">Will publish in %1$s minutes</item>
+        <item quantity="one">Will publish in 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a0">
+        <item quantity="other">You, %1$s and %2$s others</item>
+        <item quantity="one">You, %1$s and %2$s other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a1">
+        <item quantity="other">You and %1$s others</item>
+        <item quantity="one">You and %1$s other</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a2">
+        <item quantity="other">%1$s and %2$s others commented</item>
+        <item quantity="one">%1$s and 1 other commented</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a3">
+        <item quantity="other">%1$s New Comments</item>
+        <item quantity="one">1 New Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a4">
+        <item quantity="other">"We'll be back in %1$d seconds."</item>
+        <item quantity="one">"We'll be back in 1 second."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a5">
+        <item quantity="other">Now • %1$s Viewers</item>
+        <item quantity="one">Now • 1 Viewer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a6">
+        <item quantity="other">Add %s Places</item>
+        <item quantity="one">Add 1 Place</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a7">
+        <item quantity="other">Apply these changes to other groups you manage or moderate. (%d other groups)</item>
+        <item quantity="one">Apply these changes to other groups you manage or moderate. (%d other group)</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a8">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">1 selected</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01a9">
+        <item quantity="other">Added %d hours ago</item>
+        <item quantity="one">Added 1 hour ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01aa">
+        <item quantity="other">Added %d minutes ago</item>
+        <item quantity="one">Added 1 minute ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ab">
+        <item quantity="other">Expires in %1$d days</item>
+        <item quantity="one">Expires in 1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ac">
+        <item quantity="other">Expires in %1$d hours</item>
+        <item quantity="one">Expires in 1 hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ad">
+        <item quantity="other">Expires in %1$d minutes</item>
+        <item quantity="one">Expires in 1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ae">
+        <item quantity="other">&lt;b>%1$s&lt;/b> and &lt;b>%2$d others&lt;/b> have added to this story.</item>
+        <item quantity="one">&lt;b>%s&lt;/b> and &lt;b>1 other&lt;/b> have added to this story.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01af">
+        <item quantity="other">&lt;b>%d people &lt;/b> have added to this story.</item>
+        <item quantity="one">&lt;b>1 person&lt;/b> has added to this story.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b0">
+        <item quantity="other">&lt;b>You&lt;/b> and &lt;b>%d others&lt;/b> have added to this story.</item>
+        <item quantity="one">&lt;b>You&lt;/b> and &lt;b>1 other&lt;/b> have added to this story.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b1">
+        <item quantity="other">You have &lt;b>%1$s pending edits&lt;/b></item>
+        <item quantity="one">You have &lt;b>1 pending edit&lt;/b></item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b2">
+        <item quantity="other">%1$s, %2$d new</item>
+        <item quantity="one">%1$s, 1 new</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b3">
+        <item quantity="other">The %1$s buttons will be visible.</item>
+        <item quantity="one">The %1$s button will be visible.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b4">
+        <item quantity="other">The %1$s tabs will be visible.</item>
+        <item quantity="one">The %1$s tab will be visible.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b5">
+        <item quantity="other">Your %1$s buttons will be hidden.</item>
+        <item quantity="one">Your %1$s button will be hidden.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b6">
+        <item quantity="other">Your %1$s tabs will be hidden.</item>
+        <item quantity="one">Your %1$s tab will be hidden.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b7">
+        <item quantity="other">%1$d DAYS</item>
+        <item quantity="one">1 DAY</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b8">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01b9">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ba">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01bb">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01bc">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">1 month</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01bd">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01be">
+        <item quantity="other">%1$d weeks</item>
+        <item quantity="one">1 week</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01bf">
+        <item quantity="other">%1$d years</item>
+        <item quantity="one">1 year</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c0">
+        <item quantity="other">%1$d HRS</item>
+        <item quantity="one">1 HR</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c1">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">1 hour ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c2">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">1 hr</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c3">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">1 hr</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c4">
+        <item quantity="other">%d hours from now</item>
+        <item quantity="one">1 hour from now</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c5">
+        <item quantity="other">%d minutes from now</item>
+        <item quantity="one">1 minute from now</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c6">
+        <item quantity="other">%1$d MINS</item>
+        <item quantity="one">1 MIN</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c7">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c8">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01c9">
+        <item quantity="other">%1$d MONS</item>
+        <item quantity="one">1 MON</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ca">
+        <item quantity="other">%1$d months ago</item>
+        <item quantity="one">1 month ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01cb">
+        <item quantity="other">%d seconds ago</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01cc">
+        <item quantity="other">%1$d WKS</item>
+        <item quantity="one">1 WK</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01cd">
+        <item quantity="other">%1$d weeks ago</item>
+        <item quantity="one">1 week ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ce">
+        <item quantity="other">%1$d years ago</item>
+        <item quantity="one">1 year ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01cf">
+        <item quantity="other">You can delete the posts selected.</item>
+        <item quantity="one">You can delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d0">
+        <item quantity="other">You can hide the posts selected.</item>
+        <item quantity="one">You can hide the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d1">
+        <item quantity="other">You can hide or delete the posts selected.</item>
+        <item quantity="one">You can hide or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d2">
+        <item quantity="other">You cannot take any action on the posts selected.</item>
+        <item quantity="one">You cannot take any action on the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d3">
+        <item quantity="other">You can edit the privacy of the posts selected.</item>
+        <item quantity="one">You can edit the privacy of the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d4">
+        <item quantity="other">You can edit the privacy or delete the posts selected.</item>
+        <item quantity="one">You can edit the privacy or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d5">
+        <item quantity="other">You can edit the privacy or hide the posts selected.</item>
+        <item quantity="one">You can edit the privacy or hide the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d6">
+        <item quantity="other">You can edit the privacy, hide or delete the posts selected.</item>
+        <item quantity="one">You can edit the privacy, hide or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d7">
+        <item quantity="other">You can edit the privacy or untag yourself from the posts selected.</item>
+        <item quantity="one">You can edit the privacy or untag yourself from the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d8">
+        <item quantity="other">You can edit the privacy, untag yourself or delete the posts selected.</item>
+        <item quantity="one">You can edit the privacy, untag yourself or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01d9">
+        <item quantity="other">You can edit the privacy, untag yourself or hide the posts selected.</item>
+        <item quantity="one">You can edit the privacy, untag yourself or hide the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01da">
+        <item quantity="other">You can edit the privacy, untag yourself, hide or delete the posts selected.</item>
+        <item quantity="one">You can edit the privacy, untag yourself, hide or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01db">
+        <item quantity="other">You can untag yourself from the posts selected.</item>
+        <item quantity="one">You can untag yourself from the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01dc">
+        <item quantity="other">You can untag yourself or delete the posts selected.</item>
+        <item quantity="one">You can untag yourself or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01dd">
+        <item quantity="other">You can untag yourself or hide the posts selected.</item>
+        <item quantity="one">You can untag yourself or hide the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01de">
+        <item quantity="other">You can untag yourself, hide or delete the posts selected.</item>
+        <item quantity="one">You can untag yourself, hide or delete the post selected.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01df">
+        <item quantity="other">Changed privacy of %d posts on timeline</item>
+        <item quantity="one">Changed privacy of 1 post on timeline</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e0">
+        <item quantity="other">Are you sure you want to change the privacy of %d posts on timeline to:</item>
+        <item quantity="one">Are you sure you want to change the privacy of 1 post on timeline to:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e1">
+        <item quantity="other">Deleted %d posts</item>
+        <item quantity="one">Deleted 1 post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e2">
+        <item quantity="other">Are you sure you want to delete %d posts?</item>
+        <item quantity="one">Are you sure you want to delete 1 post?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e3">
+        <item quantity="other">Hid %d posts from timeline</item>
+        <item quantity="one">Hid 1 post from timeline</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e4">
+        <item quantity="other">Are you sure you want to hide %d posts from timeline? They may appear in other places like News Feed or search results.</item>
+        <item quantity="one">Are you sure you want to hide 1 post from timeline? It may appear in other places like News Feed or search results.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e5">
+        <item quantity="other">Removed tags from %d posts</item>
+        <item quantity="one">Removed tags from 1 post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e6">
+        <item quantity="other">Are you sure you want to remove tags for %d posts?</item>
+        <item quantity="one">Are you sure you want to remove tags for 1 post?</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e7">
+        <item quantity="other">%1$d new posts</item>
+        <item quantity="one">%1$d new post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e8">
+        <item quantity="other">%dh</item>
+        <item quantity="one">1h</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01e9">
+        <item quantity="other">%dm</item>
+        <item quantity="one">1m</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ea">
+        <item quantity="other">The topic \"%1$s\" has been applied to %2$s posts in your group.</item>
+        <item quantity="one">The topic \"%1$s\" has been applied to %2$s post in your group.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01eb">
+        <item quantity="other">%1$s people saw this post</item>
+        <item quantity="one">1 person saw this post</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ec">
+        <item quantity="other">%1$s people reached</item>
+        <item quantity="one">1 person reached</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ed">
+        <item quantity="other">%1$d Comments</item>
+        <item quantity="one">1 Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ee">
+        <item quantity="other">%1$S Comments</item>
+        <item quantity="one">1 Comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ef">
+        <item quantity="other">%1$S Likes</item>
+        <item quantity="one">1 Like</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f0">
+        <item quantity="other">Load %1$s more comments</item>
+        <item quantity="one">Load 1 more comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f1">
+        <item quantity="other">Load %1$s previous comments</item>
+        <item quantity="one">Load 1 previous comment</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f2">
+        <item quantity="other">%1$S people voted</item>
+        <item quantity="one">1 person voted</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f3">
+        <item quantity="other">%1$S Reactions</item>
+        <item quantity="one">1 Reaction</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f4">
+        <item quantity="other">%1$S Shares</item>
+        <item quantity="one">1 Share</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f5">
+        <item quantity="other">%1$s, %2$s and %3$s other members are admins.</item>
+        <item quantity="one">%1$s, %2$s and 1 other member are admins.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f6">
+        <item quantity="other">%1$s, %2$s and %3$s other friends are members.</item>
+        <item quantity="one">%1$s, %2$s and 1 other friend are members.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f7">
+        <item quantity="other">%1$s, %2$s and %3$s other people are members.</item>
+        <item quantity="one">%1$s, %2$s and 1 other person are members.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f8">
+        <item quantity="other">%1$s, %2$s and %3$s other members are moderators.</item>
+        <item quantity="one">%1$s, %2$s and 1 other member are moderators.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01f9">
+        <item quantity="other">You have %1$d unread conversations. Install %2$s to read them.</item>
+        <item quantity="one">You have %1$d unread conversation. Install %2$s to read it.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01fa">
+        <item quantity="other">Saving %d Items</item>
+        <item quantity="one">Saving 1 item</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01fb">
+        <item quantity="other">%1$s viewers</item>
+        <item quantity="one">1 viewer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01fc">
+        <item quantity="other">View %1$d more replies</item>
+        <item quantity="one">View 1 more reply</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01fd">
+        <item quantity="other">View %1$d previous replies</item>
+        <item quantity="one">View 1 previous reply</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01fe">
+        <item quantity="other">%1$s highlight viewers</item>
+        <item quantity="one">1 highlight viewer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f01ff">
+        <item quantity="other">%1$s VIEWERS</item>
+        <item quantity="one">1 VIEWER</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0200">
+        <item quantity="other">You visited %1$d days ago</item>
+        <item quantity="one">You visited 1 day ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0201">
+        <item quantity="other">You visited %d hours ago</item>
+        <item quantity="one">You visited 1 hour ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0202">
+        <item quantity="other">You visited %d minutes ago</item>
+        <item quantity="one">You visited 1 minute ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0203">
+        <item quantity="other">You visited %1$d months ago</item>
+        <item quantity="one">You visited 1 month ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0204">
+        <item quantity="other">You visited %1$d weeks ago</item>
+        <item quantity="one">You visited 1 week ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0205">
+        <item quantity="other">You visited %1$d years ago</item>
+        <item quantity="one">You visited 1 year ago</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f0f0206">
+        <item quantity="other">%s Guest Members</item>
+        <item quantity="one">1 Guest Member</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_149" />
+    <item type="plurals" name="APKTOOL_DUMMY_14a" />
+</resources>

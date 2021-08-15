@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:background="@drawable2/chrome_container_round_corner_bg" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003">
+        <View android:layout_width="fill_parent" android:layout_height="fill_parent" android:progressDrawable="@drawable2/browser_le_progress_bar" android:layout_alignParentTop="true" />
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090647" android:layout_width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003" android:scaleType="centerInside" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600c4" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="true" />
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0904b8" android:background="@drawable2/clickable_item_bg" android:paddingLeft="14.0dip" android:paddingRight="14.0dip" android:layout_width="wrap_content" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" />
+        <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09061a" android:paddingLeft="@dimen2/(name removed)" android:paddingRight="@dimen2/(name removed)" android:layout_width="wrap_content" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003" android:maxLines="1" android:layout_toLeftOf="@id/APKTOOL_DUPLICATE_id_0x7f0904b8" android:layout_toRightOf="@id/APKTOOL_DUPLICATE_id_0x7f090647" android:layout_alignParentTop="true" android:layout_toStartOf="@id/APKTOOL_DUPLICATE_id_0x7f0904b8" android:layout_toEndOf="@id/APKTOOL_DUPLICATE_id_0x7f090647" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f06001b" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15002d" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <View android:background="#e6ffffff" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+</LinearLayout>

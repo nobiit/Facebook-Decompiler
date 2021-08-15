@@ -1,0 +1,29 @@
+{
+  "$generated": "@generated SignedSource<<36eb0e03dac1287ae49327b7ba1be8d5>>",
+  "JobSearchAppQuery": {
+    "id": "3001291196563191",
+    "variables": [
+      "cursor",
+      "jobCategoryFilters",
+      "jobIndustryFilters",
+      "count",
+      "cityID",
+      "latitude",
+      "longitude",
+      "keyword",
+      "radius",
+      "jobTypeFilters",
+      "scale",
+      "pinnedJobOpeningID",
+      "pinnedJobOpeningNodeID",
+      "gpsPoints",
+      "context",
+      "waterfallSessionID",
+      "jobBrowserListID",
+      "minWage",
+      "maxWage",
+      "wageCurrency",
+      "wageTypes"
+    ]
+  }
+}

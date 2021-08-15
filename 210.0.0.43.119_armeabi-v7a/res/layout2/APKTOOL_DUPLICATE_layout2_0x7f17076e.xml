@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.5Vh android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <X.1y3 android:id="@id/APKTOOL_DUPLICATE_id_0x7f092965" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <X.0wX android:orientation="vertical" android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </X.1y3>
+    <include layout="@layout2/APKTOOL_DUPLICATE_layout2_0x7f17076d" />
+</X.5Vh>

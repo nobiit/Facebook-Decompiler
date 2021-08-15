@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f09049d" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:name="com.facebook.browser.lite.BrowserLiteFragment" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0904b3" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/APKTOOL_DUPLICATE_id_0x7f0904b6" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

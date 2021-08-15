@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/APKTOOL_DUPLICATE_color_0x7f06004b" />
+    <item android:drawable="@drawable2/feed_edge_to_edge_bg_top_divider_no_padding" android:left="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500b3" android:right="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500b3" />
+</layer-list>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:keyHeight="7.0000052%p" android:verticalGap="0.49999952%p"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row android:keyWidth="10.000002%p">
+        <Key android:keyEdgeFlags="left" android:keyLabel="1" />
+        <Key android:keyLabel="2" />
+        <Key android:keyLabel="3" />
+        <Key android:keyLabel="4" />
+        <Key android:keyLabel="5" />
+        <Key android:keyLabel="6" />
+        <Key android:keyLabel="7" />
+        <Key android:keyLabel="8" />
+        <Key android:keyLabel="9" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="0" />
+    </Row>
+    <Row android:keyWidth="10.000002%p">
+        <Key android:keyEdgeFlags="left" android:keyLabel="q" />
+        <Key android:keyLabel="w" />
+        <Key android:keyLabel="e" />
+        <Key android:keyLabel="r" />
+        <Key android:keyLabel="t" />
+        <Key android:keyLabel="y" />
+        <Key android:keyLabel="u" />
+        <Key android:keyLabel="i" />
+        <Key android:keyLabel="o" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="p" />
+    </Row>
+    <Row android:keyWidth="10.000002%p">
+        <Key android:horizontalGap="4.999995%p" android:keyEdgeFlags="left" android:keyLabel="a" />
+        <Key android:keyLabel="s" />
+        <Key android:keyLabel="d" />
+        <Key android:keyLabel="f" />
+        <Key android:keyLabel="g" />
+        <Key android:keyLabel="h" />
+        <Key android:keyLabel="j" />
+        <Key android:keyLabel="k" />
+        <Key android:keyEdgeFlags="right" android:keyLabel="l" />
+    </Row>
+    <Row android:keyWidth="11.000002%p">
+        <Key android:codes="-1" android:keyEdgeFlags="left" android:keyIcon="@drawable/ic_keyboard_shift" />
+        <Key android:keyLabel="z" />
+        <Key android:keyLabel="x" />
+        <Key android:keyLabel="c" />
+        <Key android:keyLabel="v" />
+        <Key android:keyLabel="b" />
+        <Key android:keyLabel="n" />
+        <Key android:keyLabel="m" />
+        <Key android:codes="-2" android:keyEdgeFlags="right" android:isRepeatable="true" android:keyIcon="@drawable/ic_keyboard_backspace" />
+    </Row>
+    <Row>
+        <Key android:keyWidth="10.000002%p" android:keyEdgeFlags="left" android:keyLabel="\@" />
+        <Key android:keyWidth="10.000002%p" android:keyLabel="," />
+        <Key android:keyWidth="10.000002%p" android:keyLabel="." />
+        <Key android:keyWidth="45.000004%p" android:codes="32" android:isRepeatable="true" />
+        <Key android:keyWidth="10.000002%p" android:keyLabel="|" />
+        <Key android:keyWidth="12.5%p" android:codes="-3" android:keyEdgeFlags="right" android:keyIcon="@drawable/ic_keyboard_return" />
+    </Row>
+</Keyboard>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable2/fb_ic_like_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d4f" android:checked="true" android:title="@null" android:checkable="true" />
+    <item android:icon="@drawable2/fb_ic_friend_add_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d4e" android:checked="false" android:title="@null" android:checkable="false" />
+    <item android:icon="@drawable2/fb_ic_messages_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d50" android:checked="false" android:title="@null" android:checkable="false" />
+    <item android:icon="@drawable2/fb_ic_share_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091d52" android:checked="false" android:title="@null" android:checkable="false" />
+</menu>

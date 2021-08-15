@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable2/platform_shopping_cart_left_tip_item_selected_bg" />
+    <item android:drawable="@drawable2/platform_shopping_cart_left_tip_item_unselected_bg" />
+</selector>

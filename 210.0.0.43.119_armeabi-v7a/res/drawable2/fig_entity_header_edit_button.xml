@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:variablePadding="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable2/fig_entity_header_edit_button_pressed_state" />
+    <item android:state_enabled="false">
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060250" />
+            <corners android:radius="2.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f060250" />
+            <corners android:radius="2.0dip" />
+        </shape>
+    </item>
+</selector>

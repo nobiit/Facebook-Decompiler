@@ -1,0 +1,7 @@
+.id codegenerator
+.requires dex
+.requires shared0
+.locators
+.name_based_locators
+.locator_id 3
+codegenerator-1.dex.jar.xzs.tmp~ fceb09e5470e7debc4659bf5a635635c05f54ec3 store4786.dex01.Canary

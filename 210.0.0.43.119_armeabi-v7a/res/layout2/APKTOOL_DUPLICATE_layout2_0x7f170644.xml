@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.9NS android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09155d" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <X.2Wv android:id="@id/APKTOOL_DUPLICATE_id_0x7f091564" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fb_ic_heart_outline_24" android:scaleType="center" fb:glyphColor="@color/APKTOOL_DUPLICATE_color_0x7f0600c4" />
+    <X.1rX android:textSize="16.0sp" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091565" android:paddingBottom="4.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="0.0dip" android:maxLines="1" android:layout_weight="1.0" />
+</X.9NS>

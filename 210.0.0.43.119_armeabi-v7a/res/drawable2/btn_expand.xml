@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="#22000000" />
+                </shape>
+            </item>
+            <item android:left="8.0dip" android:top="8.0dip" android:right="8.0dip" android:bottom="8.0dip">
+                <bitmap android:src="@drawable/fb_ic_resize_up_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060202" />
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="#33000000" />
+                </shape>
+            </item>
+            <item android:left="8.0dip" android:top="8.0dip" android:right="8.0dip" android:bottom="8.0dip">
+                <bitmap android:src="@drawable/fb_ic_resize_up_filled_24" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060152" />
+            </item>
+        </layer-list>
+    </item>
+</selector>

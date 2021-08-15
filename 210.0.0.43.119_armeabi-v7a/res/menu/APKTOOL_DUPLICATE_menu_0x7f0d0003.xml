@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable2/fb_ic_hide_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09115f" />
+    <item android:icon="@drawable2/fb_ic_report_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091161" />
+    <item android:icon="@drawable2/fb_ic_info_circle_24" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091160" android:title="@null" />
+</menu>

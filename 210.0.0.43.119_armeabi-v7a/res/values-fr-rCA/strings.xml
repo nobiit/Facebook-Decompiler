@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110006">Ajouter une extension</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110009">Les données de saisie automatique que vous avez enregistrées pour remplir des formulaires dans le navigateur mobile Facebook seront supprimées.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000a">Effacer les données de saisie automatique</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000e">Effacez les témoins et la mémoire cache de votre téléphone concernant les sites Web que vous avez consultés par l’intermédiaire de l’application %1$s.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11000f">Effacer les données de navigation du téléphone</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110010">Désolés, un problème technique s’est produit avec cette fonctionnalité. Nous nous efforçons de le corriger.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001a">Recherche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001c">« %1$s »</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">Je n’y participe pas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">Pas intéressé</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110032">De %1$s à %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003b">Afficher les éléments enregistrés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003c">Ouvrir avec...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110043">Envoyer dans Workplace Chat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110046">Chargement du site Web</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110047">Impossible de charger des renseignements supplémentaires concernant cet annonceur. Vous pouvez continuer à regarder la vidéo ou revenir au fil d’actualité.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110048">Vous pouvez installer l’application dès maintenant sans avoir à attendre que la page se charge.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">Chargement en cours de %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110052">Enregistrer ces renseignements pour la prochaine fois?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110057">L’offres est terminée. Appuyez pour afficher les détails.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110058">Cette offre a rencontré un tel succès, qu’elle a expiré. Appuyez pour afficher les détails.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">Enregistré</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005b">Profiter de l’offre en magasin?</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005c">Offre enregistrée. Touchez pour afficher les détails.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110060">Vous pouvez sélectionner du texte sur cette page Web et cliquer sur « PARTAGER LA CITATION » pour partager une actualité contenant une citation.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110061">Nouveau! Partagez des citations d’un article</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110062">&lt;a id=\"advisory_by_google\">Avis de sécurité de Google&lt;/a></string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110064">Ce site Web contient peut-être du contenu nuisible ou répréhensible</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110065">&lt;b>%1$s&lt;/b> pourrait être associé à des activités malveillantes, du contenu indésirable ou d’autre contenu répréhensible.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006a">Des pirates sur &lt;b>%1$s&lt;/b> pourraient tenter d’installer des logiciels dangereux sur votre appareil pour voler ou supprimer des renseignements (par exemple, des photos, des mots de passe, des messages, et des cartes de crédit).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006b">Ce site Web essaiera peut-être d’installer un logiciel malveillant sur votre appareil.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006c">Si vous comprenez le risque pour votre sécurité, vous pouvez &lt;a id=\"proceed\" href=\"#\">visiter ce lien non sécuritaire&lt;/a> quand même.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006e">Site Web dangereux</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006f">Des pirates sur &lt;b>%1$s&lt;/b> pourraient vous amener à installer des logiciels dangereux sur votre appareil ou à révéler des renseignements personnels (par exemple des mots de passe, ou des numéros de téléphone ou de cartes de crédit).</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110072">Vos renseignements, comme vos mots de passe ou numéros de carte de crédit, ne sont peut-être pas protégés sur ce site Web.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110073">Vos renseignements, comme vos mots de passe ou numéros de carte de crédit, ne sont peut-être pas protégés sur ce site Web.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110075">Ce site Web n’utilise pas une connexion sécurisée</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110076">Ce site Web n’utilise pas une connexion sécurisée</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110077">Ce site Web utilise une connexion sécurisée</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007d">CONTINUER VERS LE SITE WEB</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007e">REVENIR</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007f">Un problème est survenu avec le certificat de sécurité utilisé par %1$s. Si vous partagez des renseignements personnels sur ce site Web, comme des mots de passe ou des numéros de cartes de crédit, ils ne seront peut-être pas protégés.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110080">Ce site Web n’utilise pas une connexion sécurisée</string>
+</resources>

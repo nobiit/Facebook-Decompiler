@@ -1,0 +1,11 @@
+{
+  "$generated": "@generated SignedSource<<f6752b403008f6f3b775c558aee5b730>>",
+  "LeadGenRelayContainerQuery": {
+    "id": "2335428926490636",
+    "variables": [
+      "formID",
+      "forSaleItemID",
+      "productImageSize"
+    ]
+  }
+}

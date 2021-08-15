@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="10.0dip" android:top="10.0dip" android:right="10.0dip" android:bottom="10.0dip">
+        <selector
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:state_checkable="true" android:state_checked="true" android:drawable="@drawable/fb_ic_caution_triangle_outline_20" />
+            <item android:state_selected="true" android:drawable="@drawable/fb_ic_caution_triangle_outline_20" />
+            <item android:state_pressed="true" android:drawable="@drawable/fb_ic_caution_triangle_outline_20" />
+            <item android:drawable="@drawable/fb_ic_caution_triangle_filled_20" />
+        </selector>
+    </item>
+</layer-list>

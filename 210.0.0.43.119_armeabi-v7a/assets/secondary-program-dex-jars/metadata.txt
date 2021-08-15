@@ -1,0 +1,14 @@
+.locators
+.name_based_locators
+secondary-1.dex.jar.xzs.tmp~ e06193678370e7d9c55697498deb20e6767bd3b9 secondary.dex01.Canary
+secondary-2.dex.jar.xzs.tmp~ 17d2f38a96f9a93d65912cfcc311c6aa4ef94499 secondary.dex02.Canary
+secondary-3.dex.jar.xzs.tmp~ 25059f11dfeb3bbf9a0669d54700b2f34b1215f6 secondary.dex03.Canary
+secondary-4.dex.jar.xzs.tmp~ 29463e32df32a29b568df35373474adc879cd3c4 secondary.dex04.Canary
+secondary-5.dex.jar.xzs.tmp~ d590f411ea077bb718866039842c3df500861e67 secondary.dex05.Canary
+secondary-6.dex.jar.xzs.tmp~ 7a87023fed106b60200c0abdba8d31207ee5cbc5 secondary.dex06.Canary
+secondary-7.dex.jar.xzs.tmp~ 68b05a2d9414ffec9e5574584bf6701d39e66308 secondary.dex07.Canary
+secondary-8.dex.jar.xzs.tmp~ 1913d1f338f21d9daff5657760c27ad676e49cc9 secondary.dex08.Canary
+secondary-9.dex.jar.xzs.tmp~ 2d98b9186f38bfe6c238390bea10c59b7dea16e6 secondary.dex09.Canary
+secondary-10.dex.jar.xzs.tmp~ d5aedfa0f2909862599a5f10c5879e8e88e0501a secondary.dex10.Canary
+secondary-11.dex.jar.xzs.tmp~ 90cb8eee2677a514db6271b6d5f2ba20fb6db092 secondary.dex11.Canary
+secondary-12.dex.jar.xzs.tmp~ 3a079331c009e831e46327d06bca9c0e349ff985 secondary.dex12.Canary

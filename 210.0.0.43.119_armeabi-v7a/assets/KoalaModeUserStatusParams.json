@@ -1,0 +1,12 @@
+{
+  "render_object_query_id": 2094172667261168,
+  "render_object_query_params": {"contact_id":"<ID>"},
+  "render_object_list_query_id": 1840843679339666,
+  "render_object_list_query_params": {},
+  "render_object_list_graphql_params": {
+    "top_level_list_path": "viewer.contacts_status",
+    "object_path": "",
+    "primary_key_path": "contact_id"
+  },
+  "render_object_list_sort_key": null
+}

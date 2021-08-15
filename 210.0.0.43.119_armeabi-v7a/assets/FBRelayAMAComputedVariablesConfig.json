@@ -1,0 +1,7 @@
+{
+  "ama_mediumListImageSize": ["round", ["multiply", ["scale"], 52]],
+  "ama_mediumPlusListImageSize": ["round", ["multiply", ["scale"], 58]],
+  "ambr_fb_quickpromotion_nux_surface_id": ["ambr_fb_quickpromotion_nux_surface_id"],
+  "ambr_pma_quickpromotion_nux_surface_id": ["ambr_pma_quickpromotion_nux_surface_id"],
+  "scale": ["scale"]
+}

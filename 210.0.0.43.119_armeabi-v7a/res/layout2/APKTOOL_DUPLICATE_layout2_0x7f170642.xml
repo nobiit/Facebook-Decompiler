@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f091560" android:background="@drawable2/ldp_loading_screen_round_corner_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090646" android:paddingLeft="8.0dip" android:paddingRight="0.0dip" android:layout_width="wrap_content" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150003" android:scaleType="centerInside" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f06006f" android:contentDescription="@string/APKTOOL_DUPLICATE_string_0x7f11000c" />
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091390" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <X.9MZ android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f091563" android:layout_width="32.0dip" android:layout_height="32.0dip" android:max="10000" android:indeterminate="true" android:indeterminateOnly="true" android:progressDrawable="@drawable2/ldp_progress_bar" style="?android:progressBarStyleInverse" />
+    </LinearLayout>
+</LinearLayout>

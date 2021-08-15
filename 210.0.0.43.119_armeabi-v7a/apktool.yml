@@ -1,0 +1,59 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: origin.apk
+compressionType: false
+doNotCompress:
+- assets/Fb4aBundle.js.hbc.xz
+- png
+- m4a
+- assets/layouts.bin.sha256
+- assets/layouts.bin.xz
+- assets/qe_lookup.bin
+- assets/arservicesoptional/arservicesoptional-1.dex.jar.xzs.tmp~.meta
+- assets/arservicesoptional/arservicesoptional.dex.jar.xzs
+- assets/arservicesoptional/libs.xzs
+- assets/codegenerator/codegenerator-1.dex.jar.xzs.tmp~.meta
+- assets/codegenerator/codegenerator.dex.jar.xzs
+- assets/groupsadminrulesedit/groupsadminrulesedit-1.dex.jar.xzs.tmp~.meta
+- assets/groupsadminrulesedit/groupsadminrulesedit.dex.jar.xzs
+- assets/groupsadminsafety/groupsadminsafety-1.dex.jar.xzs.tmp~.meta
+- assets/groupsadminsafety/groupsadminsafety.dex.jar.xzs
+- assets/instantgames/instantgames.dex.jar.xzs
+- assets/lib/libs.xzs
+- assets/localsurface/localsurface.dex.jar.xzs
+- assets/location/location-1.dex.jar.xzs.tmp~.meta
+- assets/location/location.dex.jar.xzs
+- assets/pages/pages.dex.jar.xzs
+- assets/secondary-program-dex-jars/mixed_mode.txt
+- assets/secondary-program-dex-jars/secondary.dex.jar.xzs
+- assets/securitycheckup/securitycheckup-1.dex.jar.xzs.tmp~.meta
+- assets/securitycheckup/securitycheckup.dex.jar.xzs
+- assets/shared0/shared0-1.dex.jar.xzs.tmp~.meta
+- assets/shared0/shared0.dex.jar.xzs
+- assets/strings/default.frsc
+- r/blh.json
+- webp
+- ogg
+- r/hbx.key
+- r/jot.json.gz
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '26'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  build-data.properties: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+  org/assertj/core/internal/cglib/util/words.txt: '8'
+  templates/release-notes.vm: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.1-b9f7ae-SNAPSHOT
+versionInfo:
+  versionCode: '143667856'
+  versionName: 210.0.0.43.119

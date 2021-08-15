@@ -1,0 +1,6 @@
+.id location
+.requires dex
+.locators
+.name_based_locators
+.locator_id 12
+location-1.dex.jar.xzs.tmp~ 8ed4a8b9b33ad982a79b66676bfca4e776257fe7 store9fb5.dex01.Canary

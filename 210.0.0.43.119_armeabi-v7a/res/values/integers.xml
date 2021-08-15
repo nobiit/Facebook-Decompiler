@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="(name removed)">220</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0001">150</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0002">300</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0003">400</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0004">90</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0005">25</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0006">10000</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0007">65</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0008">160</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0009">0</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000a">50000</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000b">100</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000c">0</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000d">10</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000e">2</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a000f">3000</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0010">75</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0011">15</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0012">1</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0013">4</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0014">200</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0015">1</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0016">35</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0017">12</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0018">70</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0019">11020000</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a001a">5</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a001b">320</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a001c">250</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a001e">95</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a001f">16</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0020">14</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0021">17</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0022">19</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0023">9</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0024">63206</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0025">0</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0026">500</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0027">3</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0028">20</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0029">800</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002a">1000</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002b">2</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002c">5</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002d">3</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002e">3</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a002f">5</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0030">8</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0031">86</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0032">999</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0033">30</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0034">255</integer>
+    <integer name="APKTOOL_DUPLICATE_integer_0x7f0a0035">101</integer>
+    <item type="integer" name="APKTOOL_DUMMY_1d" />
+</resources>

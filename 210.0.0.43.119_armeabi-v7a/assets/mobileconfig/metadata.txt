@@ -1,0 +1,6 @@
+.id mobileconfig
+.requires dex
+.locators
+.name_based_locators
+.locator_id 13
+mobileconfig-1.dex.jar.xzs.tmp~ ae0464bfa1111eac329e5679604f1f0774bcdcc9 store9264.dex01.Canary

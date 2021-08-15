@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <bitmap android:src="@drawable/fb_ic_briefcase_filled_16" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f0600d2" />
+        <size android:height="16.0dip" android:width="16.0dip" />
+    </item>
+    <item android:state_selected="false">
+        <bitmap android:src="@drawable/fb_ic_briefcase_filled_16" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060265" />
+        <size android:height="16.0dip" android:width="16.0dip" />
+    </item>
+</selector>

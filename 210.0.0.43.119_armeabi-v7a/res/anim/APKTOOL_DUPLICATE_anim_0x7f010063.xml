@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <scale android:interpolator="@anim/APKTOOL_DUPLICATE_anim_0x7f01005a" android:duration="@integer/APKTOOL_DUPLICATE_integer_0x7f0a001c" android:pivotX="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e5" android:pivotY="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e6" android:fromXScale="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15012a" android:toXScale="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e2" android:fromYScale="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15012a" android:toYScale="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e2" />
+    <alpha android:interpolator="@android:anim/linear_interpolator" android:duration="@integer/APKTOOL_DUPLICATE_integer_0x7f0a001c" android:fromAlpha="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e0" android:toAlpha="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f1500e2" />
+</set>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f0600d2" />
+    <stroke android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15000b" android:color="@color/APKTOOL_DUPLICATE_color_0x7f06010c" android:dashWidth="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150008" android:dashGap="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150008" />
+</shape>

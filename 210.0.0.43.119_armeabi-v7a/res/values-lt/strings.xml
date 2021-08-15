@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="(name removed)">Kopijuoti nuorodą</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110002">Išsaugoti nuorodą į „Facebook“</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110003">Siųsti per Facebook Messenger</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110007">Pridėta prie:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110008">Pridėti į kolekciją</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110010">Atsiprašome, kilo techninė šios funkcijos problema. Dirbame siekdami ją išspręsti.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110011">Atsiprašome, įvyko klaida</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110015">Leisti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110016">Blokuoti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110017">Įkeliama...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110018">Pažymėti nuorodą kaip įtartiną</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110019">Išsaugota</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11001e">Grįžti atgal</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110029">Fotoaparatas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002a">Jūsų istorija</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002e">Dalyvausiu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11002f">Susidomėjo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110030">Nedalyvausiu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110031">Nedomina</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110034">„Facebook“</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110036">BENDRINTI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110037">Kopijuoti nuorodą</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110039">Įdiegti programėlę</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003b">Rodyti išsaugotus įrašus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11003f">Išsaugoti nuorodą</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110042">Siųsti naudojant „Messenger“</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110044">Daugiau pasirinkimų</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110045">Tiesioginė transliacija</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110046">Svetainė įkeliama</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004c">Įkeliama %1$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004e">ĮRAŠYTI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11004f">Ne dabar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110050">Paslėpti detales</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110053">Žiūrėti daugiau</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110059">Išsaugoti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11005a">Išsaugota</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110066">Įspėjimas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110067">Grįžti atgal</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f110068">Paslėpti detales</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11006d">Rodyti detales</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f11007e">Grįžti atgal</string>
+</resources>

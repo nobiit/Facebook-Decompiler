@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/APKTOOL_DUPLICATE_color_0x7f06004b" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f15001c" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06006f" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900a0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150022" android:layout_marginBottom="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150022" android:textAlignment="center" />
+    <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f0600bf" android:layout_width="fill_parent" android:layout_height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150025" />
+    <WebView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900a2" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

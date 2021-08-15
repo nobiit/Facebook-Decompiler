@@ -1,0 +1,6 @@
+.id rtc
+.requires dex
+.locators
+.name_based_locators
+.locator_id 15
+rtc-1.dex.jar.xzs.tmp~ ed40d7c20d5c875fad7cb5b55d2880c4a6367eec storeba61.dex01.Canary

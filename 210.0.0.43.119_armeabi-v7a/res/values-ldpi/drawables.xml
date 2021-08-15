@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="airbender_nux_assets_dialog_nux_android">N|2014611025517358|231|108|120</item>
+    <item type="drawable" name="airbender_nux_assets_sticker_glyph">N|213736979331362|24|24|120</item>
+    <item type="drawable" name="airbender_nux_assets_sticker_nux">N|879743915551727|141|144|120</item>
+    <item type="drawable" name="alphabetical_sort_icon">R|GNVxqQJ-3tr68O0HAAAAAAAU10Y-bnsvAAAD|2f8ceac|30|30|120</item>
+    <item type="drawable" name="community_commerce_friends_cover_photo">N|179532795840563|60|60|120</item>
+    <item type="drawable" name="community_commerce_marketplace_cover_photo">N|170798083350646|60|60|120</item>
+    <item type="drawable" name="down_groups_sort_arrow">R|GPZIlwKWMhWT0aQAAAAAAACmJ0BJbnsvAAAD|f44ce60|18|18|120</item>
+    <item type="drawable" name="edit_text_view_trash_grey">R|GKR_OAJ2Qc5yFXsAAAAAAAAaRi1NbnsvAAAD||14|19|120</item>
+    <item type="drawable" name="fastscroll_thumb_default">R|GOl8OQJfUSWUzsYHAAAAAAAei1sSbnsvAAAD||22|39|120</item>
+    <item type="drawable" name="fastscroll_thumb_pressed">R|GC50PQKMuGgfwtUAAAAAAADukCYYbnsvAAAD||22|39|120</item>
+    <item type="drawable" name="groups_poghero">N|865390396906956|360|120|120</item>
+    <item type="drawable" name="ic_add_white">R|GAsWXAHX7yUXMG0HAAAAAAAFtGQObnsvAAAD||7|7|120</item>
+    <item type="drawable" name="interactive_video_formats_assets_onboardinglandingpagelogo">N|517469238680211|243|198|120</item>
+    <item type="drawable" name="interactive_video_formats_assets_tipdialoglogo">N|292853001547676|198|54|120</item>
+    <item type="drawable" name="latest_activity_sort_icon">R|GBUtmQLYl9wzf58CAAAAAAATUYQnbnsvAAAD|3f196a1|30|30|120</item>
+    <item type="drawable" name="nux_confetti">R|GLa1VAI7yCj5GZ4BAAAAAAAk7mhsbnsvAAAD||270|66|120</item>
+    <item type="drawable" name="onavo_illustrations_aprotect_fb4a_bookmark_interstitial">N|613997482265506|381|225|120</item>
+    <item type="drawable" name="orca_chat_close_base">R|GPNAOgJFSkgk2dsAAAAAAAAswv9wbnsvAAAD||83|83|120</item>
+    <item type="drawable" name="orca_chat_nub">R|GDAHOgLe4qsifhQBAAAAAAArGtIubnsvAAAD||22|9|120</item>
+    <item type="drawable" name="puppals_success">R|GOQCOwIgQ2jSQ7cGAAAAAACZhJsvbnsvAAAD||150|157|120</item>
+    <item type="drawable" name="puppals_welcome">R|GBuIOgJtCygfcrsAAAAAAAB9gTUCbnsvAAAD||150|132|120</item>
+    <item type="drawable" name="recently_visited_sort_icon">R|GL7DmAIwvz8LbSIBAAAAAAAuk5lhbnsvAAAD|79c3285|30|30|120</item>
+    <item type="drawable" name="sticker_hot_like_large">R|GKfDOQL21ChMro4BAAAAAACbNE5KbnsvAAAD||112|112|120</item>
+    <item type="drawable" name="sticker_hot_like_medium">R|GEI9VQKf2L8QL3QHAAAAAAAF518abnsvAAAD||63|63|120</item>
+    <item type="drawable" name="sticker_hot_like_small">R|GI_ROQIRO1VEsIsBAAAAAAAWRSVYbnsvAAAD||27|27|120</item>
+    <item type="drawable" name="sticker_m4_hot_like_large">R|GCyDOQLGJdpfds8EAAAAAAB2f48WbnsvAAAD||112|112|120</item>
+    <item type="drawable" name="sticker_m4_hot_like_medium">R|GHpNGgJo-P-_hKQBAAAAAADZdCgcbnsvAAAD||63|63|120</item>
+    <item type="drawable" name="sticker_m4_hot_like_small">R|GCpqOQKUdTby1X0BAAAAAAB0QQlibnsvAAAD||27|27|120</item>
+</resources>

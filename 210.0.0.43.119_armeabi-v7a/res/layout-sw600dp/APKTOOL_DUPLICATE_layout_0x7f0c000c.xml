@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:theme="@style2/APKTOOL_DUPLICATE_style2_0x7f1a0612" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" class="android.support.design.widget.Snackbar$SnackbarLayout" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1a06d2"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

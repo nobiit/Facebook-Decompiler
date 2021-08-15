@@ -1,0 +1,6 @@
+.id cardio
+.requires dex
+.locators
+.name_based_locators
+.locator_id 2
+cardio-1.dex.jar.xzs.tmp~ d9cd48b339ecf7435f922c6834bae5cb34b2adba store0436.dex01.Canary

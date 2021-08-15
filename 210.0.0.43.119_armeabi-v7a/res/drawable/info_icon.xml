@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150016" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150016" android:drawable="@drawable/place_card_info" />
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/APKTOOL_DUPLICATE_color_0x7f06005c" />
+            <size android:height="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150016" android:width="@dimen2/APKTOOL_DUPLICATE_dimen2_0x7f150016" />
+        </shape>
+    </item>
+</layer-list>

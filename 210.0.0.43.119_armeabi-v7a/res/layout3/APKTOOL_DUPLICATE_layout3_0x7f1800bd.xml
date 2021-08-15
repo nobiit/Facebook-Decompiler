@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0928f6" android:background="@color/APKTOOL_DUPLICATE_color_0x7f060256" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0928fc" android:padding="12.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <X.2Wv android:id="@id/APKTOOL_DUPLICATE_id_0x7f0928f9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/fb_ic_bell_null_filled_20" android:layout_marginEnd="12.0dip" fb:glyphColor="@color/APKTOOL_DUPLICATE_color_0x7f06019f" />
+        <X.15L android:textSize="14.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06019f" android:gravity="start" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0928fb" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="65.0dip" android:text="@null" android:layout_weight="1.0" android:layout_marginEnd="65.0dip" fb:fbFontFamily="APKTOOL_DUPLICATE_id_0x7f0923ce" fb:fbFontWeight="APKTOOL_DUPLICATE_id_0x7f09184b" />
+        <X.7JT android:id="@id/APKTOOL_DUPLICATE_id_0x7f0928fa" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style2/APKTOOL_DUPLICATE_style2_0x7f1a074e" />
+    </LinearLayout>
+</LinearLayout>

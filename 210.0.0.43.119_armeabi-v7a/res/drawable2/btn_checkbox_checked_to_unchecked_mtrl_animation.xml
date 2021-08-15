@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable2/btn_checkbox_checked_mtrl"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="icon_null" android:animation="@anim/APKTOOL_DUPLICATE_anim_0x7f01001d" />
+    <target android:name="check_path_merged" android:animation="@anim/APKTOOL_DUPLICATE_anim_0x7f01001c" />
+    <target android:name="box_inner_merged" android:animation="@anim/APKTOOL_DUPLICATE_anim_0x7f01001b" />
+</animated-vector>

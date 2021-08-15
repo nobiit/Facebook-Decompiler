@@ -1,0 +1,6 @@
+.id groupseducation
+.requires dex
+.locators
+.name_based_locators
+.locator_id 7
+groupseducation-1.dex.jar.xzs.tmp~ ad19188beb7cad900966d82f880978f4efcafde3 store5c54.dex01.Canary
